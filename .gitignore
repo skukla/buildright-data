@@ -1,0 +1,25 @@
+# Note: This data repository commits BOTH definitions and generated artifacts
+# Only ignore temporary/local files
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+

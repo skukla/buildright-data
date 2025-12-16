@@ -1,0 +1,32 @@
+[
+    {
+        "customer_group": {
+            "code": "US-Retail",
+            "tax_class_id": 3
+        }
+    },
+    {
+        "customer_group": {
+            "code": "Retail-Registered",
+            "tax_class_id": 3
+        }
+    },
+    {
+        "customer_group": {
+            "code": "Trade-Professional",
+            "tax_class_id": 3
+        }
+    },
+    {
+        "customer_group": {
+            "code": "Production-Builder",
+            "tax_class_id": 3
+        }
+    },
+    {
+        "customer_group": {
+            "code": "Wholesale-Reseller",
+            "tax_class_id": 3
+        }
+    }
+]

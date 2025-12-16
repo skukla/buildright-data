@@ -1,0 +1,11 @@
+{
+  "name": "BuildRight",
+  "displayName": "BuildRight Demo",
+  "identifier": "buildright",
+  "websiteCode": "buildright",
+  "storeCode": "buildright_store",
+  "storeViewCode": "buildright_us",
+  "rootCategoryName": "BuildRight Catalog",
+  "attributePrefix": "br_",
+  "customerAttributePrefix": "aco_"
+}

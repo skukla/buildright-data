@@ -1,0 +1,2556 @@
+[
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_product_category",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": 1,
+            "is_unique": "0",
+            "default_frontend_label": "Product Category",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": 1,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": 1,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Structural Materials",
+                    "value": "Structural Materials",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Framing & Insulation",
+                    "value": "Framing & Insulation",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Windows & Doors",
+                    "value": "Windows & Doors",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Fasteners & Hardware",
+                    "value": "Fasteners & Hardware",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Safety Equipment",
+                    "value": "Safety Equipment",
+                    "sort_order": 4,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_brand",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Brand",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": 1,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": 1,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "BuildRight Pro",
+                    "value": "BuildRight Pro",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "StructureMaster",
+                    "value": "StructureMaster",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "ProFrame",
+                    "value": "ProFrame",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "SafeGuard",
+                    "value": "SafeGuard",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "FastenPro",
+                    "value": "FastenPro",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "DuraBuilt",
+                    "value": "DuraBuilt",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "ToughGrip",
+                    "value": "ToughGrip",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "MaxStrength",
+                    "value": "MaxStrength",
+                    "sort_order": 7,
+                    "is_default": false
+                },
+                {
+                    "label": "PremiumBuild",
+                    "value": "PremiumBuild",
+                    "sort_order": 8,
+                    "is_default": false
+                },
+                {
+                    "label": "ReliaBuild",
+                    "value": "ReliaBuild",
+                    "sort_order": 9,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_unit_of_measure",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": 1,
+            "is_unique": "0",
+            "default_frontend_label": "Unit of Measure",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Each",
+                    "value": "Each",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Linear Foot",
+                    "value": "Linear Foot",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Square Foot",
+                    "value": "Square Foot",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Box",
+                    "value": "Box",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Bundle",
+                    "value": "Bundle",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Pallet",
+                    "value": "Pallet",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "Bag",
+                    "value": "Bag",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "Roll",
+                    "value": "Roll",
+                    "sort_order": 7,
+                    "is_default": false
+                },
+                {
+                    "label": "Pair",
+                    "value": "Pair",
+                    "sort_order": 8,
+                    "is_default": false
+                },
+                {
+                    "label": "Sheet",
+                    "value": "Sheet",
+                    "sort_order": 9,
+                    "is_default": false
+                },
+                {
+                    "label": "Gallon",
+                    "value": "Gallon",
+                    "sort_order": 10,
+                    "is_default": false
+                },
+                {
+                    "label": "Case",
+                    "value": "Case",
+                    "sort_order": 11,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_project_types",
+            "frontend_input": "multiselect",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Project Types",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "New Construction",
+                    "value": "New Construction",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Remodel/Renovation",
+                    "value": "Remodel/Renovation",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Repair/Maintenance",
+                    "value": "Repair/Maintenance",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Restoration",
+                    "value": "Restoration",
+                    "sort_order": 3,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_lumber_species",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Lumber Species",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Southern Yellow Pine (SYP)",
+                    "value": "Southern Yellow Pine (SYP)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Spruce-Pine-Fir (SPF)",
+                    "value": "Spruce-Pine-Fir (SPF)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Douglas Fir-Larch (DF-L)",
+                    "value": "Douglas Fir-Larch (DF-L)",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Hem-Fir",
+                    "value": "Hem-Fir",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Western Red Cedar",
+                    "value": "Western Red Cedar",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Redwood",
+                    "value": "Redwood",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_lumber_grade",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Lumber Grade",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": 1,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Select Structural",
+                    "value": "Select Structural",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "No. 1",
+                    "value": "No. 1",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "No. 2",
+                    "value": "No. 2",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "No. 3",
+                    "value": "No. 3",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Stud",
+                    "value": "Stud",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Utility",
+                    "value": "Utility",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "Construction",
+                    "value": "Construction",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "Standard",
+                    "value": "Standard",
+                    "sort_order": 7,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_lumber_treatment",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Lumber Treatment",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Kiln-Dried (KD)",
+                    "value": "Kiln-Dried (KD)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Green (Unseasoned)",
+                    "value": "Green (Unseasoned)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Pressure-Treated (ACA)",
+                    "value": "Pressure-Treated (ACA)",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Pressure-Treated (ACQ)",
+                    "value": "Pressure-Treated (ACQ)",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Pressure-Treated (CA-C)",
+                    "value": "Pressure-Treated (CA-C)",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Fire-Retardant Treated",
+                    "value": "Fire-Retardant Treated",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_lumber_certification",
+            "frontend_input": "multiselect",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Lumber Certification",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "FSC Certified",
+                    "value": "FSC Certified",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "FSC Mix",
+                    "value": "FSC Mix",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "SFI Certified",
+                    "value": "SFI Certified",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "PEFC Certified",
+                    "value": "PEFC Certified",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "No Certification",
+                    "value": "No Certification",
+                    "sort_order": 4,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_drywall_thickness",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Drywall Thickness",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "1/4\"",
+                    "value": "1/4\"",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "3/8\"",
+                    "value": "3/8\"",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "1/2\"",
+                    "value": "1/2\"",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "5/8\"",
+                    "value": "5/8\"",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "3/4\"",
+                    "value": "3/4\"",
+                    "sort_order": 4,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_drywall_product_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Drywall Product Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Regular Gypsum",
+                    "value": "Regular Gypsum",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Moisture-Resistant (MR)",
+                    "value": "Moisture-Resistant (MR)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Mold-Resistant",
+                    "value": "Mold-Resistant",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Fire-Rated",
+                    "value": "Fire-Rated",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Sound-Dampening",
+                    "value": "Sound-Dampening",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Impact/Abuse-Resistant",
+                    "value": "Impact/Abuse-Resistant",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_drywall_fire_rating",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Drywall Fire Rating",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Non-Rated",
+                    "value": "Non-Rated",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Type X (1-hour)",
+                    "value": "Type X (1-hour)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Type C (Enhanced)",
+                    "value": "Type C (Enhanced)",
+                    "sort_order": 2,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_drywall_edge_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Drywall Edge Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Tapered",
+                    "value": "Tapered",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Square",
+                    "value": "Square",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Beveled",
+                    "value": "Beveled",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Tongue & Groove",
+                    "value": "Tongue & Groove",
+                    "sort_order": 3,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_window_material",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Window Frame Material",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Vinyl",
+                    "value": "Vinyl",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Wood",
+                    "value": "Wood",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Aluminum",
+                    "value": "Aluminum",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Fiberglass",
+                    "value": "Fiberglass",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Composite",
+                    "value": "Composite",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Clad Wood",
+                    "value": "Clad Wood",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_window_operation_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Window Operation Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Single-Hung",
+                    "value": "Single-Hung",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Double-Hung",
+                    "value": "Double-Hung",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Casement",
+                    "value": "Casement",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Awning",
+                    "value": "Awning",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Sliding",
+                    "value": "Sliding",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Fixed/Picture",
+                    "value": "Fixed/Picture",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "Bay",
+                    "value": "Bay",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "Bow",
+                    "value": "Bow",
+                    "sort_order": 7,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_window_glazing_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Window Glazing",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Single Pane",
+                    "value": "Single Pane",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Double Pane",
+                    "value": "Double Pane",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Triple Pane",
+                    "value": "Triple Pane",
+                    "sort_order": 2,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_window_energy_star",
+            "frontend_input": "boolean",
+            "backend_type": "int",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Energy Star Certified",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "options": []
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_door_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Door Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": 1,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Entry Door",
+                    "value": "Entry Door",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Interior Door",
+                    "value": "Interior Door",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Patio Door",
+                    "value": "Patio Door",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "French Door",
+                    "value": "French Door",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Storm Door",
+                    "value": "Storm Door",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Bi-Fold Door",
+                    "value": "Bi-Fold Door",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_door_material",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Door Material",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Wood",
+                    "value": "Wood",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Steel",
+                    "value": "Steel",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Fiberglass",
+                    "value": "Fiberglass",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Aluminum",
+                    "value": "Aluminum",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Vinyl",
+                    "value": "Vinyl",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Composite",
+                    "value": "Composite",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_door_core_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Door Core Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Solid Wood",
+                    "value": "Solid Wood",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Solid Core",
+                    "value": "Solid Core",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Hollow Core",
+                    "value": "Hollow Core",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Foam Insulated",
+                    "value": "Foam Insulated",
+                    "sort_order": 3,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fastener_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Fastener Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Nail",
+                    "value": "Nail",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Screw",
+                    "value": "Screw",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Bolt",
+                    "value": "Bolt",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Anchor",
+                    "value": "Anchor",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Staple",
+                    "value": "Staple",
+                    "sort_order": 4,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fastener_subtype",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Fastener Subtype",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Common Nail",
+                    "value": "Common Nail",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Finish Nail",
+                    "value": "Finish Nail",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Brad Nail",
+                    "value": "Brad Nail",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Roofing Nail",
+                    "value": "Roofing Nail",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Framing Nail",
+                    "value": "Framing Nail",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Wood Screw",
+                    "value": "Wood Screw",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "Drywall Screw",
+                    "value": "Drywall Screw",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "Deck Screw",
+                    "value": "Deck Screw",
+                    "sort_order": 7,
+                    "is_default": false
+                },
+                {
+                    "label": "Self-Drilling Screw",
+                    "value": "Self-Drilling Screw",
+                    "sort_order": 8,
+                    "is_default": false
+                },
+                {
+                    "label": "Lag Screw",
+                    "value": "Lag Screw",
+                    "sort_order": 9,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fastener_material",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Fastener Material",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Carbon Steel",
+                    "value": "Carbon Steel",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Stainless Steel 304",
+                    "value": "Stainless Steel 304",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Stainless Steel 316 (Marine)",
+                    "value": "Stainless Steel 316 (Marine)",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Brass",
+                    "value": "Brass",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Aluminum",
+                    "value": "Aluminum",
+                    "sort_order": 4,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fastener_coating",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Fastener Coating/Finish",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Bright (Uncoated)",
+                    "value": "Bright (Uncoated)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Zinc Plated",
+                    "value": "Zinc Plated",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Galvanized",
+                    "value": "Galvanized",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Hot-Dip Galvanized",
+                    "value": "Hot-Dip Galvanized",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Ceramic Coated",
+                    "value": "Ceramic Coated",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Polymer Coated",
+                    "value": "Polymer Coated",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fastener_head_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Fastener Head Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Flat/Countersunk",
+                    "value": "Flat/Countersunk",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Pan",
+                    "value": "Pan",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Round",
+                    "value": "Round",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Hex",
+                    "value": "Hex",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Bugle",
+                    "value": "Bugle",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Truss",
+                    "value": "Truss",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fastener_drive_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Fastener Drive Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Phillips",
+                    "value": "Phillips",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Square (Robertson)",
+                    "value": "Square (Robertson)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Torx (Star)",
+                    "value": "Torx (Star)",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Hex",
+                    "value": "Hex",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Slotted",
+                    "value": "Slotted",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Combination",
+                    "value": "Combination",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_category",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "PPE Category",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Head Protection",
+                    "value": "Head Protection",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Eye Protection",
+                    "value": "Eye Protection",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Hearing Protection",
+                    "value": "Hearing Protection",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Hand Protection",
+                    "value": "Hand Protection",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "Respiratory Protection",
+                    "value": "Respiratory Protection",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "Fall Protection",
+                    "value": "Fall Protection",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "High-Visibility Apparel",
+                    "value": "High-Visibility Apparel",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "Foot Protection",
+                    "value": "Foot Protection",
+                    "sort_order": 7,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_ansi_standard",
+            "frontend_input": "multiselect",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "ANSI Standard",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "ANSI Z89.1 (Head)",
+                    "value": "ANSI Z89.1 (Head)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "ANSI Z87.1 (Eye)",
+                    "value": "ANSI Z87.1 (Eye)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "ANSI S3.19 (Hearing)",
+                    "value": "ANSI S3.19 (Hearing)",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "ANSI/ISEA 105 (Hand)",
+                    "value": "ANSI/ISEA 105 (Hand)",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "ANSI Z359 (Fall)",
+                    "value": "ANSI Z359 (Fall)",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "ANSI/ISEA 107 (Hi-Vis)",
+                    "value": "ANSI/ISEA 107 (Hi-Vis)",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "ASTM F2413 (Foot)",
+                    "value": "ASTM F2413 (Foot)",
+                    "sort_order": 6,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_hard_hat_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Hard Hat Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Type 1 (Top Impact)",
+                    "value": "Type 1 (Top Impact)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Type 2 (Top & Lateral)",
+                    "value": "Type 2 (Top & Lateral)",
+                    "sort_order": 1,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_hard_hat_class",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Hard Hat Electrical Class",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Class E (Electrical - 20kV)",
+                    "value": "Class E (Electrical - 20kV)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Class G (General - 2.2kV)",
+                    "value": "Class G (General - 2.2kV)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Class C (Conductive)",
+                    "value": "Class C (Conductive)",
+                    "sort_order": 2,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_nrr_rating",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "NRR Rating (dB)",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "20 dB",
+                    "value": "20 dB",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "22 dB",
+                    "value": "22 dB",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "25 dB",
+                    "value": "25 dB",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "27 dB",
+                    "value": "27 dB",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "29 dB",
+                    "value": "29 dB",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "30 dB",
+                    "value": "30 dB",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "31 dB",
+                    "value": "31 dB",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "32 dB",
+                    "value": "32 dB",
+                    "sort_order": 7,
+                    "is_default": false
+                },
+                {
+                    "label": "33 dB",
+                    "value": "33 dB",
+                    "sort_order": 8,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_cut_resistance",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Cut Resistance Level",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "A1 (200-499g)",
+                    "value": "A1 (200-499g)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "A2 (500-999g)",
+                    "value": "A2 (500-999g)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "A3 (1000-1499g)",
+                    "value": "A3 (1000-1499g)",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "A4 (1500-2199g)",
+                    "value": "A4 (1500-2199g)",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "A5 (2200-2999g)",
+                    "value": "A5 (2200-2999g)",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "A6 (3000-3999g)",
+                    "value": "A6 (3000-3999g)",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "A7 (4000-4999g)",
+                    "value": "A7 (4000-4999g)",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "A8 (5000-5999g)",
+                    "value": "A8 (5000-5999g)",
+                    "sort_order": 7,
+                    "is_default": false
+                },
+                {
+                    "label": "A9 (6000+g)",
+                    "value": "A9 (6000+g)",
+                    "sort_order": 8,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_niosh_rating",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "NIOSH Filter Rating",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "N95 (95% filtration)",
+                    "value": "N95 (95% filtration)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "N99 (99% filtration)",
+                    "value": "N99 (99% filtration)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "N100 (99.97% filtration)",
+                    "value": "N100 (99.97% filtration)",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "P95 (Oil-proof, 95%)",
+                    "value": "P95 (Oil-proof, 95%)",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "P99 (Oil-proof, 99%)",
+                    "value": "P99 (Oil-proof, 99%)",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "P100 (Oil-proof, 99.97%)",
+                    "value": "P100 (Oil-proof, 99.97%)",
+                    "sort_order": 5,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_hi_vis_class",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "High-Visibility Class",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Class 1 (Minimal)",
+                    "value": "Class 1 (Minimal)",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Class 2 (Medium)",
+                    "value": "Class 2 (Medium)",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Class 3 (High)",
+                    "value": "Class 3 (High)",
+                    "sort_order": 2,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_ppe_size",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "PPE Size",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "XS",
+                    "value": "XS",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "S",
+                    "value": "S",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "M",
+                    "value": "M",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "L",
+                    "value": "L",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "XL",
+                    "value": "XL",
+                    "sort_order": 4,
+                    "is_default": false
+                },
+                {
+                    "label": "XXL",
+                    "value": "XXL",
+                    "sort_order": 5,
+                    "is_default": false
+                },
+                {
+                    "label": "3XL",
+                    "value": "3XL",
+                    "sort_order": 6,
+                    "is_default": false
+                },
+                {
+                    "label": "Universal",
+                    "value": "Universal",
+                    "sort_order": 7,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_sheathing_location",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Sheathing Location",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Wall",
+                    "value": "Wall",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Roof",
+                    "value": "Roof",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Subfloor",
+                    "value": "Subfloor",
+                    "sort_order": 2,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_underlayment_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Underlayment Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "15# Felt",
+                    "value": "15# Felt",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "30# Felt",
+                    "value": "30# Felt",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Synthetic Underlayment",
+                    "value": "Synthetic Underlayment",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Ice & Water Shield",
+                    "value": "Ice & Water Shield",
+                    "sort_order": 3,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_insulation_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Insulation Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Fiberglass Batt",
+                    "value": "Fiberglass Batt",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Mineral Wool",
+                    "value": "Mineral Wool",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Spray Foam",
+                    "value": "Spray Foam",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Cellulose",
+                    "value": "Cellulose",
+                    "sort_order": 3,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_insulation_r_value",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Insulation R-Value",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "R-13",
+                    "value": "R-13",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "R-15",
+                    "value": "R-15",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "R-19",
+                    "value": "R-19",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "R-21",
+                    "value": "R-21",
+                    "sort_order": 3,
+                    "is_default": false
+                },
+                {
+                    "label": "R-30",
+                    "value": "R-30",
+                    "sort_order": 4,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_light_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Light Fixture Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Recessed",
+                    "value": "Recessed",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Flush Mount",
+                    "value": "Flush Mount",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Pendant",
+                    "value": "Pendant",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Chandelier",
+                    "value": "Chandelier",
+                    "sort_order": 3,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_light_technology",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Light Technology",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "LED",
+                    "value": "LED",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "CFL",
+                    "value": "CFL",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Incandescent",
+                    "value": "Incandescent",
+                    "sort_order": 2,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fixture_type",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Plumbing Fixture Type",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Faucet",
+                    "value": "Faucet",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Sink",
+                    "value": "Sink",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Toilet",
+                    "value": "Toilet",
+                    "sort_order": 2,
+                    "is_default": false
+                },
+                {
+                    "label": "Shower",
+                    "value": "Shower",
+                    "sort_order": 3,
+                    "is_default": false
+                }
+            ]
+        }
+    },
+    {
+        "attribute": {
+            "entity_type_id": 4,
+            "attribute_code": "br_fixture_location",
+            "frontend_input": "select",
+            "backend_type": "varchar",
+            "scope": "global",
+            "is_required": false,
+            "is_unique": "0",
+            "default_frontend_label": "Fixture Location",
+            "is_html_allowed_on_front": false,
+            "used_for_sort_by": "0",
+            "is_filterable": true,
+            "is_filterable_in_search": true,
+            "is_searchable": "1",
+            "is_visible_in_advanced_search": "1",
+            "is_comparable": true,
+            "is_used_for_promo_rules": true,
+            "is_visible_on_front": 1,
+            "used_in_product_listing": "0",
+            "position": 0,
+            "apply_to": [],
+            "is_user_defined": true,
+            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
+            "options": [
+                {
+                    "label": "Kitchen",
+                    "value": "Kitchen",
+                    "sort_order": 0,
+                    "is_default": true
+                },
+                {
+                    "label": "Bathroom",
+                    "value": "Bathroom",
+                    "sort_order": 1,
+                    "is_default": false
+                },
+                {
+                    "label": "Utility",
+                    "value": "Utility",
+                    "sort_order": 2,
+                    "is_default": false
+                }
+            ]
+        }
+    }
+]

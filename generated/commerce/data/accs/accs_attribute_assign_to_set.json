@@ -1,0 +1,422 @@
+[
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_product_category",
+        "sortOrder": 10,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_product_category",
+        "sort_order": 10
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_brand",
+        "sortOrder": 11,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_brand",
+        "sort_order": 11
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_unit_of_measure",
+        "sortOrder": 12,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_unit_of_measure",
+        "sort_order": 12
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_project_types",
+        "sortOrder": 13,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_project_types",
+        "sort_order": 13
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_lumber_species",
+        "sortOrder": 14,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_lumber_species",
+        "sort_order": 14
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_lumber_grade",
+        "sortOrder": 15,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_lumber_grade",
+        "sort_order": 15
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_lumber_treatment",
+        "sortOrder": 16,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_lumber_treatment",
+        "sort_order": 16
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_lumber_certification",
+        "sortOrder": 17,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_lumber_certification",
+        "sort_order": 17
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_drywall_thickness",
+        "sortOrder": 18,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_drywall_thickness",
+        "sort_order": 18
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_drywall_product_type",
+        "sortOrder": 19,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_drywall_product_type",
+        "sort_order": 19
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_drywall_fire_rating",
+        "sortOrder": 20,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_drywall_fire_rating",
+        "sort_order": 20
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_drywall_edge_type",
+        "sortOrder": 21,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_drywall_edge_type",
+        "sort_order": 21
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_window_material",
+        "sortOrder": 22,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_window_material",
+        "sort_order": 22
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_window_operation_type",
+        "sortOrder": 23,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_window_operation_type",
+        "sort_order": 23
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_window_glazing_type",
+        "sortOrder": 24,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_window_glazing_type",
+        "sort_order": 24
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_window_energy_star",
+        "sortOrder": 25,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_window_energy_star",
+        "sort_order": 25
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_door_type",
+        "sortOrder": 26,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_door_type",
+        "sort_order": 26
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_door_material",
+        "sortOrder": 27,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_door_material",
+        "sort_order": 27
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_door_core_type",
+        "sortOrder": 28,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_door_core_type",
+        "sort_order": 28
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fastener_type",
+        "sortOrder": 29,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fastener_type",
+        "sort_order": 29
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fastener_subtype",
+        "sortOrder": 30,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fastener_subtype",
+        "sort_order": 30
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fastener_material",
+        "sortOrder": 31,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fastener_material",
+        "sort_order": 31
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fastener_coating",
+        "sortOrder": 32,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fastener_coating",
+        "sort_order": 32
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fastener_head_type",
+        "sortOrder": 33,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fastener_head_type",
+        "sort_order": 33
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fastener_drive_type",
+        "sortOrder": 34,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fastener_drive_type",
+        "sort_order": 34
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_category",
+        "sortOrder": 35,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_category",
+        "sort_order": 35
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_ansi_standard",
+        "sortOrder": 36,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_ansi_standard",
+        "sort_order": 36
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_hard_hat_type",
+        "sortOrder": 37,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_hard_hat_type",
+        "sort_order": 37
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_hard_hat_class",
+        "sortOrder": 38,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_hard_hat_class",
+        "sort_order": 38
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_nrr_rating",
+        "sortOrder": 39,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_nrr_rating",
+        "sort_order": 39
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_cut_resistance",
+        "sortOrder": 40,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_cut_resistance",
+        "sort_order": 40
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_niosh_rating",
+        "sortOrder": 41,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_niosh_rating",
+        "sort_order": 41
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_hi_vis_class",
+        "sortOrder": 42,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_hi_vis_class",
+        "sort_order": 42
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_ppe_size",
+        "sortOrder": 43,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_ppe_size",
+        "sort_order": 43
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_sheathing_location",
+        "sortOrder": 44,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_sheathing_location",
+        "sort_order": 44
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_underlayment_type",
+        "sortOrder": 45,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_underlayment_type",
+        "sort_order": 45
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_insulation_type",
+        "sortOrder": 46,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_insulation_type",
+        "sort_order": 46
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_insulation_r_value",
+        "sortOrder": 47,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_insulation_r_value",
+        "sort_order": 47
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_light_type",
+        "sortOrder": 48,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_light_type",
+        "sort_order": 48
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_light_technology",
+        "sortOrder": 49,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_light_technology",
+        "sort_order": 49
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fixture_type",
+        "sortOrder": 50,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fixture_type",
+        "sort_order": 50
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_fixture_location",
+        "sortOrder": 51,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_fixture_location",
+        "sort_order": 51
+    }
+]
