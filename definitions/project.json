@@ -7,5 +7,15 @@
   "storeViewCode": "buildright_us",
   "rootCategoryName": "BuildRight Catalog",
   "attributePrefix": "br_",
-  "customerAttributePrefix": "aco_"
+  "customerAttributePrefix": "aco_",
+  "aco": {
+    "locale": "en-US",
+    "defaultProductStatus": "ENABLED",
+    "defaultVisibility": ["CATALOG", "SEARCH"],
+    "defaultCategoryActive": true
+  },
+  "commerce": {
+    "defaultActive": true,
+    "defaultIncludeInMenu": true
+  }
 }
