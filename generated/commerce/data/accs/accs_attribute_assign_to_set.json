@@ -418,5 +418,225 @@
         "attribute_group_name": "Product Details",
         "attribute_code": "br_fixture_location",
         "sort_order": 51
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_construction_phase",
+        "sortOrder": 52,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_construction_phase",
+        "sort_order": 52
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_quality_tier",
+        "sortOrder": 53,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_quality_tier",
+        "sort_order": 53
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_paint_type",
+        "sortOrder": 54,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_paint_type",
+        "sort_order": 54
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_paint_finish",
+        "sortOrder": 55,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_paint_finish",
+        "sort_order": 55
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_concrete_type",
+        "sortOrder": 56,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_concrete_type",
+        "sort_order": 56
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_concrete_psi",
+        "sortOrder": 57,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_concrete_psi",
+        "sort_order": 57
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_roofing_material",
+        "sortOrder": 58,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_roofing_material",
+        "sort_order": 58
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_roofing_style",
+        "sortOrder": 59,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_roofing_style",
+        "sort_order": 59
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_siding_material",
+        "sortOrder": 60,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_siding_material",
+        "sort_order": 60
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_flooring_material",
+        "sortOrder": 61,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_flooring_material",
+        "sort_order": 61
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_lumber_dimension",
+        "sortOrder": 62,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_lumber_dimension",
+        "sort_order": 62
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_lumber_length",
+        "sortOrder": 63,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_lumber_length",
+        "sort_order": 63
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_deck_material_type",
+        "sortOrder": 64,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_deck_material_type",
+        "sort_order": 64
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_deck_compatible",
+        "sortOrder": 65,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_deck_compatible",
+        "sort_order": 65
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_deck_railing_compatible",
+        "sortOrder": 66,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_deck_railing_compatible",
+        "sort_order": 66
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_deck_shape",
+        "sortOrder": 67,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_deck_shape",
+        "sort_order": 67
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_room_category",
+        "sortOrder": 68,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_room_category",
+        "sort_order": 68
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_package_tier",
+        "sortOrder": 69,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_package_tier",
+        "sort_order": 69
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_store_velocity_category",
+        "sortOrder": 70,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_store_velocity_category",
+        "sort_order": 70
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_restock_priority",
+        "sortOrder": 71,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_restock_priority",
+        "sort_order": 71
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_recommended_restock_quantity",
+        "sortOrder": 72,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_recommended_restock_quantity",
+        "sort_order": 72
+    },
+    {
+        "attributeSetId": "Building Materials",
+        "attributeGroupId": 7,
+        "attributeCode": "br_typical_days_supply",
+        "sortOrder": 73,
+        "attribute_set_name": "Building Materials",
+        "attribute_group_name": "Product Details",
+        "attribute_code": "br_typical_days_supply",
+        "sort_order": 73
     }
 ]

@@ -1546,5 +1546,615 @@
         "label": "Utility"
       }
     ]
+  },
+  {
+    "attributeId": "br_construction_phase",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Construction Phase",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "foundation",
+        "label": "Foundation"
+      },
+      {
+        "value": "framing",
+        "label": "Framing"
+      },
+      {
+        "value": "rough-in",
+        "label": "Rough-In"
+      },
+      {
+        "value": "insulation",
+        "label": "Insulation"
+      },
+      {
+        "value": "drywall",
+        "label": "Drywall"
+      },
+      {
+        "value": "finish",
+        "label": "Finish"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_quality_tier",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Quality Tier",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "economy",
+        "label": "Economy"
+      },
+      {
+        "value": "standard",
+        "label": "Standard"
+      },
+      {
+        "value": "premium",
+        "label": "Premium"
+      },
+      {
+        "value": "professional",
+        "label": "Professional"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_paint_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Paint Type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "latex",
+        "label": "Latex"
+      },
+      {
+        "value": "oil-based",
+        "label": "Oil-Based"
+      },
+      {
+        "value": "acrylic",
+        "label": "Acrylic"
+      },
+      {
+        "value": "enamel",
+        "label": "Enamel"
+      },
+      {
+        "value": "primer",
+        "label": "Primer"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_paint_finish",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Paint Finish",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "flat-matte",
+        "label": "Flat/Matte"
+      },
+      {
+        "value": "eggshell",
+        "label": "Eggshell"
+      },
+      {
+        "value": "satin",
+        "label": "Satin"
+      },
+      {
+        "value": "semi-gloss",
+        "label": "Semi-Gloss"
+      },
+      {
+        "value": "gloss",
+        "label": "Gloss"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_concrete_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Concrete Type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "ready-mix",
+        "label": "Ready-Mix"
+      },
+      {
+        "value": "high-strength",
+        "label": "High-Strength"
+      },
+      {
+        "value": "fiber-reinforced",
+        "label": "Fiber-Reinforced"
+      },
+      {
+        "value": "self-leveling",
+        "label": "Self-Leveling"
+      },
+      {
+        "value": "quick-set",
+        "label": "Quick-Set"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_concrete_psi",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Concrete PSI",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "2500-psi",
+        "label": "2500 PSI"
+      },
+      {
+        "value": "3000-psi",
+        "label": "3000 PSI"
+      },
+      {
+        "value": "3500-psi",
+        "label": "3500 PSI"
+      },
+      {
+        "value": "4000-psi",
+        "label": "4000 PSI"
+      },
+      {
+        "value": "5000-psi",
+        "label": "5000 PSI"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_roofing_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Roofing Material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "asphalt-shingles",
+        "label": "Asphalt Shingles"
+      },
+      {
+        "value": "metal",
+        "label": "Metal"
+      },
+      {
+        "value": "tile",
+        "label": "Tile"
+      },
+      {
+        "value": "slate",
+        "label": "Slate"
+      },
+      {
+        "value": "wood-shake",
+        "label": "Wood Shake"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_roofing_style",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Roofing Style",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "3-tab",
+        "label": "3-Tab"
+      },
+      {
+        "value": "architectural",
+        "label": "Architectural"
+      },
+      {
+        "value": "premium",
+        "label": "Premium"
+      },
+      {
+        "value": "designer",
+        "label": "Designer"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_siding_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Siding Material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "vinyl",
+        "label": "Vinyl"
+      },
+      {
+        "value": "wood",
+        "label": "Wood"
+      },
+      {
+        "value": "fiber-cement",
+        "label": "Fiber Cement"
+      },
+      {
+        "value": "metal",
+        "label": "Metal"
+      },
+      {
+        "value": "brick",
+        "label": "Brick"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_flooring_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Flooring Material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "hardwood",
+        "label": "Hardwood"
+      },
+      {
+        "value": "laminate",
+        "label": "Laminate"
+      },
+      {
+        "value": "vinyl-plank",
+        "label": "Vinyl Plank"
+      },
+      {
+        "value": "tile",
+        "label": "Tile"
+      },
+      {
+        "value": "carpet",
+        "label": "Carpet"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_lumber_dimension",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "Lumber Dimension",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_lumber_length",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "Lumber Length",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_deck_material_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Deck Material Type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "pressure-treated-wood",
+        "label": "Pressure-Treated Wood"
+      },
+      {
+        "value": "cedar",
+        "label": "Cedar"
+      },
+      {
+        "value": "composite",
+        "label": "Composite"
+      },
+      {
+        "value": "pvc",
+        "label": "PVC"
+      },
+      {
+        "value": "aluminum",
+        "label": "Aluminum"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_deck_compatible",
+    "type": "boolean",
+    "dataType": "BOOLEAN",
+    "label": "Deck Compatible",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_deck_railing_compatible",
+    "type": "boolean",
+    "dataType": "BOOLEAN",
+    "label": "Deck Railing Compatible",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_deck_shape",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Deck Board Shape",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "square-edge",
+        "label": "Square Edge"
+      },
+      {
+        "value": "grooved-edge",
+        "label": "Grooved Edge"
+      },
+      {
+        "value": "tongue-groove",
+        "label": "Tongue & Groove"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_room_category",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Room Category",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "kitchen",
+        "label": "Kitchen"
+      },
+      {
+        "value": "bathroom",
+        "label": "Bathroom"
+      },
+      {
+        "value": "living-room",
+        "label": "Living Room"
+      },
+      {
+        "value": "bedroom",
+        "label": "Bedroom"
+      },
+      {
+        "value": "garage",
+        "label": "Garage"
+      },
+      {
+        "value": "exterior",
+        "label": "Exterior"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_package_tier",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Package Tier",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "starter",
+        "label": "Starter"
+      },
+      {
+        "value": "standard",
+        "label": "Standard"
+      },
+      {
+        "value": "professional",
+        "label": "Professional"
+      },
+      {
+        "value": "complete",
+        "label": "Complete"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_store_velocity_category",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Store Velocity Category",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "fast-moving",
+        "label": "Fast-Moving"
+      },
+      {
+        "value": "medium-moving",
+        "label": "Medium-Moving"
+      },
+      {
+        "value": "slow-moving",
+        "label": "Slow-Moving"
+      },
+      {
+        "value": "seasonal",
+        "label": "Seasonal"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_restock_priority",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "Restock Priority",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "high",
+        "label": "High"
+      },
+      {
+        "value": "medium",
+        "label": "Medium"
+      },
+      {
+        "value": "low",
+        "label": "Low"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_recommended_restock_quantity",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "Recommended Restock Quantity",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_typical_days_supply",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "Typical Days Supply",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
   }
 ]

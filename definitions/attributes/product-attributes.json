@@ -774,5 +774,353 @@
       "Bathroom",
       "Utility"
     ]
+  },
+  {
+    "attributeCode": "br_construction_phase",
+    "frontendLabel": "Construction Phase",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": true,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 80,
+    "options": [
+      "Foundation",
+      "Framing",
+      "Rough-In",
+      "Insulation",
+      "Drywall",
+      "Finish"
+    ]
+  },
+  {
+    "attributeCode": "br_quality_tier",
+    "frontendLabel": "Quality Tier",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": true,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 81,
+    "options": [
+      "Economy",
+      "Standard",
+      "Premium",
+      "Professional"
+    ]
+  },
+  {
+    "attributeCode": "br_paint_type",
+    "frontendLabel": "Paint Type",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 82,
+    "options": [
+      "Latex",
+      "Oil-Based",
+      "Acrylic",
+      "Enamel",
+      "Primer"
+    ]
+  },
+  {
+    "attributeCode": "br_paint_finish",
+    "frontendLabel": "Paint Finish",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 83,
+    "options": [
+      "Flat/Matte",
+      "Eggshell",
+      "Satin",
+      "Semi-Gloss",
+      "Gloss"
+    ]
+  },
+  {
+    "attributeCode": "br_concrete_type",
+    "frontendLabel": "Concrete Type",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 84,
+    "options": [
+      "Ready-Mix",
+      "High-Strength",
+      "Fiber-Reinforced",
+      "Self-Leveling",
+      "Quick-Set"
+    ]
+  },
+  {
+    "attributeCode": "br_concrete_psi",
+    "frontendLabel": "Concrete PSI",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 85,
+    "options": [
+      "2500 PSI",
+      "3000 PSI",
+      "3500 PSI",
+      "4000 PSI",
+      "5000 PSI"
+    ]
+  },
+  {
+    "attributeCode": "br_roofing_material",
+    "frontendLabel": "Roofing Material",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 86,
+    "options": [
+      "Asphalt Shingles",
+      "Metal",
+      "Tile",
+      "Slate",
+      "Wood Shake"
+    ]
+  },
+  {
+    "attributeCode": "br_roofing_style",
+    "frontendLabel": "Roofing Style",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 87,
+    "options": [
+      "3-Tab",
+      "Architectural",
+      "Premium",
+      "Designer"
+    ]
+  },
+  {
+    "attributeCode": "br_siding_material",
+    "frontendLabel": "Siding Material",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 88,
+    "options": [
+      "Vinyl",
+      "Wood",
+      "Fiber Cement",
+      "Metal",
+      "Brick"
+    ]
+  },
+  {
+    "attributeCode": "br_flooring_material",
+    "frontendLabel": "Flooring Material",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 89,
+    "options": [
+      "Hardwood",
+      "Laminate",
+      "Vinyl Plank",
+      "Tile",
+      "Carpet"
+    ]
+  },
+  {
+    "attributeCode": "br_lumber_dimension",
+    "frontendLabel": "Lumber Dimension",
+    "frontendInput": "text",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 90
+  },
+  {
+    "attributeCode": "br_lumber_length",
+    "frontendLabel": "Lumber Length",
+    "frontendInput": "text",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 91
+  },
+  {
+    "attributeCode": "br_deck_material_type",
+    "frontendLabel": "Deck Material Type",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 92,
+    "options": [
+      "Pressure-Treated Wood",
+      "Cedar",
+      "Composite",
+      "PVC",
+      "Aluminum"
+    ]
+  },
+  {
+    "attributeCode": "br_deck_compatible",
+    "frontendLabel": "Deck Compatible",
+    "frontendInput": "boolean",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 93
+  },
+  {
+    "attributeCode": "br_deck_railing_compatible",
+    "frontendLabel": "Deck Railing Compatible",
+    "frontendInput": "boolean",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 94
+  },
+  {
+    "attributeCode": "br_deck_shape",
+    "frontendLabel": "Deck Board Shape",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 95,
+    "options": [
+      "Square Edge",
+      "Grooved Edge",
+      "Tongue & Groove"
+    ]
+  },
+  {
+    "attributeCode": "br_room_category",
+    "frontendLabel": "Room Category",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 96,
+    "options": [
+      "Kitchen",
+      "Bathroom",
+      "Living Room",
+      "Bedroom",
+      "Garage",
+      "Exterior"
+    ]
+  },
+  {
+    "attributeCode": "br_package_tier",
+    "frontendLabel": "Package Tier",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": true,
+    "sortOrder": 97,
+    "options": [
+      "Starter",
+      "Standard",
+      "Professional",
+      "Complete"
+    ]
+  },
+  {
+    "attributeCode": "br_store_velocity_category",
+    "frontendLabel": "Store Velocity Category",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": false,
+    "sortOrder": 100,
+    "options": [
+      "Fast-Moving",
+      "Medium-Moving",
+      "Slow-Moving",
+      "Seasonal"
+    ]
+  },
+  {
+    "attributeCode": "br_restock_priority",
+    "frontendLabel": "Restock Priority",
+    "frontendInput": "select",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": false,
+    "sortOrder": 101,
+    "options": [
+      "High",
+      "Medium",
+      "Low"
+    ]
+  },
+  {
+    "attributeCode": "br_recommended_restock_quantity",
+    "frontendLabel": "Recommended Restock Quantity",
+    "frontendInput": "text",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": false,
+    "sortOrder": 102
+  },
+  {
+    "attributeCode": "br_typical_days_supply",
+    "frontendLabel": "Typical Days Supply",
+    "frontendInput": "text",
+    "isRequired": false,
+    "isSearchable": false,
+    "isFilterable": false,
+    "isComparable": false,
+    "isVisibleOnFront": false,
+    "sortOrder": 103
   }
 ]
