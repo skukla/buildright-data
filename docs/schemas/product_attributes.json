@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for product_attributes data type - array of product attribute definitions",
+  "items": {
+    "type": "object",
+    "properties": {
+      "attribute": {
+        "type": "object",
+        "properties": {
+          "is_wysiwyg_enabled": { "type": "boolean" },
+          "is_html_allowed_on_front": { "type": "boolean" },
+          "used_for_sort_by": { "type": ["string", "boolean"] },
+          "is_filterable": { "type": "boolean" },
+          "is_filterable_in_search": { "type": "boolean" },
+          "is_used_in_grid": { "type": "boolean" },
+          "is_visible_in_grid": { "type": "boolean" },
+          "is_filterable_in_grid": { "type": "boolean" },
+          "apply_to": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "is_searchable": { "type": ["string", "boolean"] },
+          "is_visible_in_advanced_search": { "type": ["string", "boolean"] },
+          "is_comparable": { "type": ["string", "boolean"] },
+          "is_used_for_promo_rules": { "type": ["string", "boolean"] },
+          "is_visible_on_front": { "type": ["string", "boolean"] },
+          "used_in_product_listing": { "type": ["string", "boolean"] },
+          "is_visible": { "type": "boolean" },
+          "scope": { "type": "string" },
+          "attribute_code": { "type": "string" },
+          "frontend_input": { "type": "string" },
+          "entity_type_id": { "type": "string" },
+          "is_required": { "type": "boolean" },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "label": { "type": "string" },
+                "value": { "type": "string" },
+                "sort_order": { "type": "number" },
+                "is_default": { "type": "boolean" }
+              },
+              "required": ["label"]
+            }
+          },
+          "is_user_defined": { "type": "boolean" },
+          "default_frontend_label": { "type": "string" },
+          "frontend_labels": {
+            "type": "array",
+            "items": { "type": "object" }
+          },
+          "backend_type": { "type": "string" },
+          "source_model": { "type": "string" },
+          "backend_model": { "type": "string" },
+          "default_value": { "type": "string" },
+          "is_unique": { "type": ["string", "boolean"] },
+          "validation_rules": {
+            "type": "array",
+            "items": { "type": "object" }
+          },
+          "position": { "type": "number" }
+        },
+        "required": ["attribute_code", "frontend_input"]
+      }
+    },
+    "required": ["attribute"]
+  }
+}
+

@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for customer_groups data type - array of customer group definitions",
+  "items": {
+    "type": "object",
+    "properties": {
+      "customer_group": {
+        "type": "object",
+        "properties": {
+          "code": { "type": "string" },
+          "tax_class_id": { "type": "number" }
+        },
+        "required": ["code"]
+      }
+    },
+    "required": ["customer_group"]
+  }
+}
+

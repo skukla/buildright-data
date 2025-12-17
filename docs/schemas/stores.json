@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for stores data type - matches module-data-install stores.csv format. One row per store view.",
+  "items": {
+    "type": "object",
+    "properties": {
+      "site_code": { 
+        "type": "string", 
+        "description": "Website code. May only contain letters (a-z), numbers (0-9) or underscore (_)" 
+      },
+      "site_name": { 
+        "type": "string", 
+        "description": "Website name" 
+      },
+      "site_order": { 
+        "type": "number", 
+        "description": "Website sort order (optional, default 0)" 
+      },
+      "store_code": { 
+        "type": "string", 
+        "description": "Store code. May only contain letters (a-z), numbers (0-9) or underscore (_)" 
+      },
+      "store_name": { 
+        "type": "string", 
+        "description": "Store name" 
+      },
+      "store_root_category": { 
+        "type": "string", 
+        "description": "Root category name. Will be created if it doesn't exist" 
+      },
+      "is_default_store": { 
+        "type": "string", 
+        "enum": ["Y", "N", ""],
+        "description": "Y if this is the default store for the website" 
+      },
+      "store_view_code": { 
+        "type": "string", 
+        "description": "Store view code. May only contain letters (a-z), numbers (0-9) or underscore (_)" 
+      },
+      "view_name": { 
+        "type": "string", 
+        "description": "Store view name" 
+      },
+      "is_default_view": { 
+        "type": "string", 
+        "enum": ["Y", "N", ""],
+        "description": "Y if this is the default view for the store" 
+      },
+      "view_order": { 
+        "type": "number", 
+        "description": "Store view sort order (optional, default 0)" 
+      },
+      "view_is_active": { 
+        "type": "string", 
+        "enum": ["Y", "N", ""],
+        "description": "Y/N - whether store view is active (default N)" 
+      },
+      "host": { 
+        "type": "string", 
+        "description": "Base URL, 'subdomain', or 'subdirectory' (optional)" 
+      },
+      "theme": { 
+        "type": "string", 
+        "description": "Theme path e.g. Magento/luma (optional)" 
+      },
+      "theme_fallback": { 
+        "type": "string", 
+        "description": "Fallback theme if primary theme doesn't exist (optional)" 
+      }
+    },
+    "required": ["site_code", "store_code", "store_view_code"]
+  }
+}

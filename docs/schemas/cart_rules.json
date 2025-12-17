@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for cart_rules data type - array of cart/price rule definitions",
+  "items": {
+    "type": "object",
+    "properties": {
+      "rule": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "website_ids": {
+            "type": "array",
+            "items": { "type": "number" }
+          },
+          "customer_group_ids": {
+            "type": "array",
+            "items": { "type": ["string", "number"] }
+          },
+          "is_active": { "type": "boolean" },
+          "uses_per_customer": { "type": "number" },
+          "store_labels": {
+            "type": "array",
+            "items": { "type": "object" }
+          },
+          "condition": { "type": "object" },
+          "action_condition": { "type": "object" },
+          "discount_amount": { "type": "number" },
+          "discount_step": { "type": "number" },
+          "apply_to_shipping": { "type": "boolean" },
+          "free_shipping": { "type": "boolean" },
+          "discount_qty": { "type": "number" },
+          "discount_amount_step": { "type": "number" },
+          "simple_action": { "type": "string" },
+          "stop_rules_processing": { "type": "boolean" }
+        },
+        "required": ["name"]
+      }
+    },
+    "required": ["rule"]
+  }
+}
+

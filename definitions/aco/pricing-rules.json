@@ -1,0 +1,53 @@
+{
+  "tierPricingEnabled": true,
+  "rules": [
+    {
+      "name": "Structural Materials Volume Pricing",
+      "description": "Volume discounts for lumber and structural materials - aligns with industry pallet quantities",
+      "categoryPattern": "Structural Materials",
+      "attributeMatch": {
+        "br_product_category": "Structural Materials"
+      },
+      "tiers": [
+        { "minQty": 1, "maxQty": 99, "discountPercent": 0 },
+        { "minQty": 100, "maxQty": 293, "discountPercent": 3 },
+        { "minQty": 294, "maxQty": null, "discountPercent": 8 }
+      ]
+    },
+    {
+      "name": "Windows & Doors Volume Pricing",
+      "description": "Volume discounts for windows and doors - specialty items with lower tier thresholds",
+      "categoryPattern": "Windows & Doors",
+      "attributeMatch": {
+        "br_product_category": "Windows & Doors"
+      },
+      "tiers": [
+        { "minQty": 1, "maxQty": 4, "discountPercent": 0 },
+        { "minQty": 5, "maxQty": 19, "discountPercent": 5 },
+        { "minQty": 20, "maxQty": null, "discountPercent": 10 }
+      ]
+    },
+    {
+      "name": "Roofing Materials Volume Pricing",
+      "description": "Volume discounts for roofing materials",
+      "categoryPattern": "Roofing",
+      "attributeMatch": {
+        "br_product_category": "Roofing"
+      },
+      "tiers": [
+        { "minQty": 1, "maxQty": 99, "discountPercent": 0 },
+        { "minQty": 100, "maxQty": 293, "discountPercent": 3 },
+        { "minQty": 294, "maxQty": null, "discountPercent": 8 }
+      ]
+    },
+    {
+      "name": "Default Volume Pricing",
+      "description": "Standard volume discounts for all other products",
+      "categoryPattern": ".*",
+      "tiers": [
+        { "minQty": 1, "maxQty": 99, "discountPercent": 0 },
+        { "minQty": 100, "maxQty": null, "discountPercent": 3 }
+      ]
+    }
+  ]
+}

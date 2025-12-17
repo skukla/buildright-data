@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for b2b_companies_attributes data type - array of company attribute configurations",
+  "items": {
+    "type": "object",
+    "properties": {
+      "company": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Company ID or name"
+          },
+          "extension_attributes": {
+            "type": "object",
+            "properties": {
+              "quote_config": {
+                "type": "object",
+                "properties": {
+                  "is_quote_enabled": {
+                    "type": "boolean",
+                    "description": "Whether quote functionality is enabled for this company"
+                  }
+                }
+              },
+              "is_purchase_order_enabled": {
+                "type": "boolean",
+                "description": "Whether purchase order functionality is enabled for this company"
+              }
+            }
+          }
+        },
+        "required": ["id"]
+      }
+    },
+    "required": ["company"]
+  }
+}
+

@@ -1,0 +1,27 @@
+[
+  {
+    "priceBookId": "US-Retail",
+    "name": "US Retail Catalog Pricing",
+    "currency": "USD"
+  },
+  {
+    "priceBookId": "Retail-Registered",
+    "name": "Registered Customer Pricing",
+    "currency": "USD"
+  },
+  {
+    "priceBookId": "Trade-Professional",
+    "name": "Trade Professional Pricing",
+    "currency": "USD"
+  },
+  {
+    "priceBookId": "Production-Builder",
+    "name": "Production Builder Pricing",
+    "currency": "USD"
+  },
+  {
+    "priceBookId": "Wholesale-Reseller",
+    "name": "Wholesale Reseller Pricing",
+    "currency": "USD"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for coupons data type - array of coupon definitions",
+  "items": {
+    "type": "object",
+    "properties": {
+      "coupon": {
+        "type": "object",
+        "properties": {
+          "code": { "type": "string" },
+          "rule_id": { "type": ["string", "number"] },
+          "usage_limit": { "type": "number" },
+          "usage_per_customer": { "type": "number" },
+          "times_used": { "type": "number" },
+          "expiration_date": { "type": "string" },
+          "is_primary": { "type": "boolean" },
+          "type": { "type": "number" }
+        },
+        "required": ["code", "rule_id"]
+      },
+      "rule_name": { "type": "string" }
+    },
+    "required": ["coupon"]
+  }
+}
+

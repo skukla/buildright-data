@@ -11,10 +11,15 @@ buildright-data/
 │   ├── products/            # Product catalog definitions
 │   ├── categories/          # Category tree structure
 │   ├── customers/           # Customer groups and demo customers
-│   └── attributes/          # Product and customer attributes
+│   ├── attributes/          # Product and customer attributes
+│   ├── aco/                 # ACO pricing configuration
+│   └── features/            # BuildRight-specific features (BOM, templates)
 ├── media/                   # Media assets
 │   └── images/              
 │       └── products/        # Product images
+├── docs/                    # Documentation
+│   ├── schemas/             # Commerce ACCS data schemas
+│   └── architecture/        # BuildRight architecture documentation
 └── generated/               # Generated datapacks (committed)
     ├── commerce/            # ACCS format for Adobe Commerce
     │   ├── data/accs/       # JSON data files
@@ -33,6 +38,8 @@ The `definitions/` directory contains human-readable JSON files that define:
 - **categories/category-tree.json**: Category hierarchy
 - **customers/demo-customers.json**: Demo customer data
 - **attributes/**: Custom product and customer attributes
+- **aco/**: ACO pricing configuration (price books, pricing rules)
+- **features/**: BuildRight-specific features (BOM criteria, templates, material packages)
 
 ### Using Generated Datapacks
 
@@ -100,12 +107,30 @@ Both source definitions AND generated artifacts are version controlled in this r
 - Easy rollback if needed
 - Clear audit trail of data changes
 
+## Documentation
+
+The `docs/` directory contains:
+
+- **schemas/**: Commerce ACCS data format schemas (for validation and reference)
+- **architecture/**: BuildRight architecture documentation
+  - PRICING-STRATEGY.md - ACO pricing strategy and tier structure
+  - buildright-b2b-structure.md - B2B organizational structure
+
+See [docs/README.md](./docs/) for more information.
+
 ## Related Repositories
 
+### Generic Tools (Reusable)
 - **commerce-demo-generator**: Generates datapacks from this data
 - **commerce-demo-ingestion**: Imports datapacks to Commerce/ACO
-- **buildright-aco**: ACO-specific configuration and scripts
-- **buildright-eds**: Edge Delivery Services implementation
+
+### BuildRight System
+- **buildright-eds**: Edge Delivery Services frontend
+- **buildright-service**: App Builder backend (BOM generation, persona detection)
+
+### Deprecated
+- **buildright-commerce**: ⚠️ Archived (replaced by this repo + generic tools)
+- **buildright-aco**: ⚠️ Archived (functionality moved to appropriate repos)
 
 ## License
 

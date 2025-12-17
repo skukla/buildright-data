@@ -1,0 +1,37 @@
+[
+  {
+    "id": "US-Retail",
+    "name": "US Retail Catalog Pricing",
+    "description": "Base retail pricing for anonymous and walk-in customers",
+    "baseMultiplier": 1.0,
+    "isBase": true
+  },
+  {
+    "id": "Retail-Registered",
+    "name": "Registered Customer Pricing",
+    "description": "Pricing for registered retail customers",
+    "baseMultiplier": 0.95,
+    "parentPriceBook": "US-Retail"
+  },
+  {
+    "id": "Trade-Professional",
+    "name": "Trade Professional Pricing",
+    "description": "Special pricing for licensed contractors and trade professionals",
+    "baseMultiplier": 0.9,
+    "parentPriceBook": "US-Retail"
+  },
+  {
+    "id": "Production-Builder",
+    "name": "Production Builder Pricing",
+    "description": "Volume pricing for production home builders",
+    "baseMultiplier": 0.85,
+    "parentPriceBook": "US-Retail"
+  },
+  {
+    "id": "Wholesale-Reseller",
+    "name": "Wholesale Reseller Pricing",
+    "description": "Deep discount pricing for wholesale resellers",
+    "baseMultiplier": 0.75,
+    "parentPriceBook": "US-Retail"
+  }
+]

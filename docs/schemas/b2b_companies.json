@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for b2b_companies data type - array of GraphQL mutation operations",
+  "items": {
+    "type": "object",
+    "properties": {
+      "query": {
+        "type": "string",
+        "description": "GraphQL mutation query string"
+      },
+      "variables": {
+        "type": "object",
+        "properties": {
+          "input": {
+            "type": "object",
+            "properties": {
+              "company_name": { "type": "string" },
+              "company_email": { "type": "string" },
+              "legal_name": { "type": "string" },
+              "company_admin": {
+                "type": "object",
+                "properties": {
+                  "email": { "type": "string" },
+                  "firstname": { "type": "string" },
+                  "lastname": { "type": "string" },
+                  "gender": { "type": "number" },
+                  "job_title": { "type": "string" },
+                  "telephone": { "type": "string" }
+                },
+                "required": ["email", "firstname", "lastname"]
+              },
+              "legal_address": {
+                "type": "object",
+                "properties": {
+                  "city": { "type": "string" },
+                  "country_id": { "type": "string" },
+                  "postcode": { "type": "string" },
+                  "region": {
+                    "type": "object",
+                    "properties": {
+                      "region": { "type": "string" }
+                    }
+                  },
+                  "street": { "type": "string" },
+                  "telephone": { "type": "string" }
+                }
+              }
+            },
+            "required": ["company_name", "company_email"]
+          }
+        }
+      }
+    },
+    "required": ["query"]
+  }
+}
+

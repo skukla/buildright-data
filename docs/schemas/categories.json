@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "description": "Schema for categories data type - supports root category and regular categories",
+  "properties": {
+    "root_category": {
+      "type": "object",
+      "description": "Optional root category to create",
+      "properties": {
+        "name": { "type": "string" },
+        "parent_id": { "type": "number" },
+        "is_active": { "type": "boolean" },
+        "include_in_menu": { "type": "boolean" },
+        "customAttributes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "attributeCode": { "type": "string" },
+              "attribute_code": { "type": "string" },
+              "value": { "type": ["string", "number", "boolean"] }
+            }
+          }
+        }
+      },
+      "required": ["name"]
+    },
+    "categories": {
+      "type": "array",
+      "description": "Array of categories to import",
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "object",
+                "properties": {
+                  "name": { "type": "string" },
+                  "parent_id": { "type": "number" },
+                  "path": { "type": "string" },
+                  "is_active": { "type": "boolean" },
+                  "position": { "type": "number" },
+                  "include_in_menu": { "type": "boolean" },
+                  "customAttributes": {
+                    "type": "array",
+                    "items": { "type": "object" }
+                  }
+                },
+                "required": ["name"]
+              }
+            },
+            "required": ["category"]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "parent_id": { "type": "number" },
+              "path": { "type": "string" },
+              "is_active": { "type": "boolean" },
+              "position": { "type": "number" },
+              "include_in_menu": { "type": "boolean" }
+            },
+            "required": ["name"]
+          }
+        ]
+      }
+    }
+  },
+  "anyOf": [
+    { "required": ["categories"] },
+    { "required": ["root_category"] }
+  ]
+}
+

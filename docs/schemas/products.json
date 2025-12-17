@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "description": "Schema for products data type - requires full source structure format",
+  "properties": {
+    "source": {
+      "type": "object",
+      "properties": {
+        "entity": { 
+          "type": "string",
+          "description": "Entity type (e.g., 'catalog_product')"
+        },
+        "behavior": {
+          "type": "string",
+          "description": "Import behavior (e.g., 'append', 'replace')"
+        },
+        "validation_strategy": {
+          "type": "string",
+          "description": "Validation strategy"
+        },
+        "allowed_error_count": {
+          "type": "number",
+          "description": "Number of errors allowed before stopping"
+        },
+        "items": { 
+          "type": "array",
+          "description": "Array of product items to import",
+          "items": { 
+            "type": "object",
+            "description": "Product data object"
+          }
+        }
+      },
+      "required": ["entity", "items"]
+    }
+  },
+  "required": ["source"]
+}
+

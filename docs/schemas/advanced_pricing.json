@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "description": "Schema for advanced_pricing data type - tier pricing configuration",
+  "properties": {
+    "prices": {
+      "type": "array",
+      "description": "Array of price configurations",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sku": {
+            "type": "string",
+            "description": "Product SKU"
+          },
+          "website_id": {
+            "type": "number",
+            "description": "Website ID (0 for all websites)"
+          },
+          "customer_group": {
+            "type": "string",
+            "description": "Customer group name (e.g., 'ServerSavvy Solutions', 'Platinum Buyer', 'ALL GROUPS')"
+          },
+          "quantity": {
+            "type": "number",
+            "description": "Quantity threshold for tier pricing"
+          },
+          "price": {
+            "type": "number",
+            "description": "Price value"
+          },
+          "price_type": {
+            "type": "string",
+            "enum": ["fixed", "discount"],
+            "description": "Price type: 'fixed' for fixed price, 'discount' for discount percentage"
+          }
+        },
+        "required": ["sku", "price"]
+      }
+    }
+  },
+  "required": ["prices"]
+}
+

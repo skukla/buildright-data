@@ -1,14 +1,14 @@
 [
     {
         "site_code": "buildright",
-        "site_name": "BuildRight Website",
+        "site_name": "BuildRight Demo Website",
         "site_order": 0,
         "store_code": "buildright_store",
-        "store_name": "BuildRight Store",
+        "store_name": "BuildRight Demo Store",
         "store_root_category": "BuildRight Catalog",
         "is_default_store": "Y",
         "store_view_code": "buildright_us",
-        "view_name": "BuildRight US",
+        "view_name": "BuildRight Demo US",
         "is_default_view": "Y",
         "view_order": 0,
         "view_is_active": "Y",

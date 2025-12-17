@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "description": "Schema for b2b_shared_catalogs data type - array of B2B shared catalog definitions",
+  "items": {
+    "type": "object",
+    "properties": {
+      "sharedCatalog": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "customer_group_id": { "type": ["string", "number"] },
+          "type": { "type": "number" },
+          "store_id": { "type": "number", "const": 0 },
+          "tax_class_id": { "type": "number" }
+        },
+        "required": ["name", "store_id"]
+      }
+    },
+    "required": ["sharedCatalog"]
+  }
+}
+
