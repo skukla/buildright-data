@@ -1,0 +1,42 @@
+{
+    "note": "These settings must be configured manually via Admin UI at: Stores > Configuration > General > B2B Features",
+    "required_before": "Company data import",
+    "config": [
+        {
+            "setting": "Enable Company",
+            "path": "btob/website_configuration/company_active",
+            "required_value": "Yes",
+            "description": "Main setting that enables B2B company accounts"
+        },
+        {
+            "setting": "Enable Shared Catalog",
+            "path": "btob/website_configuration/sharedcatalog_active",
+            "required_value": "Yes",
+            "description": "Allows custom pricing configurations per company"
+        },
+        {
+            "setting": "Enable B2B Quote",
+            "path": "btob/website_configuration/negotiablequote_active",
+            "required_value": "Yes",
+            "description": "Enables price negotiation between buyers and sellers"
+        },
+        {
+            "setting": "Enable Quick Order",
+            "path": "btob/website_configuration/quickorder_active",
+            "required_value": "Yes",
+            "description": "Allows quick ordering by SKU or product name"
+        },
+        {
+            "setting": "Enable Requisition List",
+            "path": "btob/website_configuration/requisition_list_active",
+            "required_value": "Yes",
+            "description": "Enables saved order lists for repeat purchasing"
+        },
+        {
+            "setting": "Number of Requisition Lists",
+            "path": "btob/website_configuration/requisition_list_number",
+            "required_value": "999",
+            "description": "Maximum requisition lists per customer account"
+        }
+    ]
+}

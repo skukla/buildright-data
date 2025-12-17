@@ -1,0 +1,44 @@
+{
+    "teams": {
+        "Sunset Valley Homes": [
+            {
+                "name": "Purchasing Team",
+                "description": "Materials purchasing and procurement"
+            },
+            {
+                "name": "Project Management",
+                "description": "Project managers and site supervisors"
+            }
+        ],
+        "Johnson Custom Builders": [
+            {
+                "name": "Management",
+                "description": "Company owners and managers"
+            }
+        ],
+        "Chen Kitchen & Bath Remodeling": [
+            {
+                "name": "Design Team",
+                "description": "Designers and client relations"
+            },
+            {
+                "name": "Installation Team",
+                "description": "Installation crews and project coordinators"
+            }
+        ],
+        "Precision Lumber & Supply": [
+            {
+                "name": "Austin Store",
+                "description": "Austin location staff"
+            },
+            {
+                "name": "San Antonio Store",
+                "description": "San Antonio location staff"
+            },
+            {
+                "name": "Houston Store",
+                "description": "Houston location staff"
+            }
+        ]
+    }
+}

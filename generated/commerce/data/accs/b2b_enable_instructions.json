@@ -1,0 +1,91 @@
+{
+    "title": "Enable B2B Features - Manual Configuration Required",
+    "prerequisite": "Must be completed BEFORE importing company data",
+    "admin_path": "Stores > Configuration > General > B2B Features",
+    "documentation": "https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html",
+    "steps": [
+        {
+            "step": 1,
+            "action": "Login to Adobe Commerce Admin",
+            "url": "/admin"
+        },
+        {
+            "step": 2,
+            "action": "Navigate to Stores > Configuration",
+            "description": "Access the main configuration panel"
+        },
+        {
+            "step": 3,
+            "action": "Go to General > B2B Features",
+            "description": "Find B2B Features in the left navigation under General"
+        },
+        {
+            "step": 4,
+            "setting": "Enable Company",
+            "value": "Yes",
+            "required": true,
+            "description": "Main setting - enables B2B company accounts. This automatically enables Shared Catalog."
+        },
+        {
+            "step": 5,
+            "setting": "Enable Shared Catalog",
+            "value": "Yes",
+            "required": true,
+            "description": "Allows custom pricing per company (enabled automatically with Enable Company)"
+        },
+        {
+            "step": 6,
+            "setting": "Enable B2B Quote",
+            "value": "Yes",
+            "required": true,
+            "description": "Enables negotiable quotes for price negotiation"
+        },
+        {
+            "step": 7,
+            "setting": "Enable Quick Order",
+            "value": "Yes",
+            "recommended": true,
+            "description": "Allows quick ordering by SKU"
+        },
+        {
+            "step": 8,
+            "setting": "Enable Requisition List",
+            "value": "Yes",
+            "recommended": true,
+            "description": "Enables saved order lists for repeat purchasing"
+        },
+        {
+            "step": 9,
+            "setting": "Number of Requisition Lists",
+            "value": "999",
+            "recommended": true,
+            "description": "Maximum requisition lists per customer"
+        },
+        {
+            "step": 10,
+            "action": "Save Configuration",
+            "button": "Save Config",
+            "description": "Click the 'Save Config' button in the top right"
+        },
+        {
+            "step": 11,
+            "action": "Flush Cache",
+            "path": "System > Cache Management",
+            "button": "Flush Cache Storage",
+            "description": "Clear cache for changes to take effect"
+        }
+    ],
+    "verification": {
+        "description": "After configuration, verify B2B features are enabled:",
+        "checks": [
+            "Companies menu should appear under Customers in admin sidebar",
+            "Shared Catalogs menu should appear under Catalog",
+            "Quotes menu should appear under Sales"
+        ]
+    },
+    "notes": [
+        "B2B modules must be installed and enabled (typically pre-configured in Adobe Commerce B2B)",
+        "These settings enable the features globally for all websites/stores",
+        "Company-specific settings can be configured after companies are created"
+    ]
+}

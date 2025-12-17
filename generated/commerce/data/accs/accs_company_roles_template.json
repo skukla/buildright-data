@@ -1,0 +1,184 @@
+{
+    "roles": [
+        {
+            "role_name": "Purchasing Manager",
+            "permissions": [
+                {
+                    "resource_id": "Magento_Company::index",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::place_order",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::payment_account",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders_sub",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::view_quotes",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::manage",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::checkout",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::view_quotes_sub",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_PurchaseOrder::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_PurchaseOrder::view_purchase_orders",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_PurchaseOrder::view_purchase_orders_for_subordinates",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_PurchaseOrder::autoapprove_purchase_order",
+                    "permission": "allow"
+                }
+            ]
+        },
+        {
+            "role_name": "Project Manager",
+            "permissions": [
+                {
+                    "resource_id": "Magento_Company::index",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::place_order",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::payment_account",
+                    "permission": "deny"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders_sub",
+                    "permission": "deny"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::view_quotes",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::manage",
+                    "permission": "deny"
+                },
+                {
+                    "resource_id": "Magento_NegotiableQuote::checkout",
+                    "permission": "allow"
+                }
+            ]
+        },
+        {
+            "role_name": "Store Manager",
+            "permissions": [
+                {
+                    "resource_id": "Magento_Company::index",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::place_order",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::payment_account",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders_sub",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_PurchaseOrder::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_PurchaseOrder::view_purchase_orders",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_PurchaseOrder::view_purchase_orders_for_subordinates",
+                    "permission": "allow"
+                }
+            ]
+        },
+        {
+            "role_name": "Buyer",
+            "permissions": [
+                {
+                    "resource_id": "Magento_Company::index",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::all",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::place_order",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::payment_account",
+                    "permission": "deny"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders",
+                    "permission": "allow"
+                },
+                {
+                    "resource_id": "Magento_Sales::view_orders_sub",
+                    "permission": "deny"
+                }
+            ]
+        }
+    ]
+}

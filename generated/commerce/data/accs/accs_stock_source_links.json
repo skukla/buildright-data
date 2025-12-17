@@ -1,0 +1,29 @@
+{
+    "links": [
+        {
+            "source_code": "warehouse_west",
+            "stock_id": 2,
+            "priority": 1
+        },
+        {
+            "source_code": "warehouse_central",
+            "stock_id": 2,
+            "priority": 2
+        },
+        {
+            "source_code": "warehouse_east",
+            "stock_id": 2,
+            "priority": 3
+        },
+        {
+            "source_code": "store_austin",
+            "stock_id": 2,
+            "priority": 4
+        },
+        {
+            "source_code": "store_san_antonio",
+            "stock_id": 2,
+            "priority": 5
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+[
+  {
+    "code": "structural-materials",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Structural Materials",
+    "slug": "structural-materials",
+    "description": "Structural Materials category",
+    "active": true
+  },
+  {
+    "code": "lumber",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Lumber",
+    "slug": "structural-materials/lumber",
+    "description": "Lumber category",
+    "active": true,
+    "parentId": "structural-materials"
+  },
+  {
+    "code": "plywood-sheathing",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Plywood & Sheathing",
+    "slug": "structural-materials/plywood-sheathing",
+    "description": "Plywood & Sheathing category",
+    "active": true,
+    "parentId": "structural-materials"
+  },
+  {
+    "code": "framing-drywall",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Framing & Drywall",
+    "slug": "framing-drywall",
+    "description": "Framing & Drywall category",
+    "active": true
+  },
+  {
+    "code": "metal-studs-track",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Metal Studs & Track",
+    "slug": "framing-drywall/metal-studs-track",
+    "description": "Metal Studs & Track category",
+    "active": true,
+    "parentId": "framing-drywall"
+  },
+  {
+    "code": "drywall",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Drywall",
+    "slug": "framing-drywall/drywall",
+    "description": "Drywall category",
+    "active": true,
+    "parentId": "framing-drywall"
+  },
+  {
+    "code": "insulation",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Insulation",
+    "slug": "framing-drywall/insulation",
+    "description": "Insulation category",
+    "active": true,
+    "parentId": "framing-drywall"
+  },
+  {
+    "code": "windows-doors",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Windows & Doors",
+    "slug": "windows-doors",
+    "description": "Windows & Doors category",
+    "active": true
+  },
+  {
+    "code": "windows",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Windows",
+    "slug": "windows-doors/windows",
+    "description": "Windows category",
+    "active": true,
+    "parentId": "windows-doors"
+  },
+  {
+    "code": "doors",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Doors",
+    "slug": "windows-doors/doors",
+    "description": "Doors category",
+    "active": true,
+    "parentId": "windows-doors"
+  },
+  {
+    "code": "fasteners-hardware",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Fasteners & Hardware",
+    "slug": "fasteners-hardware",
+    "description": "Fasteners & Hardware category",
+    "active": true
+  },
+  {
+    "code": "nails",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Nails",
+    "slug": "fasteners-hardware/nails",
+    "description": "Nails category",
+    "active": true,
+    "parentId": "fasteners-hardware"
+  },
+  {
+    "code": "screws",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Screws",
+    "slug": "fasteners-hardware/screws",
+    "description": "Screws category",
+    "active": true,
+    "parentId": "fasteners-hardware"
+  },
+  {
+    "code": "roofing",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Roofing",
+    "slug": "roofing",
+    "description": "Roofing category",
+    "active": true
+  },
+  {
+    "code": "shingles",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Shingles",
+    "slug": "roofing/shingles",
+    "description": "Shingles category",
+    "active": true,
+    "parentId": "roofing"
+  },
+  {
+    "code": "underlayment",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Underlayment",
+    "slug": "roofing/underlayment",
+    "description": "Underlayment category",
+    "active": true,
+    "parentId": "roofing"
+  },
+  {
+    "code": "siding",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Siding",
+    "slug": "roofing/siding",
+    "description": "Siding category",
+    "active": true,
+    "parentId": "roofing"
+  },
+  {
+    "code": "interior-finishes",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Interior Finishes",
+    "slug": "interior-finishes",
+    "description": "Interior Finishes category",
+    "active": true
+  },
+  {
+    "code": "flooring",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Flooring",
+    "slug": "interior-finishes/flooring",
+    "description": "Flooring category",
+    "active": true,
+    "parentId": "interior-finishes"
+  },
+  {
+    "code": "paint",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Paint",
+    "slug": "interior-finishes/paint",
+    "description": "Paint category",
+    "active": true,
+    "parentId": "interior-finishes"
+  },
+  {
+    "code": "lighting",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Lighting",
+    "slug": "interior-finishes/lighting",
+    "description": "Lighting category",
+    "active": true,
+    "parentId": "interior-finishes"
+  },
+  {
+    "code": "plumbing-fixtures",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Plumbing Fixtures",
+    "slug": "interior-finishes/plumbing-fixtures",
+    "description": "Plumbing Fixtures category",
+    "active": true,
+    "parentId": "interior-finishes"
+  },
+  {
+    "code": "concrete-foundation",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Concrete & Foundation",
+    "slug": "concrete-foundation",
+    "description": "Concrete & Foundation category",
+    "active": true
+  },
+  {
+    "code": "electrical-systems",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Electrical Systems",
+    "slug": "electrical-systems",
+    "description": "Electrical Systems category",
+    "active": true
+  },
+  {
+    "code": "wiring",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Wiring",
+    "slug": "electrical-systems/wiring",
+    "description": "Wiring category",
+    "active": true,
+    "parentId": "electrical-systems"
+  },
+  {
+    "code": "devices",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Devices",
+    "slug": "electrical-systems/devices",
+    "description": "Devices category",
+    "active": true,
+    "parentId": "electrical-systems"
+  },
+  {
+    "code": "panels",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Panels",
+    "slug": "electrical-systems/panels",
+    "description": "Panels category",
+    "active": true,
+    "parentId": "electrical-systems"
+  },
+  {
+    "code": "plumbing-pipes-fittings",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Plumbing Pipes & Fittings",
+    "slug": "plumbing-pipes-fittings",
+    "description": "Plumbing Pipes & Fittings category",
+    "active": true
+  },
+  {
+    "code": "water-supply",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Water Supply",
+    "slug": "plumbing-pipes-fittings/water-supply",
+    "description": "Water Supply category",
+    "active": true,
+    "parentId": "plumbing-pipes-fittings"
+  },
+  {
+    "code": "drain-waste",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Drain & Waste",
+    "slug": "plumbing-pipes-fittings/drain-waste",
+    "description": "Drain & Waste category",
+    "active": true,
+    "parentId": "plumbing-pipes-fittings"
+  },
+  {
+    "code": "fittings",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Fittings",
+    "slug": "plumbing-pipes-fittings/fittings",
+    "description": "Fittings category",
+    "active": true,
+    "parentId": "plumbing-pipes-fittings"
+  },
+  {
+    "code": "hvac-systems",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "HVAC Systems",
+    "slug": "hvac-systems",
+    "description": "HVAC Systems category",
+    "active": true
+  },
+  {
+    "code": "hvac-units",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Units",
+    "slug": "hvac-systems/hvac-units",
+    "description": "Units category",
+    "active": true,
+    "parentId": "hvac-systems"
+  },
+  {
+    "code": "ductwork",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Ductwork",
+    "slug": "hvac-systems/ductwork",
+    "description": "Ductwork category",
+    "active": true,
+    "parentId": "hvac-systems"
+  },
+  {
+    "code": "vents-thermostats",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Vents & Thermostats",
+    "slug": "hvac-systems/vents-thermostats",
+    "description": "Vents & Thermostats category",
+    "active": true,
+    "parentId": "hvac-systems"
+  },
+  {
+    "code": "kitchen-appliances",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Kitchen Appliances",
+    "slug": "kitchen-appliances",
+    "description": "Kitchen Appliances category",
+    "active": true
+  }
+]
