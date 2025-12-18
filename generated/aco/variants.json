@@ -1,1235 +1,5 @@
 [
   {
-    "sku": "STR-463A0B4C-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Cascade Timber Co. Dimensional Lumber - Configurable",
-    "slug": "cascade-timber-co-dimensional-lumber-configurable",
-    "description": "Cascade Timber Co. Dimensional Lumber - Available in multiple configurations to suit your project needs.  Dimensional Lumber delivers exceptional Builder grade quality for Foundation & framing applications. Reliable performance for value-conscious projects.  Kiln-dried for dimensional stability and minimal warping. Meets or exceeds industry standards for residential and commercial construction. Perfect for wall framing, floor joists, and structural applications where strength and reliability matter.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Foundation & framing"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "STR-733B6241-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Rocky Mountain Mills LVL Beam - Configurable",
-    "slug": "rocky-mountain-mills-lvl-beam-configurable",
-    "description": "Rocky Mountain Mills LVL Beam - Available in multiple configurations to suit your project needs.  Top-tier quality for the most discerning builders and architects.  Kiln-dried for dimensional stability and minimal warping. Meets or exceeds industry standards for residential and commercial construction. Perfect for wall framing, floor joists, and structural applications where strength and reliability matter.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Foundation & framing"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Premium"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "30"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "good"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "STR-69D94856-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "PlyTech Industries Plywood Sheet - Configurable",
-    "slug": "plytech-industries-plywood-sheet-configurable",
-    "description": "PlyTech Industries Plywood Sheet - Available in multiple configurations to suit your project needs.  Engineered for reliability and long-term performance in demanding construction environments. Meets or exceeds industry standards for quality and safety. Trusted by contractors and builders for consistent results. Ideal for residential and commercial construction projects.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "PlyTech Industries"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Foundation & framing"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "FRA-4A08DB87-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Cascade Timber Co. Metal Stud System - Configurable",
-    "slug": "cascade-timber-co-metal-stud-system-configurable",
-    "description": "Cascade Timber Co. Metal Stud System - Available in multiple configurations to suit your project needs.  Metal Stud System provides reliable structural support for wall framing systems. Precision-cut to exact length for consistent quality. Grade-stamped for easy inspection and code compliance. Straight grain minimizes twisting and warping during construction. Ideal for interior partitions, load-bearing walls, and commercial framing applications. Meets building code requirements for structural lumber.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Foundation & framing"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "FRA-51FF54AE-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "WallTech Systems Gypsum Board - Configurable",
-    "slug": "walltech-systems-gypsum-board-configurable",
-    "description": "WallTech Systems Gypsum Board - Available in multiple configurations to suit your project needs.  Precision-manufactured gypsum core wrapped in heavy-duty paper facing for superior joint adhesion. Tapered edges simplify taping and finishing for seamless results. Lightweight design reduces installer fatigue without sacrificing strength. Meets ASTM C1396 specifications for performance and fire resistance. Each 4'x8' sheet covers 32 square feet. Ideal for Interior finish in residential and commercial projects.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "WallTech Systems"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Interior finish"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "WIN-4A6E5023-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "ClearView Windows Custom Window - Configurable",
-    "slug": "clearview-windows-custom-window-configurable",
-    "description": "ClearView Windows Custom Window - Available in multiple configurations to suit your project needs.  Features energy-efficient glazing that blocks harmful UV rays while reducing energy costs by up to 30%. The durable frame construction requires minimal maintenance and resists warping, cracking, and fading in all weather conditions. Reliable performance backed by industry-leading warranty. ENERGY STAR certified for superior thermal performance. Professional-grade weatherstripping ensures draft-free operation.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "WIN-2B45972B-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Panorama Systems Energy Efficient Window - Configurable",
-    "slug": "panorama-systems-energy-efficient-window-configurable",
-    "description": "Panorama Systems Energy Efficient Window - Available in multiple configurations to suit your project needs.  Features energy-efficient glazing that blocks harmful UV rays while reducing energy costs by up to 30%. The durable frame construction requires minimal maintenance and resists warping, cracking, and fading in all weather conditions. Premium-grade seals and hardware ensure decades of smooth operation. ENERGY STAR certified for superior thermal performance. Professional-grade weatherstripping ensures draft-free operation.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Premium"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "30"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "good"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "WIN-40659071-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Precision Entry Systems Custom Entry Door - Configurable",
-    "slug": "precision-entry-systems-custom-entry-door-configurable",
-    "description": "Precision Entry Systems Custom Entry Door - Available in multiple configurations to suit your project needs.  Engineered for maximum durability. Pre-drilled for standard hardware installation. Factory-primed finish is ready for painting or staining to match your design aesthetic. Meets ANSI/WDMA standards for quality and performance. Ideal for both new construction and replacement applications.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "WIN-5DA23D2B-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Guardian Door Co. Interior Door System - Configurable",
-    "slug": "guardian-door-co-interior-door-system-configurable",
-    "description": "Guardian Door Co. Interior Door System - Available in multiple configurations to suit your project needs.  Interior Door System features durable construction for lasting beauty and performance. Engineered for maximum durability. Pre-drilled for standard hardware installation. Factory-primed finish is ready for painting or staining to match your design aesthetic. Meets ANSI/WDMA standards for quality and performance. Ideal for both new construction and replacement applications.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Premium"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "30"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "good"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "FAS-29221C31-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "HoldFast Industries Bulk Nail Pack - Configurable",
-    "slug": "holdfast-industries-bulk-nail-pack-configurable",
-    "description": "HoldFast Industries Bulk Nail Pack - Available in multiple configurations to suit your project needs.  Reliable performance for everyday construction needs. Hot-dip galvanized coating provides superior rust resistance for both interior and exterior applications. Full round head design maximizes holding power and prevents pull-through on structural connections. Compatible with both pneumatic nailers and hand driving. Manufactured from high-carbon steel for consistent performance. Meets ASTM F1667 specifications for quality and strength. Approximately multiple pieces per package.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Foundation & framing"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "FAS-1DE6D501-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "IronClad Fastening Specialty Nails - Configurable",
-    "slug": "ironclad-fastening-specialty-nails-configurable",
-    "description": "IronClad Fastening Specialty Nails - Available in multiple configurations to suit your project needs.  Premium-grade steel alloy ensures maximum durability. Hot-dip galvanized coating provides superior rust resistance for both interior and exterior applications. Full round head design maximizes holding power and prevents pull-through on structural connections. Compatible with both pneumatic nailers and hand driving. Manufactured from high-carbon steel for consistent performance. Meets ASTM F1667 specifications for quality and strength. Approximately multiple pieces per package.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Foundation & framing"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Premium"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "30"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "good"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "FAS-257A4354-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "HoldFast Industries Construction Screws - Configurable",
-    "slug": "holdfast-industries-construction-screws-configurable",
-    "description": "HoldFast Industries Construction Screws - Available in multiple configurations to suit your project needs.  Reliable performance for everyday construction needs. Hot-dip galvanized coating provides superior rust resistance for both interior and exterior applications. Full round head design maximizes holding power and prevents pull-through on structural connections. Compatible with both pneumatic nailers and hand driving. Manufactured from high-carbon steel for consistent performance. Meets ASTM F1667 specifications for quality and strength. Approximately multiple pieces per package.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "ROO-C5751F3-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "SkyGuard Roofing Architectural Shingle System - Configurable",
-    "slug": "skyguard-roofing-architectural-shingle-system-configurable",
-    "description": "SkyGuard Roofing Architectural Shingle System - Available in multiple configurations to suit your project needs.  Heavy-duty fiberglass mat reinforced with premium asphalt provides excellent tear strength. Wind-resistant design withstands up to 110 mph winds. Class A fire rating delivers maximum protection. Algae-resistant granules prevent unsightly staining in humid climates. Advanced sealant activates in sunlight for secure bonding. 30-year limited warranty ensures lasting value. UL2218 Class 4 impact-resistant rated.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "ROO-6EDFD6A2-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Vertex Shingles Specialty Roofing Shingles - Configurable",
-    "slug": "vertex-shingles-specialty-roofing-shingles-configurable",
-    "description": "Vertex Shingles Specialty Roofing Shingles - Available in multiple configurations to suit your project needs.  Heavy-duty fiberglass mat reinforced with premium asphalt provides excellent tear strength. Enhanced wind resistance up to 130 mph. Class A fire rating delivers maximum protection. Algae-resistant granules prevent unsightly staining in humid climates. Advanced sealant activates in sunlight for secure bonding. Limited lifetime warranty with transferable coverage. UL2218 Class 4 impact-resistant rated.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Premium"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "30"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "good"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
-    "sku": "ROO-177C6B48-CONFIG",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "SkyGuard Roofing Premium Underlayment System - Configurable",
-    "slug": "skyguard-roofing-premium-underlayment-system-configurable",
-    "description": "SkyGuard Roofing Premium Underlayment System - Available in multiple configurations to suit your project needs.  Synthetic construction offers superior durability compared to traditional felt paper. Reliable tear resistance for residential applications. UV-resistant surface allows up to 6 months of exposure during construction. Slip-resistant texture improves installer safety on steep slopes. Lightweight rolls are easier to handle and install. Standard coverage for typical roof applications. Meets ICC-ES acceptance criteria for roofing underlayment.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
-    "attributes": [
-      {
-        "code": "br_brand",
-        "values": [
-          "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1"
-        ]
-      }
-    ]
-  },
-  {
     "sku": "STR-463A0B4C-VAR-5B1A504F",
     "source": {
       "locale": "en-US"
@@ -1241,6 +11,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -1307,19 +83,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "5.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-5.5"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "br_lumber_dimension",
@@ -1345,6 +124,12 @@
           "0.77"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -1359,6 +144,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -1425,19 +216,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "5.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-5.5"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -1463,6 +257,12 @@
           "1.155"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -1477,6 +277,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -1543,19 +349,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "br_lumber_dimension",
@@ -1581,6 +390,12 @@
           "1.295"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -1595,6 +410,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -1661,19 +482,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -1699,6 +523,12 @@
           "1.9425"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -1713,6 +543,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -1779,19 +615,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "5.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-5.5"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "br_lumber_dimension",
@@ -1817,6 +656,12 @@
           "1.54"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -1831,6 +676,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -1897,19 +748,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "5.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-5.5"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -1935,6 +789,12 @@
           "2.31"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -1949,6 +809,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2015,19 +881,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "br_lumber_dimension",
@@ -2053,6 +922,12 @@
           "2.59"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -2067,6 +942,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2133,19 +1014,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -2171,6 +1055,12 @@
           "3.885"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-463A0B4C-CONFIG"
+      }
     ]
   },
   {
@@ -2185,6 +1075,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2251,19 +1147,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -2289,6 +1188,12 @@
           "1.9425"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -2303,6 +1208,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2369,19 +1280,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_length-20"
       },
       {
         "code": "br_lumber_dimension",
@@ -2407,6 +1321,12 @@
           "3.2375"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -2421,6 +1341,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2487,19 +1413,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "11.875"
-        ]
+        ],
+        "variantReferenceId": "br_width-11.875"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -2525,6 +1454,12 @@
           "2.49375"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -2539,6 +1474,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2605,19 +1546,22 @@
         "code": "br_depth",
         "values": [
           "1.75"
-        ]
+        ],
+        "variantReferenceId": "br_depth-1.75"
       },
       {
         "code": "br_width",
         "values": [
           "11.875"
-        ]
+        ],
+        "variantReferenceId": "br_width-11.875"
       },
       {
         "code": "br_length",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_length-20"
       },
       {
         "code": "br_lumber_dimension",
@@ -2643,6 +1587,12 @@
           "4.15625"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -2657,6 +1607,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2723,19 +1679,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -2761,6 +1720,12 @@
           "3.885"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -2775,6 +1740,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2841,19 +1812,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "9.25"
-        ]
+        ],
+        "variantReferenceId": "br_width-9.25"
       },
       {
         "code": "br_length",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_length-20"
       },
       {
         "code": "br_lumber_dimension",
@@ -2879,6 +1853,12 @@
           "6.475"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -2893,6 +1873,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -2959,19 +1945,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "11.875"
-        ]
+        ],
+        "variantReferenceId": "br_width-11.875"
       },
       {
         "code": "br_length",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_length-12"
       },
       {
         "code": "br_lumber_dimension",
@@ -2997,6 +1986,12 @@
           "4.9875"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -3011,6 +2006,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3077,19 +2078,22 @@
         "code": "br_depth",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_depth-3.5"
       },
       {
         "code": "br_width",
         "values": [
           "11.875"
-        ]
+        ],
+        "variantReferenceId": "br_width-11.875"
       },
       {
         "code": "br_length",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_length-20"
       },
       {
         "code": "br_lumber_dimension",
@@ -3115,6 +2119,12 @@
           "8.3125"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-733B6241-CONFIG"
+      }
     ]
   },
   {
@@ -3129,6 +2139,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3195,19 +2211,22 @@
         "code": "br_thickness",
         "values": [
           "0.5"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.5"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "br_lumber_length",
@@ -3227,6 +2246,12 @@
           "0.16"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-69D94856-CONFIG"
+      }
     ]
   },
   {
@@ -3241,6 +2266,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3307,19 +2338,22 @@
         "code": "br_thickness",
         "values": [
           "0.5"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.5"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "br_lumber_length",
@@ -3339,6 +2373,12 @@
           "0.2"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-69D94856-CONFIG"
+      }
     ]
   },
   {
@@ -3353,6 +2393,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3419,19 +2465,22 @@
         "code": "br_thickness",
         "values": [
           "0.75"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.75"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "br_lumber_length",
@@ -3451,6 +2500,12 @@
           "0.24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-69D94856-CONFIG"
+      }
     ]
   },
   {
@@ -3465,6 +2520,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "structural-materials",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3531,19 +2592,22 @@
         "code": "br_thickness",
         "values": [
           "0.75"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.75"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "br_lumber_length",
@@ -3563,10 +2627,16 @@
           "0.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "STR-69D94856-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-6A49D5FE",
+    "sku": "FRM-4A08DB87-VAR-6A49D5FE",
     "source": {
       "locale": "en-US"
     },
@@ -3577,6 +2647,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3643,19 +2719,22 @@
         "code": "br_gauge",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-20"
       },
       {
         "code": "br_width",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-3.5"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "price",
@@ -3669,10 +2748,16 @@
           "5.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-6720D21D",
+    "sku": "FRM-4A08DB87-VAR-6720D21D",
     "source": {
       "locale": "en-US"
     },
@@ -3683,6 +2768,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3749,19 +2840,22 @@
         "code": "br_gauge",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-20"
       },
       {
         "code": "br_width",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-3.5"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "price",
@@ -3775,10 +2869,16 @@
           "7"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-2BD7F6FE",
+    "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
     "source": {
       "locale": "en-US"
     },
@@ -3789,6 +2889,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3855,19 +2961,22 @@
         "code": "br_gauge",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-20"
       },
       {
         "code": "br_width",
         "values": [
           "6"
-        ]
+        ],
+        "variantReferenceId": "br_width-6"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "price",
@@ -3881,10 +2990,16 @@
           "9.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-6F827F1F",
+    "sku": "FRM-4A08DB87-VAR-6F827F1F",
     "source": {
       "locale": "en-US"
     },
@@ -3895,6 +3010,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -3961,19 +3082,22 @@
         "code": "br_gauge",
         "values": [
           "20"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-20"
       },
       {
         "code": "br_width",
         "values": [
           "6"
-        ]
+        ],
+        "variantReferenceId": "br_width-6"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "price",
@@ -3987,10 +3111,16 @@
           "12"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-39D41887",
+    "sku": "FRM-4A08DB87-VAR-39D41887",
     "source": {
       "locale": "en-US"
     },
@@ -4001,6 +3131,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4067,19 +3203,22 @@
         "code": "br_gauge",
         "values": [
           "18"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-18"
       },
       {
         "code": "br_width",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-3.5"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "price",
@@ -4093,10 +3232,16 @@
           "5.04"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-77211F4C",
+    "sku": "FRM-4A08DB87-VAR-77211F4C",
     "source": {
       "locale": "en-US"
     },
@@ -4107,6 +3252,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4173,19 +3324,22 @@
         "code": "br_gauge",
         "values": [
           "18"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-18"
       },
       {
         "code": "br_width",
         "values": [
           "3.5"
-        ]
+        ],
+        "variantReferenceId": "br_width-3.5"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "price",
@@ -4199,10 +3353,16 @@
           "6.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-7D4359CB",
+    "sku": "FRM-4A08DB87-VAR-7D4359CB",
     "source": {
       "locale": "en-US"
     },
@@ -4213,6 +3373,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4279,19 +3445,22 @@
         "code": "br_gauge",
         "values": [
           "18"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-18"
       },
       {
         "code": "br_width",
         "values": [
           "6"
-        ]
+        ],
+        "variantReferenceId": "br_width-6"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "price",
@@ -4305,10 +3474,16 @@
           "8.64"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-4A08DB87-VAR-ACC4938",
+    "sku": "FRM-4A08DB87-VAR-ACC4938",
     "source": {
       "locale": "en-US"
     },
@@ -4319,6 +3494,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4385,19 +3566,22 @@
         "code": "br_gauge",
         "values": [
           "18"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-18"
       },
       {
         "code": "br_width",
         "values": [
           "6"
-        ]
+        ],
+        "variantReferenceId": "br_width-6"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "price",
@@ -4411,10 +3595,16 @@
           "10.8"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-4A08DB87-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-51FF54AE-VAR-726143D4",
+    "sku": "FRM-51FF54AE-VAR-726143D4",
     "source": {
       "locale": "en-US"
     },
@@ -4425,6 +3615,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4491,19 +3687,22 @@
         "code": "br_thickness",
         "values": [
           "0.5"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.5"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "price",
@@ -4517,10 +3716,16 @@
           "0.16"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-51FF54AE-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-51FF54AE-VAR-64D99477",
+    "sku": "FRM-51FF54AE-VAR-64D99477",
     "source": {
       "locale": "en-US"
     },
@@ -4531,6 +3736,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4597,19 +3808,22 @@
         "code": "br_thickness",
         "values": [
           "0.5"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.5"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "price",
@@ -4623,10 +3837,16 @@
           "0.2"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-51FF54AE-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-51FF54AE-VAR-725CD2E8",
+    "sku": "FRM-51FF54AE-VAR-725CD2E8",
     "source": {
       "locale": "en-US"
     },
@@ -4637,6 +3857,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4703,19 +3929,22 @@
         "code": "br_thickness",
         "values": [
           "0.625"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.625"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "8"
-        ]
+        ],
+        "variantReferenceId": "br_length-8"
       },
       {
         "code": "price",
@@ -4729,10 +3958,16 @@
           "0.2"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-51FF54AE-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FRA-51FF54AE-VAR-6642C473",
+    "sku": "FRM-51FF54AE-VAR-6642C473",
     "source": {
       "locale": "en-US"
     },
@@ -4743,6 +3978,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "framing-drywall",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -4809,19 +4050,22 @@
         "code": "br_thickness",
         "values": [
           "0.625"
-        ]
+        ],
+        "variantReferenceId": "br_thickness-0.625"
       },
       {
         "code": "br_width",
         "values": [
           "4"
-        ]
+        ],
+        "variantReferenceId": "br_width-4"
       },
       {
         "code": "br_length",
         "values": [
           "10"
-        ]
+        ],
+        "variantReferenceId": "br_length-10"
       },
       {
         "code": "price",
@@ -4835,10 +4079,16 @@
           "0.25"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FRM-51FF54AE-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-1589C113",
+    "sku": "WDR-4A6E5023-VAR-1589C113",
     "source": {
       "locale": "en-US"
     },
@@ -4850,6 +4100,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -4915,19 +4171,22 @@
         "code": "br_style",
         "values": [
           "single-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-single-hung"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "48"
-        ]
+        ],
+        "variantReferenceId": "br_height-48"
       },
       {
         "code": "price",
@@ -4941,10 +4200,16 @@
           "14.4"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-1E5EB0E3",
+    "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
     "source": {
       "locale": "en-US"
     },
@@ -4956,6 +4221,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -5021,19 +4292,22 @@
         "code": "br_style",
         "values": [
           "single-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-single-hung"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "60"
-        ]
+        ],
+        "variantReferenceId": "br_height-60"
       },
       {
         "code": "price",
@@ -5047,10 +4321,16 @@
           "18"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-1589C119",
+    "sku": "WDR-4A6E5023-VAR-1589C119",
     "source": {
       "locale": "en-US"
     },
@@ -5061,6 +4341,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -5127,19 +4413,22 @@
         "code": "br_style",
         "values": [
           "single-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-single-hung"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "48"
-        ]
+        ],
+        "variantReferenceId": "br_height-48"
       },
       {
         "code": "price",
@@ -5153,10 +4442,16 @@
           "17.28"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-1E5EB0DD",
+    "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
     "source": {
       "locale": "en-US"
     },
@@ -5167,6 +4462,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -5233,19 +4534,22 @@
         "code": "br_style",
         "values": [
           "single-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-single-hung"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "60"
-        ]
+        ],
+        "variantReferenceId": "br_height-60"
       },
       {
         "code": "price",
@@ -5259,10 +4563,16 @@
           "21.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-21B854DC",
+    "sku": "WDR-4A6E5023-VAR-21B854DC",
     "source": {
       "locale": "en-US"
     },
@@ -5273,6 +4583,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -5339,19 +4655,22 @@
         "code": "br_style",
         "values": [
           "double-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-double-hung"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "48"
-        ]
+        ],
+        "variantReferenceId": "br_height-48"
       },
       {
         "code": "price",
@@ -5365,10 +4684,16 @@
           "14.4"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-12301D1A",
+    "sku": "WDR-4A6E5023-VAR-12301D1A",
     "source": {
       "locale": "en-US"
     },
@@ -5379,6 +4704,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -5445,19 +4776,22 @@
         "code": "br_style",
         "values": [
           "double-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-double-hung"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "60"
-        ]
+        ],
+        "variantReferenceId": "br_height-60"
       },
       {
         "code": "price",
@@ -5471,10 +4805,16 @@
           "18"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-21B854E2",
+    "sku": "WDR-4A6E5023-VAR-21B854E2",
     "source": {
       "locale": "en-US"
     },
@@ -5485,6 +4825,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -5551,19 +4897,22 @@
         "code": "br_style",
         "values": [
           "double-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-double-hung"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "48"
-        ]
+        ],
+        "variantReferenceId": "br_height-48"
       },
       {
         "code": "price",
@@ -5577,10 +4926,16 @@
           "17.28"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-4A6E5023-VAR-12301D14",
+    "sku": "WDR-4A6E5023-VAR-12301D14",
     "source": {
       "locale": "en-US"
     },
@@ -5591,6 +4946,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -5657,19 +5018,22 @@
         "code": "br_style",
         "values": [
           "double-hung"
-        ]
+        ],
+        "variantReferenceId": "br_style-double-hung"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "60"
-        ]
+        ],
+        "variantReferenceId": "br_height-60"
       },
       {
         "code": "price",
@@ -5683,10 +5047,16 @@
           "21.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-4A6E5023-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-2B45972B-VAR-1FF050D7",
+    "sku": "WDR-2B45972B-VAR-1FF050D7",
     "source": {
       "locale": "en-US"
     },
@@ -5698,6 +5068,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -5763,19 +5139,22 @@
         "code": "br_glazing",
         "values": [
           "double"
-        ]
+        ],
+        "variantReferenceId": "br_glazing-double"
       },
       {
         "code": "br_frame",
         "values": [
           "vinyl"
-        ]
+        ],
+        "variantReferenceId": "br_frame-vinyl"
       },
       {
         "code": "br_size",
         "values": [
           "30x48"
-        ]
+        ],
+        "variantReferenceId": "br_size-30x48"
       },
       {
         "code": "price",
@@ -5789,10 +5168,16 @@
           "0.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-2B45972B-VAR-1FF30B11",
+    "sku": "WDR-2B45972B-VAR-1FF30B11",
     "source": {
       "locale": "en-US"
     },
@@ -5804,6 +5189,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -5869,19 +5260,22 @@
         "code": "br_glazing",
         "values": [
           "double"
-        ]
+        ],
+        "variantReferenceId": "br_glazing-double"
       },
       {
         "code": "br_frame",
         "values": [
           "vinyl"
-        ]
+        ],
+        "variantReferenceId": "br_frame-vinyl"
       },
       {
         "code": "br_size",
         "values": [
           "36x48"
-        ]
+        ],
+        "variantReferenceId": "br_size-36x48"
       },
       {
         "code": "price",
@@ -5895,10 +5289,16 @@
           "0.36"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-2B45972B-VAR-7A2332D9",
+    "sku": "WDR-2B45972B-VAR-7A2332D9",
     "source": {
       "locale": "en-US"
     },
@@ -5910,6 +5310,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -5975,19 +5381,22 @@
         "code": "br_glazing",
         "values": [
           "double"
-        ]
+        ],
+        "variantReferenceId": "br_glazing-double"
       },
       {
         "code": "br_frame",
         "values": [
           "fiberglass"
-        ]
+        ],
+        "variantReferenceId": "br_frame-fiberglass"
       },
       {
         "code": "br_size",
         "values": [
           "30x48"
-        ]
+        ],
+        "variantReferenceId": "br_size-30x48"
       },
       {
         "code": "price",
@@ -6001,10 +5410,16 @@
           "0.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-2B45972B-VAR-7A25ED13",
+    "sku": "WDR-2B45972B-VAR-7A25ED13",
     "source": {
       "locale": "en-US"
     },
@@ -6016,6 +5431,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6081,19 +5502,22 @@
         "code": "br_glazing",
         "values": [
           "double"
-        ]
+        ],
+        "variantReferenceId": "br_glazing-double"
       },
       {
         "code": "br_frame",
         "values": [
           "fiberglass"
-        ]
+        ],
+        "variantReferenceId": "br_frame-fiberglass"
       },
       {
         "code": "br_size",
         "values": [
           "36x48"
-        ]
+        ],
+        "variantReferenceId": "br_size-36x48"
       },
       {
         "code": "price",
@@ -6107,10 +5531,16 @@
           "0.36"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-2B45972B-VAR-CE429D6",
+    "sku": "WDR-2B45972B-VAR-CE429D6",
     "source": {
       "locale": "en-US"
     },
@@ -6122,6 +5552,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6187,19 +5623,22 @@
         "code": "br_glazing",
         "values": [
           "triple"
-        ]
+        ],
+        "variantReferenceId": "br_glazing-triple"
       },
       {
         "code": "br_frame",
         "values": [
           "vinyl"
-        ]
+        ],
+        "variantReferenceId": "br_frame-vinyl"
       },
       {
         "code": "br_size",
         "values": [
           "30x48"
-        ]
+        ],
+        "variantReferenceId": "br_size-30x48"
       },
       {
         "code": "price",
@@ -6213,10 +5652,16 @@
           "0.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-2B45972B-VAR-CE16F9C",
+    "sku": "WDR-2B45972B-VAR-CE16F9C",
     "source": {
       "locale": "en-US"
     },
@@ -6228,6 +5673,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6293,19 +5744,22 @@
         "code": "br_glazing",
         "values": [
           "triple"
-        ]
+        ],
+        "variantReferenceId": "br_glazing-triple"
       },
       {
         "code": "br_frame",
         "values": [
           "vinyl"
-        ]
+        ],
+        "variantReferenceId": "br_frame-vinyl"
       },
       {
         "code": "br_size",
         "values": [
           "36x48"
-        ]
+        ],
+        "variantReferenceId": "br_size-36x48"
       },
       {
         "code": "price",
@@ -6319,10 +5773,16 @@
           "0.36"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-2B45972B-VAR-4D4EB82C",
+    "sku": "WDR-2B45972B-VAR-4D4EB82C",
     "source": {
       "locale": "en-US"
     },
@@ -6334,111 +5794,11 @@
       "CATALOG",
       "SEARCH"
     ],
-    "attributes": [
+    "routes": [
       {
-        "code": "br_brand",
-        "values": [
-          "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Premium"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "30"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "good"
-        ]
-      },
-      {
-        "code": "br_glazing",
-        "values": [
-          "triple"
-        ]
-      },
-      {
-        "code": "br_frame",
-        "values": [
-          "fiberglass"
-        ]
-      },
-      {
-        "code": "br_size",
-        "values": [
-          "30x48"
-        ]
-      },
-      {
-        "code": "price",
-        "values": [
-          "40.00"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "0.3"
-        ]
+        "path": "windows-doors",
+        "position": 0
       }
-    ]
-  },
-  {
-    "sku": "WIN-2B45972B-VAR-4D517266",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Panorama Systems Energy Efficient Window - triple x fiberglass x 36x48",
-    "slug": "panorama-systems-energy-efficient-window-triple-x-fiberglass-x-36x48",
-    "description": "Panorama Systems Energy Efficient Window combines energy efficiency with classic styling. Features energy-efficient glazing that blocks harmful UV rays while reducing energy costs by up to 30%. The durable frame construction requires minimal maintenance and resists warping, cracking, and fading in all weather conditions. Premium-grade seals and hardware ensure decades of smooth operation. ENERGY STAR certified for superior thermal performance. Professional-grade weatherstripping ensures draft-free operation.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
     ],
     "attributes": [
       {
@@ -6505,19 +5865,143 @@
         "code": "br_glazing",
         "values": [
           "triple"
-        ]
+        ],
+        "variantReferenceId": "br_glazing-triple"
       },
       {
         "code": "br_frame",
         "values": [
           "fiberglass"
+        ],
+        "variantReferenceId": "br_frame-fiberglass"
+      },
+      {
+        "code": "br_size",
+        "values": [
+          "30x48"
+        ],
+        "variantReferenceId": "br_size-30x48"
+      },
+      {
+        "code": "price",
+        "values": [
+          "40.00"
         ]
+      },
+      {
+        "code": "weight",
+        "values": [
+          "0.3"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
+    ]
+  },
+  {
+    "sku": "WDR-2B45972B-VAR-4D517266",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Panorama Systems Energy Efficient Window - triple x fiberglass x 36x48",
+    "slug": "panorama-systems-energy-efficient-window-triple-x-fiberglass-x-36x48",
+    "description": "Panorama Systems Energy Efficient Window combines energy efficiency with classic styling. Features energy-efficient glazing that blocks harmful UV rays while reducing energy costs by up to 30%. The durable frame construction requires minimal maintenance and resists warping, cracking, and fading in all weather conditions. Premium-grade seals and hardware ensure decades of smooth operation. ENERGY STAR certified for superior thermal performance. Professional-grade weatherstripping ensures draft-free operation.",
+    "status": "ENABLED",
+    "visibleIn": [
+      "CATALOG",
+      "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "code": "br_brand",
+        "values": [
+          "Panorama Systems"
+        ]
+      },
+      {
+        "code": "br_product_category",
+        "values": [
+          "Windows & Doors"
+        ]
+      },
+      {
+        "code": "br_unit_of_measure",
+        "values": [
+          "EA"
+        ]
+      },
+      {
+        "code": "br_construction_phase",
+        "values": [
+          "Envelope"
+        ]
+      },
+      {
+        "code": "br_quality_tier",
+        "values": [
+          "Premium"
+        ]
+      },
+      {
+        "code": "br_store_velocity_category",
+        "values": [
+          "low"
+        ]
+      },
+      {
+        "code": "br_recommended_restock_quantity",
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "code": "br_typical_days_supply",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "code": "br_restock_priority",
+        "values": [
+          "low"
+        ]
+      },
+      {
+        "code": "br_package_tier",
+        "values": [
+          "good"
+        ]
+      },
+      {
+        "code": "br_glazing",
+        "values": [
+          "triple"
+        ],
+        "variantReferenceId": "br_glazing-triple"
+      },
+      {
+        "code": "br_frame",
+        "values": [
+          "fiberglass"
+        ],
+        "variantReferenceId": "br_frame-fiberglass"
       },
       {
         "code": "br_size",
         "values": [
           "36x48"
-        ]
+        ],
+        "variantReferenceId": "br_size-36x48"
       },
       {
         "code": "price",
@@ -6531,10 +6015,16 @@
           "0.36"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-2B45972B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-4E33E9CF",
+    "sku": "WDR-40659071-VAR-4E33E9CF",
     "source": {
       "locale": "en-US"
     },
@@ -6546,6 +6036,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6611,19 +6107,22 @@
         "code": "br_material",
         "values": [
           "steel"
-        ]
+        ],
+        "variantReferenceId": "br_material-steel"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -6637,10 +6136,16 @@
           "25.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-5EF51DD3",
+    "sku": "WDR-40659071-VAR-5EF51DD3",
     "source": {
       "locale": "en-US"
     },
@@ -6652,6 +6157,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6717,19 +6228,22 @@
         "code": "br_material",
         "values": [
           "steel"
-        ]
+        ],
+        "variantReferenceId": "br_material-steel"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -6743,10 +6257,16 @@
           "26.88"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-4E33E9D3",
+    "sku": "WDR-40659071-VAR-4E33E9D3",
     "source": {
       "locale": "en-US"
     },
@@ -6758,6 +6278,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6823,19 +6349,22 @@
         "code": "br_material",
         "values": [
           "steel"
-        ]
+        ],
+        "variantReferenceId": "br_material-steel"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -6849,10 +6378,16 @@
           "28.8"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-5EF51DD7",
+    "sku": "WDR-40659071-VAR-5EF51DD7",
     "source": {
       "locale": "en-US"
     },
@@ -6864,6 +6399,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6929,19 +6470,22 @@
         "code": "br_material",
         "values": [
           "steel"
-        ]
+        ],
+        "variantReferenceId": "br_material-steel"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -6955,10 +6499,16 @@
           "30.24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-7CC7EFBA",
+    "sku": "WDR-40659071-VAR-7CC7EFBA",
     "source": {
       "locale": "en-US"
     },
@@ -6970,6 +6520,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7035,19 +6591,22 @@
         "code": "br_material",
         "values": [
           "fiberglass"
-        ]
+        ],
+        "variantReferenceId": "br_material-fiberglass"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -7061,10 +6620,16 @@
           "25.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-7F7A9E36",
+    "sku": "WDR-40659071-VAR-7F7A9E36",
     "source": {
       "locale": "en-US"
     },
@@ -7076,6 +6641,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7141,19 +6712,22 @@
         "code": "br_material",
         "values": [
           "fiberglass"
-        ]
+        ],
+        "variantReferenceId": "br_material-fiberglass"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -7167,10 +6741,16 @@
           "26.88"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-7CC7EFBE",
+    "sku": "WDR-40659071-VAR-7CC7EFBE",
     "source": {
       "locale": "en-US"
     },
@@ -7182,6 +6762,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7247,19 +6833,22 @@
         "code": "br_material",
         "values": [
           "fiberglass"
-        ]
+        ],
+        "variantReferenceId": "br_material-fiberglass"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -7273,10 +6862,16 @@
           "28.8"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-40659071-VAR-7F7A9E3A",
+    "sku": "WDR-40659071-VAR-7F7A9E3A",
     "source": {
       "locale": "en-US"
     },
@@ -7288,6 +6883,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7353,19 +6954,22 @@
         "code": "br_material",
         "values": [
           "fiberglass"
-        ]
+        ],
+        "variantReferenceId": "br_material-fiberglass"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -7379,10 +6983,16 @@
           "30.24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-40659071-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-3A91485A",
+    "sku": "WDR-5DA23D2B-VAR-3A91485A",
     "source": {
       "locale": "en-US"
     },
@@ -7394,6 +7004,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7459,19 +7075,22 @@
         "code": "br_style",
         "values": [
           "panel"
-        ]
+        ],
+        "variantReferenceId": "br_style-panel"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -7485,10 +7104,16 @@
           "24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-207A5DDE",
+    "sku": "WDR-5DA23D2B-VAR-207A5DDE",
     "source": {
       "locale": "en-US"
     },
@@ -7500,6 +7125,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7565,19 +7196,22 @@
         "code": "br_style",
         "values": [
           "panel"
-        ]
+        ],
+        "variantReferenceId": "br_style-panel"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -7591,10 +7225,16 @@
           "25.2"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-3A914858",
+    "sku": "WDR-5DA23D2B-VAR-3A914858",
     "source": {
       "locale": "en-US"
     },
@@ -7605,6 +7245,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -7671,19 +7317,22 @@
         "code": "br_style",
         "values": [
           "panel"
-        ]
+        ],
+        "variantReferenceId": "br_style-panel"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -7697,10 +7346,16 @@
           "25.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-207A5DDC",
+    "sku": "WDR-5DA23D2B-VAR-207A5DDC",
     "source": {
       "locale": "en-US"
     },
@@ -7711,6 +7366,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -7777,19 +7438,22 @@
         "code": "br_style",
         "values": [
           "panel"
-        ]
+        ],
+        "variantReferenceId": "br_style-panel"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -7803,10 +7467,16 @@
           "26.88"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-3A914854",
+    "sku": "WDR-5DA23D2B-VAR-3A914854",
     "source": {
       "locale": "en-US"
     },
@@ -7817,6 +7487,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -7883,19 +7559,22 @@
         "code": "br_style",
         "values": [
           "panel"
-        ]
+        ],
+        "variantReferenceId": "br_style-panel"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -7909,10 +7588,16 @@
           "28.8"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-207A5DD8",
+    "sku": "WDR-5DA23D2B-VAR-207A5DD8",
     "source": {
       "locale": "en-US"
     },
@@ -7923,6 +7608,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -7989,19 +7680,22 @@
         "code": "br_style",
         "values": [
           "panel"
-        ]
+        ],
+        "variantReferenceId": "br_style-panel"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -8015,10 +7709,16 @@
           "30.24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-4462595A",
+    "sku": "WDR-5DA23D2B-VAR-4462595A",
     "source": {
       "locale": "en-US"
     },
@@ -8029,6 +7729,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -8095,19 +7801,22 @@
         "code": "br_style",
         "values": [
           "flush"
-        ]
+        ],
+        "variantReferenceId": "br_style-flush"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -8121,10 +7830,16 @@
           "24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-2A4B6EDE",
+    "sku": "WDR-5DA23D2B-VAR-2A4B6EDE",
     "source": {
       "locale": "en-US"
     },
@@ -8135,6 +7850,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -8201,19 +7922,22 @@
         "code": "br_style",
         "values": [
           "flush"
-        ]
+        ],
+        "variantReferenceId": "br_style-flush"
       },
       {
         "code": "br_width",
         "values": [
           "30"
-        ]
+        ],
+        "variantReferenceId": "br_width-30"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -8227,10 +7951,16 @@
           "25.2"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-44625958",
+    "sku": "WDR-5DA23D2B-VAR-44625958",
     "source": {
       "locale": "en-US"
     },
@@ -8241,6 +7971,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -8307,19 +8043,22 @@
         "code": "br_style",
         "values": [
           "flush"
-        ]
+        ],
+        "variantReferenceId": "br_style-flush"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -8333,10 +8072,16 @@
           "25.6"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-2A4B6EDC",
+    "sku": "WDR-5DA23D2B-VAR-2A4B6EDC",
     "source": {
       "locale": "en-US"
     },
@@ -8347,6 +8092,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -8413,19 +8164,22 @@
         "code": "br_style",
         "values": [
           "flush"
-        ]
+        ],
+        "variantReferenceId": "br_style-flush"
       },
       {
         "code": "br_width",
         "values": [
           "32"
-        ]
+        ],
+        "variantReferenceId": "br_width-32"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -8439,10 +8193,16 @@
           "26.88"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-44625954",
+    "sku": "WDR-5DA23D2B-VAR-44625954",
     "source": {
       "locale": "en-US"
     },
@@ -8453,6 +8213,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -8519,19 +8285,22 @@
         "code": "br_style",
         "values": [
           "flush"
-        ]
+        ],
+        "variantReferenceId": "br_style-flush"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "80"
-        ]
+        ],
+        "variantReferenceId": "br_height-80"
       },
       {
         "code": "price",
@@ -8545,10 +8314,16 @@
           "28.8"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "WIN-5DA23D2B-VAR-2A4B6ED8",
+    "sku": "WDR-5DA23D2B-VAR-2A4B6ED8",
     "source": {
       "locale": "en-US"
     },
@@ -8559,6 +8334,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "windows-doors",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -8625,19 +8406,22 @@
         "code": "br_style",
         "values": [
           "flush"
-        ]
+        ],
+        "variantReferenceId": "br_style-flush"
       },
       {
         "code": "br_width",
         "values": [
           "36"
-        ]
+        ],
+        "variantReferenceId": "br_width-36"
       },
       {
         "code": "br_height",
         "values": [
           "84"
-        ]
+        ],
+        "variantReferenceId": "br_height-84"
       },
       {
         "code": "price",
@@ -8651,10 +8435,16 @@
           "30.24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "WDR-5DA23D2B-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-522173EC",
+    "sku": "FST-29221C31-VAR-522173EC",
     "source": {
       "locale": "en-US"
     },
@@ -8666,6 +8456,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8731,19 +8527,22 @@
         "code": "br_type",
         "values": [
           "framing"
-        ]
+        ],
+        "variantReferenceId": "br_type-framing"
       },
       {
         "code": "br_size",
         "values": [
           "8d"
-        ]
+        ],
+        "variantReferenceId": "br_size-8d"
       },
       {
         "code": "br_quantity",
         "values": [
           "25lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-25lb"
       },
       {
         "code": "price",
@@ -8757,10 +8556,16 @@
           "2"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-D556F6C",
+    "sku": "FST-29221C31-VAR-D556F6C",
     "source": {
       "locale": "en-US"
     },
@@ -8772,6 +8577,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8837,19 +8648,22 @@
         "code": "br_type",
         "values": [
           "framing"
-        ]
+        ],
+        "variantReferenceId": "br_type-framing"
       },
       {
         "code": "br_size",
         "values": [
           "8d"
-        ]
+        ],
+        "variantReferenceId": "br_size-8d"
       },
       {
         "code": "br_quantity",
         "values": [
           "50lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-50lb"
       },
       {
         "code": "price",
@@ -8863,10 +8677,16 @@
           "4"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-4CC78491",
+    "sku": "FST-29221C31-VAR-4CC78491",
     "source": {
       "locale": "en-US"
     },
@@ -8877,6 +8697,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -8943,19 +8769,22 @@
         "code": "br_type",
         "values": [
           "framing"
-        ]
+        ],
+        "variantReferenceId": "br_type-framing"
       },
       {
         "code": "br_size",
         "values": [
           "16d"
-        ]
+        ],
+        "variantReferenceId": "br_size-16d"
       },
       {
         "code": "br_quantity",
         "values": [
           "25lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-25lb"
       },
       {
         "code": "price",
@@ -8969,10 +8798,16 @@
           "4"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-23D2F3C7",
+    "sku": "FST-29221C31-VAR-23D2F3C7",
     "source": {
       "locale": "en-US"
     },
@@ -8983,6 +8818,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -9049,19 +8890,22 @@
         "code": "br_type",
         "values": [
           "framing"
-        ]
+        ],
+        "variantReferenceId": "br_type-framing"
       },
       {
         "code": "br_size",
         "values": [
           "16d"
-        ]
+        ],
+        "variantReferenceId": "br_size-16d"
       },
       {
         "code": "br_quantity",
         "values": [
           "50lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-50lb"
       },
       {
         "code": "price",
@@ -9075,10 +8919,16 @@
           "8"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-58A970AF",
+    "sku": "FST-29221C31-VAR-58A970AF",
     "source": {
       "locale": "en-US"
     },
@@ -9089,6 +8939,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -9155,19 +9011,22 @@
         "code": "br_type",
         "values": [
           "finish"
-        ]
+        ],
+        "variantReferenceId": "br_type-finish"
       },
       {
         "code": "br_size",
         "values": [
           "8d"
-        ]
+        ],
+        "variantReferenceId": "br_size-8d"
       },
       {
         "code": "br_quantity",
         "values": [
           "25lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-25lb"
       },
       {
         "code": "price",
@@ -9181,10 +9040,16 @@
           "2"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-28633DA9",
+    "sku": "FST-29221C31-VAR-28633DA9",
     "source": {
       "locale": "en-US"
     },
@@ -9195,6 +9060,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -9261,19 +9132,22 @@
         "code": "br_type",
         "values": [
           "finish"
-        ]
+        ],
+        "variantReferenceId": "br_type-finish"
       },
       {
         "code": "br_size",
         "values": [
           "8d"
-        ]
+        ],
+        "variantReferenceId": "br_size-8d"
       },
       {
         "code": "br_quantity",
         "values": [
           "50lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-50lb"
       },
       {
         "code": "price",
@@ -9287,10 +9161,16 @@
           "4"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-54F0B6E",
+    "sku": "FST-29221C31-VAR-54F0B6E",
     "source": {
       "locale": "en-US"
     },
@@ -9301,6 +9181,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -9367,19 +9253,22 @@
         "code": "br_type",
         "values": [
           "finish"
-        ]
+        ],
+        "variantReferenceId": "br_type-finish"
       },
       {
         "code": "br_size",
         "values": [
           "16d"
-        ]
+        ],
+        "variantReferenceId": "br_size-16d"
       },
       {
         "code": "br_quantity",
         "values": [
           "25lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-25lb"
       },
       {
         "code": "price",
@@ -9393,10 +9282,16 @@
           "4"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-29221C31-VAR-5A27D7EA",
+    "sku": "FST-29221C31-VAR-5A27D7EA",
     "source": {
       "locale": "en-US"
     },
@@ -9407,6 +9302,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -9473,19 +9374,22 @@
         "code": "br_type",
         "values": [
           "finish"
-        ]
+        ],
+        "variantReferenceId": "br_type-finish"
       },
       {
         "code": "br_size",
         "values": [
           "16d"
-        ]
+        ],
+        "variantReferenceId": "br_size-16d"
       },
       {
         "code": "br_quantity",
         "values": [
           "50lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-50lb"
       },
       {
         "code": "price",
@@ -9499,10 +9403,16 @@
           "8"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-29221C31-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-E995512",
+    "sku": "FST-1DE6D501-VAR-E995512",
     "source": {
       "locale": "en-US"
     },
@@ -9514,6 +9424,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -9579,19 +9495,22 @@
         "code": "br_coating",
         "values": [
           "galvanized"
-        ]
+        ],
+        "variantReferenceId": "br_coating-galvanized"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_gauge",
         "values": [
           "11"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-11"
       },
       {
         "code": "price",
@@ -9605,10 +9524,16 @@
           "0.22"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-2E2C631",
+    "sku": "FST-1DE6D501-VAR-2E2C631",
     "source": {
       "locale": "en-US"
     },
@@ -9620,6 +9545,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -9685,19 +9616,22 @@
         "code": "br_coating",
         "values": [
           "galvanized"
-        ]
+        ],
+        "variantReferenceId": "br_coating-galvanized"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_gauge",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-12"
       },
       {
         "code": "price",
@@ -9711,10 +9645,16 @@
           "0.24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-E995513",
+    "sku": "FST-1DE6D501-VAR-E995513",
     "source": {
       "locale": "en-US"
     },
@@ -9725,6 +9665,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -9791,19 +9737,22 @@
         "code": "br_coating",
         "values": [
           "galvanized"
-        ]
+        ],
+        "variantReferenceId": "br_coating-galvanized"
       },
       {
         "code": "br_length",
         "values": [
           "3"
-        ]
+        ],
+        "variantReferenceId": "br_length-3"
       },
       {
         "code": "br_gauge",
         "values": [
           "11"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-11"
       },
       {
         "code": "price",
@@ -9817,10 +9766,16 @@
           "0.33"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-2E2C632",
+    "sku": "FST-1DE6D501-VAR-2E2C632",
     "source": {
       "locale": "en-US"
     },
@@ -9831,6 +9786,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -9897,19 +9858,22 @@
         "code": "br_coating",
         "values": [
           "galvanized"
-        ]
+        ],
+        "variantReferenceId": "br_coating-galvanized"
       },
       {
         "code": "br_length",
         "values": [
           "3"
-        ]
+        ],
+        "variantReferenceId": "br_length-3"
       },
       {
         "code": "br_gauge",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-12"
       },
       {
         "code": "price",
@@ -9923,10 +9887,16 @@
           "0.36"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-65358B5B",
+    "sku": "FST-1DE6D501-VAR-65358B5B",
     "source": {
       "locale": "en-US"
     },
@@ -9937,6 +9907,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10003,19 +9979,22 @@
         "code": "br_coating",
         "values": [
           "stainless"
-        ]
+        ],
+        "variantReferenceId": "br_coating-stainless"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_gauge",
         "values": [
           "11"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-11"
       },
       {
         "code": "price",
@@ -10029,10 +10008,16 @@
           "0.22"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-597EFC7A",
+    "sku": "FST-1DE6D501-VAR-597EFC7A",
     "source": {
       "locale": "en-US"
     },
@@ -10043,6 +10028,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10109,19 +10100,22 @@
         "code": "br_coating",
         "values": [
           "stainless"
-        ]
+        ],
+        "variantReferenceId": "br_coating-stainless"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_gauge",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-12"
       },
       {
         "code": "price",
@@ -10135,10 +10129,16 @@
           "0.24"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-65358B5C",
+    "sku": "FST-1DE6D501-VAR-65358B5C",
     "source": {
       "locale": "en-US"
     },
@@ -10149,6 +10149,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10215,19 +10221,22 @@
         "code": "br_coating",
         "values": [
           "stainless"
-        ]
+        ],
+        "variantReferenceId": "br_coating-stainless"
       },
       {
         "code": "br_length",
         "values": [
           "3"
-        ]
+        ],
+        "variantReferenceId": "br_length-3"
       },
       {
         "code": "br_gauge",
         "values": [
           "11"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-11"
       },
       {
         "code": "price",
@@ -10241,10 +10250,16 @@
           "0.33"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-1DE6D501-VAR-597EFC7B",
+    "sku": "FST-1DE6D501-VAR-597EFC7B",
     "source": {
       "locale": "en-US"
     },
@@ -10255,6 +10270,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10321,19 +10342,22 @@
         "code": "br_coating",
         "values": [
           "stainless"
-        ]
+        ],
+        "variantReferenceId": "br_coating-stainless"
       },
       {
         "code": "br_length",
         "values": [
           "3"
-        ]
+        ],
+        "variantReferenceId": "br_length-3"
       },
       {
         "code": "br_gauge",
         "values": [
           "12"
-        ]
+        ],
+        "variantReferenceId": "br_gauge-12"
       },
       {
         "code": "price",
@@ -10347,10 +10371,16 @@
           "0.36"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-1DE6D501-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-3F404B60",
+    "sku": "FST-257A4354-VAR-3F404B60",
     "source": {
       "locale": "en-US"
     },
@@ -10362,6 +10392,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10427,19 +10463,22 @@
         "code": "br_type",
         "values": [
           "deck"
-        ]
+        ],
+        "variantReferenceId": "br_type-deck"
       },
       {
         "code": "br_length",
         "values": [
           "1.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-1.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "1lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-1lb"
       },
       {
         "code": "price",
@@ -10453,10 +10492,16 @@
           "0.015"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-6B39A9C",
+    "sku": "FST-257A4354-VAR-6B39A9C",
     "source": {
       "locale": "en-US"
     },
@@ -10468,6 +10513,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10533,19 +10584,22 @@
         "code": "br_type",
         "values": [
           "deck"
-        ]
+        ],
+        "variantReferenceId": "br_type-deck"
       },
       {
         "code": "br_length",
         "values": [
           "1.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-1.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "5lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-5lb"
       },
       {
         "code": "price",
@@ -10559,10 +10613,16 @@
           "0.075"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-25BC369A",
+    "sku": "FST-257A4354-VAR-25BC369A",
     "source": {
       "locale": "en-US"
     },
@@ -10573,6 +10633,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10639,19 +10705,22 @@
         "code": "br_type",
         "values": [
           "deck"
-        ]
+        ],
+        "variantReferenceId": "br_type-deck"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_quantity",
         "values": [
           "1lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-1lb"
       },
       {
         "code": "price",
@@ -10665,10 +10734,16 @@
           "0.02"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-6BB01C96",
+    "sku": "FST-257A4354-VAR-6BB01C96",
     "source": {
       "locale": "en-US"
     },
@@ -10679,6 +10754,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10745,19 +10826,22 @@
         "code": "br_type",
         "values": [
           "deck"
-        ]
+        ],
+        "variantReferenceId": "br_type-deck"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_quantity",
         "values": [
           "5lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-5lb"
       },
       {
         "code": "price",
@@ -10771,10 +10855,16 @@
           "0.1"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-41199E7F",
+    "sku": "FST-257A4354-VAR-41199E7F",
     "source": {
       "locale": "en-US"
     },
@@ -10785,6 +10875,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10851,19 +10947,22 @@
         "code": "br_type",
         "values": [
           "deck"
-        ]
+        ],
+        "variantReferenceId": "br_type-deck"
       },
       {
         "code": "br_length",
         "values": [
           "2.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-2.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "1lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-1lb"
       },
       {
         "code": "price",
@@ -10877,10 +10976,16 @@
           "0.025"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-4DA477D",
+    "sku": "FST-257A4354-VAR-4DA477D",
     "source": {
       "locale": "en-US"
     },
@@ -10891,6 +10996,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -10957,19 +11068,22 @@
         "code": "br_type",
         "values": [
           "deck"
-        ]
+        ],
+        "variantReferenceId": "br_type-deck"
       },
       {
         "code": "br_length",
         "values": [
           "2.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-2.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "5lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-5lb"
       },
       {
         "code": "price",
@@ -10983,10 +11097,16 @@
           "0.125"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-4D909422",
+    "sku": "FST-257A4354-VAR-4D909422",
     "source": {
       "locale": "en-US"
     },
@@ -10997,6 +11117,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -11063,19 +11189,22 @@
         "code": "br_type",
         "values": [
           "drywall"
-        ]
+        ],
+        "variantReferenceId": "br_type-drywall"
       },
       {
         "code": "br_length",
         "values": [
           "1.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-1.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "1lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-1lb"
       },
       {
         "code": "price",
@@ -11089,10 +11218,16 @@
           "0.015"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-38B6E35A",
+    "sku": "FST-257A4354-VAR-38B6E35A",
     "source": {
       "locale": "en-US"
     },
@@ -11103,6 +11238,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -11169,19 +11310,22 @@
         "code": "br_type",
         "values": [
           "drywall"
-        ]
+        ],
+        "variantReferenceId": "br_type-drywall"
       },
       {
         "code": "br_length",
         "values": [
           "1.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-1.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "5lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-5lb"
       },
       {
         "code": "price",
@@ -11195,10 +11339,16 @@
           "0.075"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-322A17E8",
+    "sku": "FST-257A4354-VAR-322A17E8",
     "source": {
       "locale": "en-US"
     },
@@ -11209,6 +11359,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -11275,19 +11431,22 @@
         "code": "br_type",
         "values": [
           "drywall"
-        ]
+        ],
+        "variantReferenceId": "br_type-drywall"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_quantity",
         "values": [
           "1lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-1lb"
       },
       {
         "code": "price",
@@ -11301,10 +11460,16 @@
           "0.02"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-541D5F94",
+    "sku": "FST-257A4354-VAR-541D5F94",
     "source": {
       "locale": "en-US"
     },
@@ -11315,6 +11480,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -11381,19 +11552,22 @@
         "code": "br_type",
         "values": [
           "drywall"
-        ]
+        ],
+        "variantReferenceId": "br_type-drywall"
       },
       {
         "code": "br_length",
         "values": [
           "2"
-        ]
+        ],
+        "variantReferenceId": "br_length-2"
       },
       {
         "code": "br_quantity",
         "values": [
           "5lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-5lb"
       },
       {
         "code": "price",
@@ -11407,10 +11581,16 @@
           "0.1"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-2440AFA1",
+    "sku": "FST-257A4354-VAR-2440AFA1",
     "source": {
       "locale": "en-US"
     },
@@ -11421,6 +11601,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -11487,19 +11673,22 @@
         "code": "br_type",
         "values": [
           "drywall"
-        ]
+        ],
+        "variantReferenceId": "br_type-drywall"
       },
       {
         "code": "br_length",
         "values": [
           "2.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-2.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "1lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-1lb"
       },
       {
         "code": "price",
@@ -11513,10 +11702,16 @@
           "0.025"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "FAS-257A4354-VAR-6206C7DB",
+    "sku": "FST-257A4354-VAR-6206C7DB",
     "source": {
       "locale": "en-US"
     },
@@ -11527,6 +11722,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "fasteners-hardware",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -11593,19 +11794,22 @@
         "code": "br_type",
         "values": [
           "drywall"
-        ]
+        ],
+        "variantReferenceId": "br_type-drywall"
       },
       {
         "code": "br_length",
         "values": [
           "2.5"
-        ]
+        ],
+        "variantReferenceId": "br_length-2.5"
       },
       {
         "code": "br_quantity",
         "values": [
           "5lb"
-        ]
+        ],
+        "variantReferenceId": "br_quantity-5lb"
       },
       {
         "code": "price",
@@ -11619,10 +11823,16 @@
           "0.125"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "FST-257A4354-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-C5751F3-VAR-512D3CD1",
+    "sku": "ROF-C5751F3-VAR-512D3CD1",
     "source": {
       "locale": "en-US"
     },
@@ -11634,6 +11844,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11699,19 +11915,22 @@
         "code": "br_style",
         "values": [
           "dimensional"
-        ]
+        ],
+        "variantReferenceId": "br_style-dimensional"
       },
       {
         "code": "br_color",
         "values": [
           "charcoal"
-        ]
+        ],
+        "variantReferenceId": "br_color-charcoal"
       },
       {
         "code": "br_warranty",
         "values": [
           "25yr"
-        ]
+        ],
+        "variantReferenceId": "br_warranty-25yr"
       },
       {
         "code": "price",
@@ -11725,10 +11944,16 @@
           "0.25"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-C5751F3-VAR-512D9E6B",
+    "sku": "ROF-C5751F3-VAR-512D9E6B",
     "source": {
       "locale": "en-US"
     },
@@ -11740,6 +11965,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11805,19 +12036,22 @@
         "code": "br_style",
         "values": [
           "dimensional"
-        ]
+        ],
+        "variantReferenceId": "br_style-dimensional"
       },
       {
         "code": "br_color",
         "values": [
           "charcoal"
-        ]
+        ],
+        "variantReferenceId": "br_color-charcoal"
       },
       {
         "code": "br_warranty",
         "values": [
           "30yr"
-        ]
+        ],
+        "variantReferenceId": "br_warranty-30yr"
       },
       {
         "code": "price",
@@ -11831,10 +12065,16 @@
           "0.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-C5751F3-VAR-217FF00B",
+    "sku": "ROF-C5751F3-VAR-217FF00B",
     "source": {
       "locale": "en-US"
     },
@@ -11846,6 +12086,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11911,19 +12157,22 @@
         "code": "br_style",
         "values": [
           "dimensional"
-        ]
+        ],
+        "variantReferenceId": "br_style-dimensional"
       },
       {
         "code": "br_color",
         "values": [
           "weathered-wood"
-        ]
+        ],
+        "variantReferenceId": "br_color-weathered-wood"
       },
       {
         "code": "br_warranty",
         "values": [
           "25yr"
-        ]
+        ],
+        "variantReferenceId": "br_warranty-25yr"
       },
       {
         "code": "price",
@@ -11937,10 +12186,16 @@
           "0.25"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-C5751F3-VAR-218051A5",
+    "sku": "ROF-C5751F3-VAR-218051A5",
     "source": {
       "locale": "en-US"
     },
@@ -11952,6 +12207,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12017,19 +12278,22 @@
         "code": "br_style",
         "values": [
           "dimensional"
-        ]
+        ],
+        "variantReferenceId": "br_style-dimensional"
       },
       {
         "code": "br_color",
         "values": [
           "weathered-wood"
-        ]
+        ],
+        "variantReferenceId": "br_color-weathered-wood"
       },
       {
         "code": "br_warranty",
         "values": [
           "30yr"
-        ]
+        ],
+        "variantReferenceId": "br_warranty-30yr"
       },
       {
         "code": "price",
@@ -12043,10 +12307,16 @@
           "0.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-C5751F3-VAR-83B9DB1",
+    "sku": "ROF-C5751F3-VAR-83B9DB1",
     "source": {
       "locale": "en-US"
     },
@@ -12058,6 +12328,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12123,19 +12399,22 @@
         "code": "br_style",
         "values": [
           "laminated"
-        ]
+        ],
+        "variantReferenceId": "br_style-laminated"
       },
       {
         "code": "br_color",
         "values": [
           "charcoal"
-        ]
+        ],
+        "variantReferenceId": "br_color-charcoal"
       },
       {
         "code": "br_warranty",
         "values": [
           "25yr"
-        ]
+        ],
+        "variantReferenceId": "br_warranty-25yr"
       },
       {
         "code": "price",
@@ -12149,10 +12428,16 @@
           "0.25"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-C5751F3-VAR-83B3C17",
+    "sku": "ROF-C5751F3-VAR-83B3C17",
     "source": {
       "locale": "en-US"
     },
@@ -12164,111 +12449,11 @@
       "CATALOG",
       "SEARCH"
     ],
-    "attributes": [
+    "routes": [
       {
-        "code": "br_brand",
-        "values": [
-          "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Builder grade"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "36"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "14"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "medium"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "better"
-        ]
-      },
-      {
-        "code": "br_style",
-        "values": [
-          "laminated"
-        ]
-      },
-      {
-        "code": "br_color",
-        "values": [
-          "charcoal"
-        ]
-      },
-      {
-        "code": "br_warranty",
-        "values": [
-          "30yr"
-        ]
-      },
-      {
-        "code": "price",
-        "values": [
-          "40.00"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "0.3"
-        ]
+        "path": "roofing",
+        "position": 0
       }
-    ]
-  },
-  {
-    "sku": "ROO-C5751F3-VAR-5DBE9C09",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "SkyGuard Roofing Architectural Shingle System - laminated x weathered-wood x 25yr",
-    "slug": "skyguard-roofing-architectural-shingle-system-laminated-x-weathered-wood-x-25yr",
-    "description": "SkyGuard Roofing Architectural Shingle System offers superior weather protection with architectural styling. Heavy-duty fiberglass mat reinforced with premium asphalt provides excellent tear strength. Wind-resistant design withstands up to 110 mph winds. Class A fire rating delivers maximum protection. Algae-resistant granules prevent unsightly staining in humid climates. Advanced sealant activates in sunlight for secure bonding. 30-year limited warranty ensures lasting value. UL2218 Class 4 impact-resistant rated.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
     ],
     "attributes": [
       {
@@ -12335,19 +12520,143 @@
         "code": "br_style",
         "values": [
           "laminated"
+        ],
+        "variantReferenceId": "br_style-laminated"
+      },
+      {
+        "code": "br_color",
+        "values": [
+          "charcoal"
+        ],
+        "variantReferenceId": "br_color-charcoal"
+      },
+      {
+        "code": "br_warranty",
+        "values": [
+          "30yr"
+        ],
+        "variantReferenceId": "br_warranty-30yr"
+      },
+      {
+        "code": "price",
+        "values": [
+          "40.00"
         ]
+      },
+      {
+        "code": "weight",
+        "values": [
+          "0.3"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
+    ]
+  },
+  {
+    "sku": "ROF-C5751F3-VAR-5DBE9C09",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "SkyGuard Roofing Architectural Shingle System - laminated x weathered-wood x 25yr",
+    "slug": "skyguard-roofing-architectural-shingle-system-laminated-x-weathered-wood-x-25yr",
+    "description": "SkyGuard Roofing Architectural Shingle System offers superior weather protection with architectural styling. Heavy-duty fiberglass mat reinforced with premium asphalt provides excellent tear strength. Wind-resistant design withstands up to 110 mph winds. Class A fire rating delivers maximum protection. Algae-resistant granules prevent unsightly staining in humid climates. Advanced sealant activates in sunlight for secure bonding. 30-year limited warranty ensures lasting value. UL2218 Class 4 impact-resistant rated.",
+    "status": "ENABLED",
+    "visibleIn": [
+      "CATALOG",
+      "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "code": "br_brand",
+        "values": [
+          "SkyGuard Roofing"
+        ]
+      },
+      {
+        "code": "br_product_category",
+        "values": [
+          "Roofing"
+        ]
+      },
+      {
+        "code": "br_unit_of_measure",
+        "values": [
+          "EA"
+        ]
+      },
+      {
+        "code": "br_construction_phase",
+        "values": [
+          "Envelope"
+        ]
+      },
+      {
+        "code": "br_quality_tier",
+        "values": [
+          "Builder grade"
+        ]
+      },
+      {
+        "code": "br_store_velocity_category",
+        "values": [
+          "medium"
+        ]
+      },
+      {
+        "code": "br_recommended_restock_quantity",
+        "values": [
+          "36"
+        ]
+      },
+      {
+        "code": "br_typical_days_supply",
+        "values": [
+          "14"
+        ]
+      },
+      {
+        "code": "br_restock_priority",
+        "values": [
+          "medium"
+        ]
+      },
+      {
+        "code": "br_package_tier",
+        "values": [
+          "better"
+        ]
+      },
+      {
+        "code": "br_style",
+        "values": [
+          "laminated"
+        ],
+        "variantReferenceId": "br_style-laminated"
       },
       {
         "code": "br_color",
         "values": [
           "weathered-wood"
-        ]
+        ],
+        "variantReferenceId": "br_color-weathered-wood"
       },
       {
         "code": "br_warranty",
         "values": [
           "25yr"
-        ]
+        ],
+        "variantReferenceId": "br_warranty-25yr"
       },
       {
         "code": "price",
@@ -12361,10 +12670,16 @@
           "0.25"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-C5751F3-VAR-5DBEFDA3",
+    "sku": "ROF-C5751F3-VAR-5DBEFDA3",
     "source": {
       "locale": "en-US"
     },
@@ -12375,6 +12690,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -12441,19 +12762,22 @@
         "code": "br_style",
         "values": [
           "laminated"
-        ]
+        ],
+        "variantReferenceId": "br_style-laminated"
       },
       {
         "code": "br_color",
         "values": [
           "weathered-wood"
-        ]
+        ],
+        "variantReferenceId": "br_color-weathered-wood"
       },
       {
         "code": "br_warranty",
         "values": [
           "30yr"
-        ]
+        ],
+        "variantReferenceId": "br_warranty-30yr"
       },
       {
         "code": "price",
@@ -12467,10 +12791,16 @@
           "0.3"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-C5751F3-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-6EDFD6A2-VAR-7821A9BB",
+    "sku": "ROF-6EDFD6A2-VAR-7821A9BB",
     "source": {
       "locale": "en-US"
     },
@@ -12482,6 +12812,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12547,19 +12883,22 @@
         "code": "br_type",
         "values": [
           "impact-resistant"
-        ]
+        ],
+        "variantReferenceId": "br_type-impact-resistant"
       },
       {
         "code": "br_profile",
         "values": [
           "standard"
-        ]
+        ],
+        "variantReferenceId": "br_profile-standard"
       },
       {
         "code": "br_coverage",
         "values": [
           "100sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-100sf"
       },
       {
         "code": "price",
@@ -12573,10 +12912,16 @@
           "1"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-6EDFD6A2-VAR-3E15955B",
+    "sku": "ROF-6EDFD6A2-VAR-3E15955B",
     "source": {
       "locale": "en-US"
     },
@@ -12588,6 +12933,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12653,19 +13004,22 @@
         "code": "br_type",
         "values": [
           "impact-resistant"
-        ]
+        ],
+        "variantReferenceId": "br_type-impact-resistant"
       },
       {
         "code": "br_profile",
         "values": [
           "standard"
-        ]
+        ],
+        "variantReferenceId": "br_profile-standard"
       },
       {
         "code": "br_coverage",
         "values": [
           "133sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-133sf"
       },
       {
         "code": "price",
@@ -12679,10 +13033,16 @@
           "1.33"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-6EDFD6A2-VAR-3EF2DC3C",
+    "sku": "ROF-6EDFD6A2-VAR-3EF2DC3C",
     "source": {
       "locale": "en-US"
     },
@@ -12694,6 +13054,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12759,19 +13125,22 @@
         "code": "br_type",
         "values": [
           "impact-resistant"
-        ]
+        ],
+        "variantReferenceId": "br_type-impact-resistant"
       },
       {
         "code": "br_profile",
         "values": [
           "high-profile"
-        ]
+        ],
+        "variantReferenceId": "br_profile-high-profile"
       },
       {
         "code": "br_coverage",
         "values": [
           "100sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-100sf"
       },
       {
         "code": "price",
@@ -12785,10 +13154,16 @@
           "1"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-6EDFD6A2-VAR-34380824",
+    "sku": "ROF-6EDFD6A2-VAR-34380824",
     "source": {
       "locale": "en-US"
     },
@@ -12800,6 +13175,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12865,19 +13246,22 @@
         "code": "br_type",
         "values": [
           "impact-resistant"
-        ]
+        ],
+        "variantReferenceId": "br_type-impact-resistant"
       },
       {
         "code": "br_profile",
         "values": [
           "high-profile"
-        ]
+        ],
+        "variantReferenceId": "br_profile-high-profile"
       },
       {
         "code": "br_coverage",
         "values": [
           "133sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-133sf"
       },
       {
         "code": "price",
@@ -12891,10 +13275,16 @@
           "1.33"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-6EDFD6A2-VAR-2A1310B3",
+    "sku": "ROF-6EDFD6A2-VAR-2A1310B3",
     "source": {
       "locale": "en-US"
     },
@@ -12906,6 +13296,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12971,19 +13367,22 @@
         "code": "br_type",
         "values": [
           "cool-roof"
-        ]
+        ],
+        "variantReferenceId": "br_type-cool-roof"
       },
       {
         "code": "br_profile",
         "values": [
           "standard"
-        ]
+        ],
+        "variantReferenceId": "br_profile-standard"
       },
       {
         "code": "br_coverage",
         "values": [
           "100sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-100sf"
       },
       {
         "code": "price",
@@ -12997,10 +13396,16 @@
           "1"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-6EDFD6A2-VAR-44A506ED",
+    "sku": "ROF-6EDFD6A2-VAR-44A506ED",
     "source": {
       "locale": "en-US"
     },
@@ -13012,111 +13417,11 @@
       "CATALOG",
       "SEARCH"
     ],
-    "attributes": [
+    "routes": [
       {
-        "code": "br_brand",
-        "values": [
-          "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
-        ]
-      },
-      {
-        "code": "br_unit_of_measure",
-        "values": [
-          "EA"
-        ]
-      },
-      {
-        "code": "br_construction_phase",
-        "values": [
-          "Envelope"
-        ]
-      },
-      {
-        "code": "br_quality_tier",
-        "values": [
-          "Premium"
-        ]
-      },
-      {
-        "code": "br_store_velocity_category",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_recommended_restock_quantity",
-        "values": [
-          "22"
-        ]
-      },
-      {
-        "code": "br_typical_days_supply",
-        "values": [
-          "30"
-        ]
-      },
-      {
-        "code": "br_restock_priority",
-        "values": [
-          "low"
-        ]
-      },
-      {
-        "code": "br_package_tier",
-        "values": [
-          "good"
-        ]
-      },
-      {
-        "code": "br_type",
-        "values": [
-          "cool-roof"
-        ]
-      },
-      {
-        "code": "br_profile",
-        "values": [
-          "standard"
-        ]
-      },
-      {
-        "code": "br_coverage",
-        "values": [
-          "133sf"
-        ]
-      },
-      {
-        "code": "price",
-        "values": [
-          "143.00"
-        ]
-      },
-      {
-        "code": "weight",
-        "values": [
-          "1.33"
-        ]
+        "path": "roofing",
+        "position": 0
       }
-    ]
-  },
-  {
-    "sku": "ROO-6EDFD6A2-VAR-23D33D52",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Vertex Shingles Specialty Roofing Shingles - cool-roof x high-profile x 100sf",
-    "slug": "vertex-shingles-specialty-roofing-shingles-cool-roof-x-high-profile-x-100sf",
-    "description": "Vertex Shingles Specialty Roofing Shingles offers superior weather protection with architectural styling. Heavy-duty fiberglass mat reinforced with premium asphalt provides excellent tear strength. Enhanced wind resistance up to 130 mph. Class A fire rating delivers maximum protection. Algae-resistant granules prevent unsightly staining in humid climates. Advanced sealant activates in sunlight for secure bonding. Limited lifetime warranty with transferable coverage. UL2218 Class 4 impact-resistant rated.",
-    "status": "ENABLED",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
     ],
     "attributes": [
       {
@@ -13183,19 +13488,143 @@
         "code": "br_type",
         "values": [
           "cool-roof"
+        ],
+        "variantReferenceId": "br_type-cool-roof"
+      },
+      {
+        "code": "br_profile",
+        "values": [
+          "standard"
+        ],
+        "variantReferenceId": "br_profile-standard"
+      },
+      {
+        "code": "br_coverage",
+        "values": [
+          "133sf"
+        ],
+        "variantReferenceId": "br_coverage-133sf"
+      },
+      {
+        "code": "price",
+        "values": [
+          "143.00"
         ]
+      },
+      {
+        "code": "weight",
+        "values": [
+          "1.33"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
+    ]
+  },
+  {
+    "sku": "ROF-6EDFD6A2-VAR-23D33D52",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Vertex Shingles Specialty Roofing Shingles - cool-roof x high-profile x 100sf",
+    "slug": "vertex-shingles-specialty-roofing-shingles-cool-roof-x-high-profile-x-100sf",
+    "description": "Vertex Shingles Specialty Roofing Shingles offers superior weather protection with architectural styling. Heavy-duty fiberglass mat reinforced with premium asphalt provides excellent tear strength. Enhanced wind resistance up to 130 mph. Class A fire rating delivers maximum protection. Algae-resistant granules prevent unsightly staining in humid climates. Advanced sealant activates in sunlight for secure bonding. Limited lifetime warranty with transferable coverage. UL2218 Class 4 impact-resistant rated.",
+    "status": "ENABLED",
+    "visibleIn": [
+      "CATALOG",
+      "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
+    "attributes": [
+      {
+        "code": "br_brand",
+        "values": [
+          "Vertex Shingles"
+        ]
+      },
+      {
+        "code": "br_product_category",
+        "values": [
+          "Roofing"
+        ]
+      },
+      {
+        "code": "br_unit_of_measure",
+        "values": [
+          "EA"
+        ]
+      },
+      {
+        "code": "br_construction_phase",
+        "values": [
+          "Envelope"
+        ]
+      },
+      {
+        "code": "br_quality_tier",
+        "values": [
+          "Premium"
+        ]
+      },
+      {
+        "code": "br_store_velocity_category",
+        "values": [
+          "low"
+        ]
+      },
+      {
+        "code": "br_recommended_restock_quantity",
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "code": "br_typical_days_supply",
+        "values": [
+          "30"
+        ]
+      },
+      {
+        "code": "br_restock_priority",
+        "values": [
+          "low"
+        ]
+      },
+      {
+        "code": "br_package_tier",
+        "values": [
+          "good"
+        ]
+      },
+      {
+        "code": "br_type",
+        "values": [
+          "cool-roof"
+        ],
+        "variantReferenceId": "br_type-cool-roof"
       },
       {
         "code": "br_profile",
         "values": [
           "high-profile"
-        ]
+        ],
+        "variantReferenceId": "br_profile-high-profile"
       },
       {
         "code": "br_coverage",
         "values": [
           "100sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-100sf"
       },
       {
         "code": "price",
@@ -13209,10 +13638,16 @@
           "1"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-6EDFD6A2-VAR-7BD00A4E",
+    "sku": "ROF-6EDFD6A2-VAR-7BD00A4E",
     "source": {
       "locale": "en-US"
     },
@@ -13223,6 +13658,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -13289,19 +13730,22 @@
         "code": "br_type",
         "values": [
           "cool-roof"
-        ]
+        ],
+        "variantReferenceId": "br_type-cool-roof"
       },
       {
         "code": "br_profile",
         "values": [
           "high-profile"
-        ]
+        ],
+        "variantReferenceId": "br_profile-high-profile"
       },
       {
         "code": "br_coverage",
         "values": [
           "133sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-133sf"
       },
       {
         "code": "price",
@@ -13315,10 +13759,16 @@
           "1.33"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-6EDFD6A2-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-361E0A64",
+    "sku": "ROF-177C6B48-VAR-361E0A64",
     "source": {
       "locale": "en-US"
     },
@@ -13330,6 +13780,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -13395,19 +13851,22 @@
         "code": "br_type",
         "values": [
           "felt"
-        ]
+        ],
+        "variantReferenceId": "br_type-felt"
       },
       {
         "code": "br_weight",
         "values": [
           "15lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-15lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "500sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-500sf"
       },
       {
         "code": "price",
@@ -13421,10 +13880,16 @@
           "75"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-43505E8",
+    "sku": "ROF-177C6B48-VAR-43505E8",
     "source": {
       "locale": "en-US"
     },
@@ -13436,6 +13901,12 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -13501,19 +13972,22 @@
         "code": "br_type",
         "values": [
           "felt"
-        ]
+        ],
+        "variantReferenceId": "br_type-felt"
       },
       {
         "code": "br_weight",
         "values": [
           "15lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-15lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "1000sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-1000sf"
       },
       {
         "code": "price",
@@ -13527,10 +14001,16 @@
           "150"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-361EE05D",
+    "sku": "ROF-177C6B48-VAR-361EE05D",
     "source": {
       "locale": "en-US"
     },
@@ -13541,6 +14021,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -13607,19 +14093,22 @@
         "code": "br_type",
         "values": [
           "felt"
-        ]
+        ],
+        "variantReferenceId": "br_type-felt"
       },
       {
         "code": "br_weight",
         "values": [
           "30lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-30lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "500sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-500sf"
       },
       {
         "code": "price",
@@ -13633,10 +14122,16 @@
           "150"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-4342FEF",
+    "sku": "ROF-177C6B48-VAR-4342FEF",
     "source": {
       "locale": "en-US"
     },
@@ -13647,6 +14142,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -13713,19 +14214,22 @@
         "code": "br_type",
         "values": [
           "felt"
-        ]
+        ],
+        "variantReferenceId": "br_type-felt"
       },
       {
         "code": "br_weight",
         "values": [
           "30lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-30lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "1000sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-1000sf"
       },
       {
         "code": "price",
@@ -13739,10 +14243,16 @@
           "300"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-471E91F2",
+    "sku": "ROF-177C6B48-VAR-471E91F2",
     "source": {
       "locale": "en-US"
     },
@@ -13753,6 +14263,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -13819,19 +14335,22 @@
         "code": "br_type",
         "values": [
           "synthetic"
-        ]
+        ],
+        "variantReferenceId": "br_type-synthetic"
       },
       {
         "code": "br_weight",
         "values": [
           "15lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-15lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "500sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-500sf"
       },
       {
         "code": "price",
@@ -13845,10 +14364,16 @@
           "75"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-57E5D126",
+    "sku": "ROF-177C6B48-VAR-57E5D126",
     "source": {
       "locale": "en-US"
     },
@@ -13859,6 +14384,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -13925,19 +14456,22 @@
         "code": "br_type",
         "values": [
           "synthetic"
-        ]
+        ],
+        "variantReferenceId": "br_type-synthetic"
       },
       {
         "code": "br_weight",
         "values": [
           "15lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-15lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "1000sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-1000sf"
       },
       {
         "code": "price",
@@ -13951,10 +14485,16 @@
           "150"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-471DBBF9",
+    "sku": "ROF-177C6B48-VAR-471DBBF9",
     "source": {
       "locale": "en-US"
     },
@@ -13965,6 +14505,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -14031,19 +14577,22 @@
         "code": "br_type",
         "values": [
           "synthetic"
-        ]
+        ],
+        "variantReferenceId": "br_type-synthetic"
       },
       {
         "code": "br_weight",
         "values": [
           "30lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-30lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "500sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-500sf"
       },
       {
         "code": "price",
@@ -14057,10 +14606,16 @@
           "150"
         ]
       }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
+      }
     ]
   },
   {
-    "sku": "ROO-177C6B48-VAR-57E4FB2D",
+    "sku": "ROF-177C6B48-VAR-57E4FB2D",
     "source": {
       "locale": "en-US"
     },
@@ -14071,6 +14626,12 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
+    ],
+    "routes": [
+      {
+        "path": "roofing",
+        "position": 0
+      }
     ],
     "attributes": [
       {
@@ -14137,19 +14698,22 @@
         "code": "br_type",
         "values": [
           "synthetic"
-        ]
+        ],
+        "variantReferenceId": "br_type-synthetic"
       },
       {
         "code": "br_weight",
         "values": [
           "30lb"
-        ]
+        ],
+        "variantReferenceId": "br_weight-30lb"
       },
       {
         "code": "br_coverage",
         "values": [
           "1000sf"
-        ]
+        ],
+        "variantReferenceId": "br_coverage-1000sf"
       },
       {
         "code": "price",
@@ -14162,6 +14726,12 @@
         "values": [
           "300"
         ]
+      }
+    ],
+    "links": [
+      {
+        "type": "VARIANT_OF",
+        "sku": "ROF-177C6B48-CONFIG"
       }
     ]
   }
