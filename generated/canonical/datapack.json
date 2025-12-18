@@ -7429,58 +7429,15 @@
       "required": true,
       "searchable": true,
       "filterable": true,
-      "comparable": false,
+      "comparable": true,
       "visibleOnFront": true,
       "usedInProductListing": true,
       "options": [
-        {
-          "value": "structural-materials",
-          "label": "Structural Materials"
-        },
-        {
-          "value": "framing-drywall",
-          "label": "Framing & Drywall"
-        },
-        {
-          "value": "windows-doors",
-          "label": "Windows & Doors"
-        },
-        {
-          "value": "fasteners-hardware",
-          "label": "Fasteners & Hardware"
-        },
-        {
-          "value": "roofing",
-          "label": "Roofing"
-        },
-        {
-          "value": "interior-finishes",
-          "label": "Interior Finishes"
-        },
-        {
-          "value": "concrete-foundation",
-          "label": "Concrete & Foundation"
-        },
-        {
-          "value": "electrical-systems",
-          "label": "Electrical Systems"
-        },
-        {
-          "value": "plumbing-pipes-fittings",
-          "label": "Plumbing Pipes & Fittings"
-        },
-        {
-          "value": "hvac-systems",
-          "label": "HVAC Systems"
-        },
-        {
-          "value": "drywall-supplies",
-          "label": "Drywall & Supplies"
-        },
-        {
-          "value": "kitchen-appliances",
-          "label": "Kitchen Appliances"
-        }
+        {},
+        {},
+        {},
+        {},
+        {}
       ]
     },
     {
@@ -7494,84 +7451,1102 @@
       "visibleOnFront": true,
       "usedInProductListing": true,
       "options": [
-        {
-          "value": "buildright-pro",
-          "label": "BuildRight Pro"
-        },
-        {
-          "value": "structuremaster",
-          "label": "StructureMaster"
-        },
-        {
-          "value": "proframe",
-          "label": "ProFrame"
-        },
-        {
-          "value": "safeguard",
-          "label": "SafeGuard"
-        },
-        {
-          "value": "fastenpro",
-          "label": "FastenPro"
-        },
-        {
-          "value": "durabuilt",
-          "label": "DuraBuilt"
-        },
-        {
-          "value": "toughgrip",
-          "label": "ToughGrip"
-        },
-        {
-          "value": "maxstrength",
-          "label": "MaxStrength"
-        },
-        {
-          "value": "premiumbuild",
-          "label": "PremiumBuild"
-        },
-        {
-          "value": "reliabuild",
-          "label": "ReliaBuild"
-        }
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
       ]
     },
     {
       "code": "br_unit_of_measure",
       "label": "Unit of Measure",
       "type": "select",
+      "required": true,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_project_types",
+      "label": "Project Types",
+      "type": "multiselect",
       "required": false,
       "searchable": false,
       "filterable": false,
       "comparable": false,
       "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_lumber_species",
+      "label": "Lumber Species",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_lumber_grade",
+      "label": "Lumber Grade",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": true,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_lumber_treatment",
+      "label": "Lumber Treatment",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_lumber_certification",
+      "label": "Lumber Certification",
+      "type": "multiselect",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_drywall_thickness",
+      "label": "Drywall Thickness",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_drywall_product_type",
+      "label": "Drywall Product Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_drywall_fire_rating",
+      "label": "Drywall Fire Rating",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_drywall_edge_type",
+      "label": "Drywall Edge Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_window_material",
+      "label": "Window Frame Material",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_window_operation_type",
+      "label": "Window Operation Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_window_glazing_type",
+      "label": "Window Glazing",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_window_energy_star",
+      "label": "Energy Star Certified",
+      "type": "boolean",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false
+    },
+    {
+      "code": "br_door_type",
+      "label": "Door Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": true,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_door_material",
+      "label": "Door Material",
+      "type": "select",
+      "required": false,
+      "searchable": true,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_door_core_type",
+      "label": "Door Core Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fastener_type",
+      "label": "Fastener Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fastener_subtype",
+      "label": "Fastener Subtype",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fastener_material",
+      "label": "Fastener Material",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fastener_coating",
+      "label": "Fastener Coating/Finish",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fastener_head_type",
+      "label": "Fastener Head Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fastener_drive_type",
+      "label": "Fastener Drive Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_category",
+      "label": "PPE Category",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_ansi_standard",
+      "label": "ANSI Standard",
+      "type": "multiselect",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_hard_hat_type",
+      "label": "Hard Hat Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_hard_hat_class",
+      "label": "Hard Hat Electrical Class",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_nrr_rating",
+      "label": "NRR Rating (dB)",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_cut_resistance",
+      "label": "Cut Resistance Level",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_niosh_rating",
+      "label": "NIOSH Filter Rating",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_hi_vis_class",
+      "label": "High-Visibility Class",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_ppe_size",
+      "label": "PPE Size",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_sheathing_location",
+      "label": "Sheathing Location",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_underlayment_type",
+      "label": "Underlayment Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_insulation_type",
+      "label": "Insulation Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_insulation_r_value",
+      "label": "Insulation R-Value",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_light_type",
+      "label": "Light Fixture Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_light_technology",
+      "label": "Light Technology",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fixture_type",
+      "label": "Plumbing Fixture Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_fixture_location",
+      "label": "Fixture Location",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_construction_phase",
+      "label": "Construction Phase",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": true,
+      "comparable": false,
+      "visibleOnFront": true,
       "usedInProductListing": true,
       "options": [
-        {
-          "value": "EA",
-          "label": "Each"
-        },
-        {
-          "value": "BOX",
-          "label": "Box"
-        },
-        {
-          "value": "BDL",
-          "label": "Bundle"
-        },
-        {
-          "value": "LF",
-          "label": "Linear Foot"
-        },
-        {
-          "value": "SF",
-          "label": "Square Foot"
-        }
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
       ]
+    },
+    {
+      "code": "br_quality_tier",
+      "label": "Quality Tier",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": true,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": true,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_paint_type",
+      "label": "Paint Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_paint_finish",
+      "label": "Paint Finish",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_concrete_type",
+      "label": "Concrete Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_concrete_psi",
+      "label": "Concrete PSI",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_roofing_material",
+      "label": "Roofing Material",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_roofing_style",
+      "label": "Roofing Style",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_siding_material",
+      "label": "Siding Material",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_flooring_material",
+      "label": "Flooring Material",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_lumber_dimension",
+      "label": "Lumber Dimension",
+      "type": "text",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false
+    },
+    {
+      "code": "br_lumber_length",
+      "label": "Lumber Length",
+      "type": "text",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false
+    },
+    {
+      "code": "br_deck_material_type",
+      "label": "Deck Material Type",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_deck_compatible",
+      "label": "Deck Compatible",
+      "type": "boolean",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false
+    },
+    {
+      "code": "br_deck_railing_compatible",
+      "label": "Deck Railing Compatible",
+      "type": "boolean",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false
+    },
+    {
+      "code": "br_deck_shape",
+      "label": "Deck Board Shape",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_room_category",
+      "label": "Room Category",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_package_tier",
+      "label": "Package Tier",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": true,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_store_velocity_category",
+      "label": "Store Velocity Category",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": false,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_restock_priority",
+      "label": "Restock Priority",
+      "type": "select",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": false,
+      "usedInProductListing": false,
+      "options": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "code": "br_recommended_restock_quantity",
+      "label": "Recommended Restock Quantity",
+      "type": "text",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": false,
+      "usedInProductListing": false
+    },
+    {
+      "code": "br_typical_days_supply",
+      "label": "Typical Days Supply",
+      "type": "text",
+      "required": false,
+      "searchable": false,
+      "filterable": false,
+      "comparable": false,
+      "visibleOnFront": false,
+      "usedInProductListing": false
     }
   ],
   "metadata": {
-    "generatedAt": "2025-12-18T15:59:54.380Z",
+    "generatedAt": "2025-12-18T19:25:03.818Z",
     "generator": "commerce-demo-generator",
     "version": "2.0.0",
     "project": "BuildRight",

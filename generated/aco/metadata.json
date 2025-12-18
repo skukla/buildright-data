@@ -15,52 +15,24 @@
     "sortOrder": 0,
     "options": [
       {
-        "value": "structural-materials",
-        "label": "Structural Materials"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "framing-drywall",
-        "label": "Framing & Drywall"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "windows-doors",
-        "label": "Windows & Doors"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "fasteners-hardware",
-        "label": "Fasteners & Hardware"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "roofing",
-        "label": "Roofing"
-      },
-      {
-        "value": "interior-finishes",
-        "label": "Interior Finishes"
-      },
-      {
-        "value": "concrete-foundation",
-        "label": "Concrete & Foundation"
-      },
-      {
-        "value": "electrical-systems",
-        "label": "Electrical Systems"
-      },
-      {
-        "value": "plumbing-pipes-fittings",
-        "label": "Plumbing Pipes & Fittings"
-      },
-      {
-        "value": "hvac-systems",
-        "label": "HVAC Systems"
-      },
-      {
-        "value": "drywall-supplies",
-        "label": "Drywall & Supplies"
-      },
-      {
-        "value": "kitchen-appliances",
-        "label": "Kitchen Appliances"
+        "value": "object-object",
+        "label": "[object Object]"
       }
     ]
   },
@@ -80,44 +52,44 @@
     "sortOrder": 0,
     "options": [
       {
-        "value": "buildright-pro",
-        "label": "BuildRight Pro"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "structuremaster",
-        "label": "StructureMaster"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "proframe",
-        "label": "ProFrame"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "safeguard",
-        "label": "SafeGuard"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "fastenpro",
-        "label": "FastenPro"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "durabuilt",
-        "label": "DuraBuilt"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "toughgrip",
-        "label": "ToughGrip"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "maxstrength",
-        "label": "MaxStrength"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "premiumbuild",
-        "label": "PremiumBuild"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "reliabuild",
-        "label": "ReliaBuild"
+        "value": "object-object",
+        "label": "[object Object]"
       }
     ]
   },
@@ -131,29 +103,2065 @@
       "PRODUCT_LISTING"
     ],
     "searchWeight": 1,
+    "isRequired": true,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_project_types",
+    "type": "multiselect",
+    "dataType": "TEXT",
+    "label": "br_project_types",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
     "isRequired": false,
     "sortOrder": 0,
     "options": [
       {
-        "value": "each",
-        "label": "Each"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "box",
-        "label": "Box"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "bundle",
-        "label": "Bundle"
+        "value": "object-object",
+        "label": "[object Object]"
       },
       {
-        "value": "linear-foot",
-        "label": "Linear Foot"
-      },
-      {
-        "value": "square-foot",
-        "label": "Square Foot"
+        "value": "object-object",
+        "label": "[object Object]"
       }
     ]
+  },
+  {
+    "attributeId": "br_lumber_species",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_lumber_species",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_lumber_grade",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_lumber_grade",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_lumber_treatment",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_lumber_treatment",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_lumber_certification",
+    "type": "multiselect",
+    "dataType": "TEXT",
+    "label": "br_lumber_certification",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_drywall_thickness",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_drywall_thickness",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_drywall_product_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_drywall_product_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_drywall_fire_rating",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_drywall_fire_rating",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_drywall_edge_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_drywall_edge_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_window_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_window_material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_window_operation_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_window_operation_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_window_glazing_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_window_glazing_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_window_energy_star",
+    "type": "boolean",
+    "dataType": "BOOLEAN",
+    "label": "br_window_energy_star",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_door_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_door_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_door_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_door_material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING",
+      "SEARCH_RESULTS"
+    ],
+    "searchWeight": 2,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_door_core_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_door_core_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fastener_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fastener_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fastener_subtype",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fastener_subtype",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fastener_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fastener_material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fastener_coating",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fastener_coating",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fastener_head_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fastener_head_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fastener_drive_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fastener_drive_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_category",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_category",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_ansi_standard",
+    "type": "multiselect",
+    "dataType": "TEXT",
+    "label": "br_ppe_ansi_standard",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_hard_hat_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_hard_hat_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_hard_hat_class",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_hard_hat_class",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_nrr_rating",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_nrr_rating",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_cut_resistance",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_cut_resistance",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_niosh_rating",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_niosh_rating",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_hi_vis_class",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_hi_vis_class",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_ppe_size",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_ppe_size",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_sheathing_location",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_sheathing_location",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_underlayment_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_underlayment_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_insulation_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_insulation_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_insulation_r_value",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_insulation_r_value",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_light_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_light_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_light_technology",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_light_technology",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fixture_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fixture_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_fixture_location",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_fixture_location",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_construction_phase",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_construction_phase",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING",
+      "FACET"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_quality_tier",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_quality_tier",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING",
+      "FACET"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_paint_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_paint_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_paint_finish",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_paint_finish",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_concrete_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_concrete_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_concrete_psi",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_concrete_psi",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_roofing_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_roofing_material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_roofing_style",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_roofing_style",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_siding_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_siding_material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_flooring_material",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_flooring_material",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_lumber_dimension",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "br_lumber_dimension",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_lumber_length",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "br_lumber_length",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_deck_material_type",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_deck_material_type",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_deck_compatible",
+    "type": "boolean",
+    "dataType": "BOOLEAN",
+    "label": "br_deck_compatible",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_deck_railing_compatible",
+    "type": "boolean",
+    "dataType": "BOOLEAN",
+    "label": "br_deck_railing_compatible",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_deck_shape",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_deck_shape",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_room_category",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_room_category",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_package_tier",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_package_tier",
+    "visibility": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_store_velocity_category",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_store_velocity_category",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_restock_priority",
+    "type": "select",
+    "dataType": "TEXT",
+    "label": "br_restock_priority",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0,
+    "options": [
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      },
+      {
+        "value": "object-object",
+        "label": "[object Object]"
+      }
+    ]
+  },
+  {
+    "attributeId": "br_recommended_restock_quantity",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "br_recommended_restock_quantity",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
+  },
+  {
+    "attributeId": "br_typical_days_supply",
+    "type": "text",
+    "dataType": "TEXT",
+    "label": "br_typical_days_supply",
+    "visibility": [
+      "PRODUCT_DETAIL"
+    ],
+    "searchWeight": 1,
+    "isRequired": false,
+    "sortOrder": 0
   }
 ]
