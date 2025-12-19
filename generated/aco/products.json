@@ -6690,12 +6690,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6766,12 +6760,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6841,12 +6829,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -6924,12 +6906,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -6999,12 +6975,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -7076,12 +7046,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7151,12 +7115,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -7228,12 +7186,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7303,12 +7255,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -7392,12 +7338,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7479,12 +7419,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -7568,12 +7502,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7655,12 +7583,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -7744,12 +7666,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -7831,12 +7747,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -7920,12 +7830,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8007,12 +7911,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -8096,12 +7994,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8183,12 +8075,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -8272,12 +8158,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8359,12 +8239,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -8448,12 +8322,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8535,12 +8403,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -8624,12 +8486,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8712,12 +8568,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -8799,12 +8649,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "interior-finishes",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -9370,12 +9214,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -9463,12 +9301,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -9558,12 +9390,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -9651,12 +9477,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -9746,12 +9566,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -9839,12 +9653,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -9934,12 +9742,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10027,12 +9829,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -10122,12 +9918,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10215,12 +10005,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -10310,12 +10094,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "electrical-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10403,12 +10181,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -10498,12 +10270,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10591,12 +10357,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -10686,12 +10446,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10779,12 +10533,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -10874,12 +10622,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -10967,12 +10709,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -11062,12 +10798,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11155,12 +10885,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -11250,12 +10974,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "plumbing-pipes-fittings",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11343,12 +11061,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -11438,12 +11150,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11531,12 +11237,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -11626,12 +11326,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11719,12 +11413,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -11814,12 +11502,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -11907,12 +11589,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {
@@ -12002,12 +11678,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12096,12 +11766,6 @@
       "CATALOG",
       "SEARCH"
     ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
-    ],
     "attributes": [
       {
         "code": "br_brand",
@@ -12189,12 +11853,6 @@
     "visibleIn": [
       "CATALOG",
       "SEARCH"
-    ],
-    "routes": [
-      {
-        "path": "hvac-systems",
-        "position": 0
-      }
     ],
     "attributes": [
       {

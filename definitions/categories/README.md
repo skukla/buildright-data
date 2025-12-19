@@ -17,62 +17,52 @@ This directory contains the BuildRight category taxonomy, which was finalized in
 **Purpose**: Defines the hierarchical category structure for BuildRight's product catalog.
 
 **Structure**:
-- **11 top-level categories** (main navigation)
-- **37 total categories** (including subcategories)
+- **5 top-level categories** (main navigation - fits design constraint)
+- **29 total categories** (including subcategories)
 - Fixed taxonomy supporting all 5 personas (Sarah, Marcus, Lisa, David, Kevin)
 
 **Validation**: Automatically validated during data generation by `commerce-demo-generator/config/validate-category-tree.js`
 
 ## Categories
 
-### Top-Level Categories (11)
+### Top-Level Categories (5)
 
-1. **Structural Materials** (2 subcategories)
+1. **Structural Materials** (3 subcategories)
    - Lumber
    - Plywood & Sheathing
+   - Concrete & Foundation
 
-2. **Framing & Drywall** (3 subcategories)
+2. **Framing & Drywall** (5 subcategories)
    - Metal Studs & Track
    - Drywall
    - Insulation
-
-3. **Windows & Doors** (2 subcategories)
-   - Windows
-   - Doors
-
-4. **Fasteners & Hardware** (2 subcategories)
-   - Nails
-   - Screws
-
-5. **Roofing** (3 subcategories)
-   - Shingles
-   - Underlayment
-   - Siding
-
-6. **Interior Finishes** (4 subcategories)
    - Flooring
    - Paint
+
+3. **Windows & Doors** (4 subcategories)
+   - Windows
+   - Doors
    - Lighting
-   - Plumbing Fixtures
+   - Kitchen Appliances
 
-7. **Concrete & Foundation** (no subcategories)
-
-8. **Electrical Systems** (3 subcategories)
+4. **Fasteners & Hardware** (8 subcategories)
+   - Nails
+   - Screws
    - Wiring
    - Devices
    - Panels
-
-9. **Plumbing Pipes & Fittings** (3 subcategories)
    - Water Supply
    - Drain & Waste
    - Fittings
 
-10. **HVAC Systems** (3 subcategories)
-    - Units
-    - Ductwork
-    - Vents & Thermostats
-
-11. **Kitchen Appliances** (no subcategories)
+5. **Roofing** (7 subcategories)
+   - Shingles
+   - Underlayment
+   - Siding
+   - Plumbing Fixtures
+   - HVAC Units
+   - Ductwork
+   - Vents & Thermostats
 
 ## Architecture
 
@@ -142,13 +132,8 @@ If changes are needed:
 ## History
 
 - **Phase 6 Original (Early 2024)**: 5 basic categories
-- **Phase 0.5 (November 2024)**: Expanded to 11 categories with 6 new additions:
-  - Concrete & Foundation
-  - Electrical Systems
-  - Plumbing Pipes & Fittings
-  - HVAC Systems
-  - Drywall & Supplies (moved from Framing & Drywall)
-  - Kitchen Appliances
+- **Phase 0.5 Initial (November 2024)**: Expanded to 11 categories
+- **Phase 0.5 Revised (December 2024)**: Consolidated back to 5 top-level categories to fit navigation design, with expanded subcategories
 
 ---
 

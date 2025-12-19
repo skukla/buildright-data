@@ -30,6 +30,16 @@
     ]
   },
   {
+    "slug": "structural-materials/concrete-foundation",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Concrete & Foundation",
+    "families": [
+      "default"
+    ]
+  },
+  {
     "slug": "framing-drywall",
     "source": {
       "locale": "en-US"
@@ -70,6 +80,26 @@
     ]
   },
   {
+    "slug": "framing-drywall/flooring",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Flooring",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "framing-drywall/paint",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Paint",
+    "families": [
+      "default"
+    ]
+  },
+  {
     "slug": "windows-doors",
     "source": {
       "locale": "en-US"
@@ -100,6 +130,26 @@
     ]
   },
   {
+    "slug": "windows-doors/lighting",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Lighting",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "windows-doors/kitchen-appliances",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Kitchen Appliances",
+    "families": [
+      "default"
+    ]
+  },
+  {
     "slug": "fasteners-hardware",
     "source": {
       "locale": "en-US"
@@ -125,6 +175,66 @@
       "locale": "en-US"
     },
     "name": "Screws",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "fasteners-hardware/wiring",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Wiring",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "fasteners-hardware/devices",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Devices",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "fasteners-hardware/panels",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Panels",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "fasteners-hardware/water-supply",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Water Supply",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "fasteners-hardware/drain-waste",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Drain & Waste",
+    "families": [
+      "default"
+    ]
+  },
+  {
+    "slug": "fasteners-hardware/fittings",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "Fittings",
     "families": [
       "default"
     ]
@@ -170,47 +280,7 @@
     ]
   },
   {
-    "slug": "interior-finishes",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Interior Finishes",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "interior-finishes/flooring",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Flooring",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "interior-finishes/paint",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Paint",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "interior-finishes/lighting",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Lighting",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "interior-finishes/plumbing-fixtures",
+    "slug": "roofing/plumbing-fixtures",
     "source": {
       "locale": "en-US"
     },
@@ -220,117 +290,17 @@
     ]
   },
   {
-    "slug": "concrete-foundation",
+    "slug": "roofing/hvac-units",
     "source": {
       "locale": "en-US"
     },
-    "name": "Concrete & Foundation",
+    "name": "HVAC Units",
     "families": [
       "default"
     ]
   },
   {
-    "slug": "electrical-systems",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Electrical Systems",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "electrical-systems/wiring",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Wiring",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "electrical-systems/devices",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Devices",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "electrical-systems/panels",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Panels",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "plumbing-pipes-fittings",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Plumbing Pipes & Fittings",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "plumbing-pipes-fittings/water-supply",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Water Supply",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "plumbing-pipes-fittings/drain-waste",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Drain & Waste",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "plumbing-pipes-fittings/fittings",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Fittings",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "hvac-systems",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "HVAC Systems",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "hvac-systems/hvac-units",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Units",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "hvac-systems/ductwork",
+    "slug": "roofing/ductwork",
     "source": {
       "locale": "en-US"
     },
@@ -340,21 +310,11 @@
     ]
   },
   {
-    "slug": "hvac-systems/vents-thermostats",
+    "slug": "roofing/vents-thermostats",
     "source": {
       "locale": "en-US"
     },
     "name": "Vents & Thermostats",
-    "families": [
-      "default"
-    ]
-  },
-  {
-    "slug": "kitchen-appliances",
-    "source": {
-      "locale": "en-US"
-    },
-    "name": "Kitchen Appliances",
     "families": [
       "default"
     ]
