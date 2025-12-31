@@ -1,42 +1,5 @@
 [
   {
-    "attributeId": "br_product_category",
-    "type": "select",
-    "dataType": "TEXT",
-    "label": "br_product_category",
-    "visibility": [
-      "PRODUCT_DETAIL",
-      "PRODUCT_LISTING",
-      "SEARCH_RESULTS",
-      "FACET"
-    ],
-    "searchWeight": 4,
-    "isRequired": true,
-    "sortOrder": 0,
-    "options": [
-      {
-        "value": "object-object",
-        "label": "[object Object]"
-      },
-      {
-        "value": "object-object",
-        "label": "[object Object]"
-      },
-      {
-        "value": "object-object",
-        "label": "[object Object]"
-      },
-      {
-        "value": "object-object",
-        "label": "[object Object]"
-      },
-      {
-        "value": "object-object",
-        "label": "[object Object]"
-      }
-    ]
-  },
-  {
     "attributeId": "br_brand",
     "type": "select",
     "dataType": "TEXT",
@@ -2163,5 +2126,21 @@
     "searchWeight": 1,
     "isRequired": false,
     "sortOrder": 0
+  },
+  {
+    "attributeId": "category",
+    "type": "select",
+    "label": "Category",
+    "searchWeight": 5,
+    "isRequired": false,
+    "sortOrder": 1
+  },
+  {
+    "attributeId": "subcategory",
+    "type": "select",
+    "label": "Subcategory",
+    "searchWeight": 5,
+    "isRequired": false,
+    "sortOrder": 2
   }
 ]

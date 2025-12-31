@@ -14,8 +14,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-1-75-x-5-5-x-8"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-1-75-x-5-5-x-8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -23,12 +26,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -123,6 +120,18 @@
         "values": [
           "0.77"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -147,8 +156,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-1-75-x-5-5-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-1-75-x-5-5-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -156,12 +168,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -256,6 +262,18 @@
         "values": [
           "1.155"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -280,8 +298,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-1-75-x-9-25-x-8"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-1-75-x-9-25-x-8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -289,12 +310,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -389,6 +404,18 @@
         "values": [
           "1.295"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -413,8 +440,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-1-75-x-9-25-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-1-75-x-9-25-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -422,12 +452,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -522,6 +546,18 @@
         "values": [
           "1.9425"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -546,8 +582,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-3-5-x-5-5-x-8"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-3-5-x-5-5-x-8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -555,12 +594,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -655,6 +688,18 @@
         "values": [
           "1.54"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -679,8 +724,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-3-5-x-5-5-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-3-5-x-5-5-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -688,12 +736,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -788,6 +830,18 @@
         "values": [
           "2.31"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -812,8 +866,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-3-5-x-9-25-x-8"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-3-5-x-9-25-x-8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -821,12 +878,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -921,6 +972,18 @@
         "values": [
           "2.59"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -945,8 +1008,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-3-5-x-9-25-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-3-5-x-9-25-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -954,12 +1020,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1054,6 +1114,18 @@
         "values": [
           "3.885"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -1078,8 +1150,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-1-75-x-9-25-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-1-75-x-9-25-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1087,12 +1162,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1187,6 +1256,18 @@
         "values": [
           "1.9425"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -1211,8 +1292,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-1-75-x-9-25-x-20"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-1-75-x-9-25-x-20",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1220,12 +1304,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1320,6 +1398,18 @@
         "values": [
           "3.2375"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -1344,8 +1434,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-1-75-x-11-875-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-1-75-x-11-875-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1353,12 +1446,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1453,6 +1540,18 @@
         "values": [
           "2.49375"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -1477,8 +1576,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-1-75-x-11-875-x-20"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-1-75-x-11-875-x-20",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1486,12 +1588,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1586,6 +1682,18 @@
         "values": [
           "4.15625"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -1610,8 +1718,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-3-5-x-9-25-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-3-5-x-9-25-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1619,12 +1730,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1719,6 +1824,18 @@
         "values": [
           "3.885"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -1743,8 +1860,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-3-5-x-9-25-x-20"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-3-5-x-9-25-x-20",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1752,12 +1872,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1852,6 +1966,18 @@
         "values": [
           "6.475"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -1876,8 +2002,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-3-5-x-11-875-x-12"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-3-5-x-11-875-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1885,12 +2014,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1985,6 +2108,18 @@
         "values": [
           "4.9875"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -2009,8 +2144,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-3-5-x-11-875-x-20"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-3-5-x-11-875-x-20",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2018,12 +2156,6 @@
         "code": "br_brand",
         "values": [
           "Rocky Mountain Mills"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -2118,6 +2250,18 @@
         "values": [
           "8.3125"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ],
     "links": [
@@ -2142,8 +2286,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "plytech-industries-plywood-sheet-0-5-x-4-x-8"
       }
     ],
     "attributes": [
@@ -2151,12 +2294,6 @@
         "code": "br_brand",
         "values": [
           "PlyTech Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -2245,6 +2382,18 @@
         "values": [
           "0.16"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ],
     "links": [
@@ -2269,8 +2418,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "plytech-industries-plywood-sheet-0-5-x-4-x-10"
       }
     ],
     "attributes": [
@@ -2278,12 +2426,6 @@
         "code": "br_brand",
         "values": [
           "PlyTech Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -2372,6 +2514,18 @@
         "values": [
           "0.2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ],
     "links": [
@@ -2396,8 +2550,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "plytech-industries-plywood-sheet-0-75-x-4-x-8"
       }
     ],
     "attributes": [
@@ -2405,12 +2558,6 @@
         "code": "br_brand",
         "values": [
           "PlyTech Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -2499,6 +2646,18 @@
         "values": [
           "0.24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ],
     "links": [
@@ -2523,8 +2682,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "plytech-industries-plywood-sheet-0-75-x-4-x-10"
       }
     ],
     "attributes": [
@@ -2532,12 +2690,6 @@
         "code": "br_brand",
         "values": [
           "PlyTech Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -2626,6 +2778,18 @@
         "values": [
           "0.3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ],
     "links": [
@@ -2650,8 +2814,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-20-x-3-5-x-8"
       }
     ],
     "attributes": [
@@ -2659,12 +2822,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2747,6 +2904,18 @@
         "values": [
           "5.6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -2771,8 +2940,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-20-x-3-5-x-10"
       }
     ],
     "attributes": [
@@ -2780,12 +2948,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2868,6 +3030,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -2892,8 +3066,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-20-x-6-x-8"
       }
     ],
     "attributes": [
@@ -2901,12 +3074,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2989,6 +3156,18 @@
         "values": [
           "9.6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -3013,8 +3192,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-20-x-6-x-10"
       }
     ],
     "attributes": [
@@ -3022,12 +3200,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3110,6 +3282,18 @@
         "values": [
           "12"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -3134,8 +3318,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-18-x-3-5-x-8"
       }
     ],
     "attributes": [
@@ -3143,12 +3326,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3231,6 +3408,18 @@
         "values": [
           "5.04"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -3255,8 +3444,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-18-x-3-5-x-10"
       }
     ],
     "attributes": [
@@ -3264,12 +3452,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3352,6 +3534,18 @@
         "values": [
           "6.3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -3376,8 +3570,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-18-x-6-x-8"
       }
     ],
     "attributes": [
@@ -3385,12 +3578,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3473,6 +3660,18 @@
         "values": [
           "8.64"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -3497,8 +3696,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-18-x-6-x-10"
       }
     ],
     "attributes": [
@@ -3506,12 +3704,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3594,6 +3786,18 @@
         "values": [
           "10.8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
+        ]
       }
     ],
     "links": [
@@ -3618,8 +3822,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "walltech-systems-gypsum-board-0-5-x-4-x-8"
+      },
+      {
+        "path": "framing-drywall/drywall/walltech-systems-gypsum-board-0-5-x-4-x-8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3627,12 +3834,6 @@
         "code": "br_brand",
         "values": [
           "WallTech Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3715,6 +3916,18 @@
         "values": [
           "0.16"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ],
     "links": [
@@ -3739,8 +3952,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "walltech-systems-gypsum-board-0-5-x-4-x-10"
+      },
+      {
+        "path": "framing-drywall/drywall/walltech-systems-gypsum-board-0-5-x-4-x-10",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3748,12 +3964,6 @@
         "code": "br_brand",
         "values": [
           "WallTech Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3836,6 +4046,18 @@
         "values": [
           "0.2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ],
     "links": [
@@ -3860,8 +4082,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "walltech-systems-gypsum-board-0-625-x-4-x-8"
+      },
+      {
+        "path": "framing-drywall/drywall/walltech-systems-gypsum-board-0-625-x-4-x-8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3869,12 +4094,6 @@
         "code": "br_brand",
         "values": [
           "WallTech Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -3957,6 +4176,18 @@
         "values": [
           "0.2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ],
     "links": [
@@ -3981,8 +4212,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "walltech-systems-gypsum-board-0-625-x-4-x-10"
+      },
+      {
+        "path": "framing-drywall/drywall/walltech-systems-gypsum-board-0-625-x-4-x-10",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3990,12 +4224,6 @@
         "code": "br_brand",
         "values": [
           "WallTech Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -4078,6 +4306,18 @@
         "values": [
           "0.25"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ],
     "links": [
@@ -4102,8 +4342,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-single-hung-x-30-x-48"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-single-hung-x-30-x-48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4111,12 +4354,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -4198,6 +4435,18 @@
         "code": "weight",
         "values": [
           "14.4"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
         ]
       }
     ],
@@ -4223,8 +4472,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-single-hung-x-30-x-60"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-single-hung-x-30-x-60",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4232,12 +4484,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -4320,6 +4566,18 @@
         "values": [
           "18"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -4344,8 +4602,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-single-hung-x-36-x-48"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-single-hung-x-36-x-48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4353,12 +4614,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -4441,6 +4696,18 @@
         "values": [
           "17.28"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -4465,8 +4732,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-single-hung-x-36-x-60"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-single-hung-x-36-x-60",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4474,12 +4744,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -4562,6 +4826,18 @@
         "values": [
           "21.6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -4586,8 +4862,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-double-hung-x-30-x-48"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-double-hung-x-30-x-48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4595,12 +4874,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -4683,6 +4956,18 @@
         "values": [
           "14.4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -4707,8 +4992,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-double-hung-x-30-x-60"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-double-hung-x-30-x-60",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4716,12 +5004,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -4804,6 +5086,18 @@
         "values": [
           "18"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -4828,8 +5122,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-double-hung-x-36-x-48"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-double-hung-x-36-x-48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4837,12 +5134,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -4925,6 +5216,18 @@
         "values": [
           "17.28"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -4949,8 +5252,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-double-hung-x-36-x-60"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-double-hung-x-36-x-60",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4958,12 +5264,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5046,6 +5346,18 @@
         "values": [
           "21.6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -5070,8 +5382,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-double-x-vinyl-x-30x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-double-x-vinyl-x-30x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5079,12 +5394,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5166,6 +5475,18 @@
         "code": "weight",
         "values": [
           "0.3"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
         ]
       }
     ],
@@ -5191,8 +5512,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-double-x-vinyl-x-36x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-double-x-vinyl-x-36x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5200,12 +5524,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5287,6 +5605,18 @@
         "code": "weight",
         "values": [
           "0.36"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
         ]
       }
     ],
@@ -5312,8 +5642,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-double-x-fiberglass-x-30x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-double-x-fiberglass-x-30x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5321,12 +5654,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5408,6 +5735,18 @@
         "code": "weight",
         "values": [
           "0.3"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
         ]
       }
     ],
@@ -5433,8 +5772,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-double-x-fiberglass-x-36x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-double-x-fiberglass-x-36x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5442,12 +5784,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5530,6 +5866,18 @@
         "values": [
           "0.36"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -5554,8 +5902,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-triple-x-vinyl-x-30x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-triple-x-vinyl-x-30x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5563,12 +5914,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5650,6 +5995,18 @@
         "code": "weight",
         "values": [
           "0.3"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
         ]
       }
     ],
@@ -5675,8 +6032,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-triple-x-vinyl-x-36x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-triple-x-vinyl-x-36x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5684,12 +6044,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5772,6 +6126,18 @@
         "values": [
           "0.36"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -5796,8 +6162,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-triple-x-fiberglass-x-30x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-triple-x-fiberglass-x-30x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5805,12 +6174,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -5893,6 +6256,18 @@
         "values": [
           "0.3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -5917,8 +6292,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-triple-x-fiberglass-x-36x48"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-triple-x-fiberglass-x-36x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5926,12 +6304,6 @@
         "code": "br_brand",
         "values": [
           "Panorama Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6014,6 +6386,18 @@
         "values": [
           "0.36"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ],
     "links": [
@@ -6038,8 +6422,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-steel-x-32-x-80"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-steel-x-32-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6047,12 +6434,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6134,6 +6515,18 @@
         "code": "weight",
         "values": [
           "25.6"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -6159,8 +6552,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-steel-x-32-x-84"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-steel-x-32-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6168,12 +6564,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6255,6 +6645,18 @@
         "code": "weight",
         "values": [
           "26.88"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -6280,8 +6682,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-steel-x-36-x-80"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-steel-x-36-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6289,12 +6694,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6376,6 +6775,18 @@
         "code": "weight",
         "values": [
           "28.8"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -6401,8 +6812,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-steel-x-36-x-84"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-steel-x-36-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6410,12 +6824,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6498,6 +6906,18 @@
         "values": [
           "30.24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -6522,8 +6942,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-fiberglass-x-32-x-80"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-fiberglass-x-32-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6531,12 +6954,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6618,6 +7035,18 @@
         "code": "weight",
         "values": [
           "25.6"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -6643,8 +7072,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-fiberglass-x-32-x-84"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-fiberglass-x-32-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6652,12 +7084,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6739,6 +7165,18 @@
         "code": "weight",
         "values": [
           "26.88"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -6764,8 +7202,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-fiberglass-x-36-x-80"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-fiberglass-x-36-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6773,12 +7214,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6860,6 +7295,18 @@
         "code": "weight",
         "values": [
           "28.8"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -6885,8 +7332,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-fiberglass-x-36-x-84"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-fiberglass-x-36-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6894,12 +7344,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -6982,6 +7426,18 @@
         "values": [
           "30.24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7006,8 +7462,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-panel-x-30-x-80"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-panel-x-30-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7015,12 +7474,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7102,6 +7555,18 @@
         "code": "weight",
         "values": [
           "24"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -7127,8 +7592,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-panel-x-30-x-84"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-panel-x-30-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7136,12 +7604,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7224,6 +7686,18 @@
         "values": [
           "25.2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7248,8 +7722,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-panel-x-32-x-80"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-panel-x-32-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7257,12 +7734,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7345,6 +7816,18 @@
         "values": [
           "25.6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7369,8 +7852,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-panel-x-32-x-84"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-panel-x-32-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7378,12 +7864,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7466,6 +7946,18 @@
         "values": [
           "26.88"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7490,8 +7982,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-panel-x-36-x-80"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-panel-x-36-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7499,12 +7994,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7587,6 +8076,18 @@
         "values": [
           "28.8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7611,8 +8112,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-panel-x-36-x-84"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-panel-x-36-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7620,12 +8124,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7708,6 +8206,18 @@
         "values": [
           "30.24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7732,8 +8242,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-flush-x-30-x-80"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-flush-x-30-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7741,12 +8254,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7829,6 +8336,18 @@
         "values": [
           "24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7853,8 +8372,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-flush-x-30-x-84"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-flush-x-30-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7862,12 +8384,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -7950,6 +8466,18 @@
         "values": [
           "25.2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -7974,8 +8502,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-flush-x-32-x-80"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-flush-x-32-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -7983,12 +8514,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -8071,6 +8596,18 @@
         "values": [
           "25.6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -8095,8 +8632,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-flush-x-32-x-84"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-flush-x-32-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8104,12 +8644,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -8192,6 +8726,18 @@
         "values": [
           "26.88"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -8216,8 +8762,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-flush-x-36-x-80"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-flush-x-36-x-80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8225,12 +8774,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -8313,6 +8856,18 @@
         "values": [
           "28.8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -8337,8 +8892,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-flush-x-36-x-84"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-flush-x-36-x-84",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8346,12 +8904,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -8434,6 +8986,18 @@
         "values": [
           "30.24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ],
     "links": [
@@ -8458,8 +9022,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-framing-x-8d-x-25lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-framing-x-8d-x-25lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8467,12 +9034,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -8554,6 +9115,18 @@
         "code": "weight",
         "values": [
           "2"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
         ]
       }
     ],
@@ -8579,8 +9152,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-framing-x-8d-x-50lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-framing-x-8d-x-50lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8588,12 +9164,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -8676,6 +9246,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -8700,8 +9282,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-framing-x-16d-x-25lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-framing-x-16d-x-25lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8709,12 +9294,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -8797,6 +9376,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -8821,8 +9412,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-framing-x-16d-x-50lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-framing-x-16d-x-50lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8830,12 +9424,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -8918,6 +9506,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -8942,8 +9542,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-finish-x-8d-x-25lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-finish-x-8d-x-25lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -8951,12 +9554,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9039,6 +9636,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -9063,8 +9672,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-finish-x-8d-x-50lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-finish-x-8d-x-50lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9072,12 +9684,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9160,6 +9766,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -9184,8 +9802,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-finish-x-16d-x-25lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-finish-x-16d-x-25lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9193,12 +9814,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9281,6 +9896,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -9305,8 +9932,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-finish-x-16d-x-50lb"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-finish-x-16d-x-50lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9314,12 +9944,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9402,6 +10026,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -9426,8 +10062,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-galvanized-x-2-x-11"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-galvanized-x-2-x-11",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9435,12 +10074,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9522,6 +10155,18 @@
         "code": "weight",
         "values": [
           "0.22"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
         ]
       }
     ],
@@ -9547,8 +10192,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-galvanized-x-2-x-12"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-galvanized-x-2-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9556,12 +10204,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9644,6 +10286,18 @@
         "values": [
           "0.24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -9668,8 +10322,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-galvanized-x-3-x-11"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-galvanized-x-3-x-11",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9677,12 +10334,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9765,6 +10416,18 @@
         "values": [
           "0.33"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -9789,8 +10452,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-galvanized-x-3-x-12"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-galvanized-x-3-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9798,12 +10464,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -9886,6 +10546,18 @@
         "values": [
           "0.36"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -9910,8 +10582,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-stainless-x-2-x-11"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-stainless-x-2-x-11",
+        "position": 1
       }
     ],
     "attributes": [
@@ -9919,12 +10594,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10007,6 +10676,18 @@
         "values": [
           "0.22"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -10031,8 +10712,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-stainless-x-2-x-12"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-stainless-x-2-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10040,12 +10724,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10128,6 +10806,18 @@
         "values": [
           "0.24"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -10152,8 +10842,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-stainless-x-3-x-11"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-stainless-x-3-x-11",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10161,12 +10854,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10249,6 +10936,18 @@
         "values": [
           "0.33"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -10273,8 +10972,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-stainless-x-3-x-12"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-stainless-x-3-x-12",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10282,12 +10984,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10370,6 +11066,18 @@
         "values": [
           "0.36"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ],
     "links": [
@@ -10394,8 +11102,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-deck-x-1-5-x-1lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-deck-x-1-5-x-1lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10403,12 +11114,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10490,6 +11195,18 @@
         "code": "weight",
         "values": [
           "0.015"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
         ]
       }
     ],
@@ -10515,8 +11232,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-deck-x-1-5-x-5lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-deck-x-1-5-x-5lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10524,12 +11244,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10612,6 +11326,18 @@
         "values": [
           "0.075"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -10636,8 +11362,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-deck-x-2-x-1lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-deck-x-2-x-1lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10645,12 +11374,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10733,6 +11456,18 @@
         "values": [
           "0.02"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -10757,8 +11492,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-deck-x-2-x-5lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-deck-x-2-x-5lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10766,12 +11504,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10854,6 +11586,18 @@
         "values": [
           "0.1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -10878,8 +11622,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-deck-x-2-5-x-1lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-deck-x-2-5-x-1lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -10887,12 +11634,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -10975,6 +11716,18 @@
         "values": [
           "0.025"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -10999,8 +11752,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-deck-x-2-5-x-5lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-deck-x-2-5-x-5lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11008,12 +11764,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -11096,6 +11846,18 @@
         "values": [
           "0.125"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -11120,8 +11882,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-drywall-x-1-5-x-1lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-drywall-x-1-5-x-1lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11129,12 +11894,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -11217,6 +11976,18 @@
         "values": [
           "0.015"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -11241,8 +12012,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-drywall-x-1-5-x-5lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-drywall-x-1-5-x-5lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11250,12 +12024,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -11338,6 +12106,18 @@
         "values": [
           "0.075"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -11362,8 +12142,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-drywall-x-2-x-1lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-drywall-x-2-x-1lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11371,12 +12154,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -11459,6 +12236,18 @@
         "values": [
           "0.02"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -11483,8 +12272,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-drywall-x-2-x-5lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-drywall-x-2-x-5lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11492,12 +12284,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -11580,6 +12366,18 @@
         "values": [
           "0.1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -11604,8 +12402,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-drywall-x-2-5-x-1lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-drywall-x-2-5-x-1lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11613,12 +12414,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -11701,6 +12496,18 @@
         "values": [
           "0.025"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -11725,8 +12532,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-drywall-x-2-5-x-5lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-drywall-x-2-5-x-5lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11734,12 +12544,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -11822,6 +12626,18 @@
         "values": [
           "0.125"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ],
     "links": [
@@ -11846,8 +12662,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-dimensional-x-charcoal-x-25yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-dimensional-x-charcoal-x-25yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11855,12 +12674,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -11942,6 +12755,18 @@
         "code": "weight",
         "values": [
           "0.25"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -11967,8 +12792,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-dimensional-x-charcoal-x-30yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-dimensional-x-charcoal-x-30yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -11976,12 +12804,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12063,6 +12885,18 @@
         "code": "weight",
         "values": [
           "0.3"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -12088,8 +12922,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-dimensional-x-weathered-wood-x-25yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-dimensional-x-weathered-wood-x-25yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12097,12 +12934,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12184,6 +13015,18 @@
         "code": "weight",
         "values": [
           "0.25"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -12209,8 +13052,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-dimensional-x-weathered-wood-x-30yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-dimensional-x-weathered-wood-x-30yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12218,12 +13064,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12306,6 +13146,18 @@
         "values": [
           "0.3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -12330,8 +13182,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-laminated-x-charcoal-x-25yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-laminated-x-charcoal-x-25yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12339,12 +13194,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12426,6 +13275,18 @@
         "code": "weight",
         "values": [
           "0.25"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -12451,8 +13312,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-laminated-x-charcoal-x-30yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-laminated-x-charcoal-x-30yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12460,12 +13324,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12548,6 +13406,18 @@
         "values": [
           "0.3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -12572,8 +13442,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-laminated-x-weathered-wood-x-25yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-laminated-x-weathered-wood-x-25yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12581,12 +13454,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12669,6 +13536,18 @@
         "values": [
           "0.25"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -12693,8 +13572,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-laminated-x-weathered-wood-x-30yr"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-laminated-x-weathered-wood-x-30yr",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12702,12 +13584,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12790,6 +13666,18 @@
         "values": [
           "0.3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -12814,8 +13702,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-impact-resistant-x-standard-x-100sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-impact-resistant-x-standard-x-100sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12823,12 +13714,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -12910,6 +13795,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -12935,8 +13832,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-impact-resistant-x-standard-x-133sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-impact-resistant-x-standard-x-133sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -12944,12 +13844,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13031,6 +13925,18 @@
         "code": "weight",
         "values": [
           "1.33"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -13056,8 +13962,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-impact-resistant-x-high-profile-x-100sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-impact-resistant-x-high-profile-x-100sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13065,12 +13974,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13152,6 +14055,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -13177,8 +14092,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-impact-resistant-x-high-profile-x-133sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-impact-resistant-x-high-profile-x-133sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13186,12 +14104,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13274,6 +14186,18 @@
         "values": [
           "1.33"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -13298,8 +14222,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-cool-roof-x-standard-x-100sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-cool-roof-x-standard-x-100sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13307,12 +14234,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13394,6 +14315,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -13419,8 +14352,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-cool-roof-x-standard-x-133sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-cool-roof-x-standard-x-133sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13428,12 +14364,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13516,6 +14446,18 @@
         "values": [
           "1.33"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -13540,8 +14482,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-cool-roof-x-high-profile-x-100sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-cool-roof-x-high-profile-x-100sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13549,12 +14494,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13637,6 +14576,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -13661,8 +14612,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-cool-roof-x-high-profile-x-133sf"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-cool-roof-x-high-profile-x-133sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13670,12 +14624,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13758,6 +14706,18 @@
         "values": [
           "1.33"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ],
     "links": [
@@ -13782,8 +14742,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-felt-x-15lb-x-500sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-felt-x-15lb-x-500sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13791,12 +14754,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -13878,6 +14835,18 @@
         "code": "weight",
         "values": [
           "75"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
         ]
       }
     ],
@@ -13903,8 +14872,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-felt-x-15lb-x-1000sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-felt-x-15lb-x-1000sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13912,12 +14884,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -14000,6 +14966,18 @@
         "values": [
           "150"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ],
     "links": [
@@ -14024,8 +15002,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-felt-x-30lb-x-500sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-felt-x-30lb-x-500sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14033,12 +15014,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -14121,6 +15096,18 @@
         "values": [
           "150"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ],
     "links": [
@@ -14145,8 +15132,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-felt-x-30lb-x-1000sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-felt-x-30lb-x-1000sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14154,12 +15144,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -14242,6 +15226,18 @@
         "values": [
           "300"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ],
     "links": [
@@ -14266,8 +15262,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-synthetic-x-15lb-x-500sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-synthetic-x-15lb-x-500sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14275,12 +15274,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -14363,6 +15356,18 @@
         "values": [
           "75"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ],
     "links": [
@@ -14387,8 +15392,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-synthetic-x-15lb-x-1000sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-synthetic-x-15lb-x-1000sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14396,12 +15404,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -14484,6 +15486,18 @@
         "values": [
           "150"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ],
     "links": [
@@ -14508,8 +15522,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-synthetic-x-30lb-x-500sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-synthetic-x-30lb-x-500sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14517,12 +15534,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -14605,6 +15616,18 @@
         "values": [
           "150"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ],
     "links": [
@@ -14629,8 +15652,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-synthetic-x-30lb-x-1000sf"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-synthetic-x-30lb-x-1000sf",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14638,12 +15664,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -14725,6 +15745,18 @@
         "code": "weight",
         "values": [
           "300"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
         ]
       }
     ],

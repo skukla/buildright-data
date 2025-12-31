@@ -14,8 +14,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "pacific-northwest-lumber-2x4-stud-8ft"
+      },
+      {
+        "path": "structural-materials/lumber/pacific-northwest-lumber-2x4-stud-8ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -23,12 +26,6 @@
         "code": "br_brand",
         "values": [
           "Pacific Northwest Lumber"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -114,6 +111,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ]
   },
@@ -132,8 +141,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "sierra-pine-supply-2x6-stud-8ft"
+      },
+      {
+        "path": "structural-materials/lumber/sierra-pine-supply-2x6-stud-8ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -141,12 +153,6 @@
         "code": "br_brand",
         "values": [
           "Sierra Pine Supply"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -232,6 +238,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ]
   },
@@ -250,8 +268,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-2x8-joist-10ft"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-2x8-joist-10ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -259,12 +280,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -350,6 +365,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ]
   },
@@ -368,8 +395,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "sierra-pine-supply-2x10-joist-12ft"
+      },
+      {
+        "path": "structural-materials/lumber/sierra-pine-supply-2x10-joist-12ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -377,12 +407,6 @@
         "code": "br_brand",
         "values": [
           "Sierra Pine Supply"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -468,6 +492,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ]
   },
@@ -486,8 +522,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "sierra-pine-supply-2x12-beam-16ft"
+      },
+      {
+        "path": "structural-materials/lumber/sierra-pine-supply-2x12-beam-16ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -495,12 +534,6 @@
         "code": "br_brand",
         "values": [
           "Sierra Pine Supply"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -562,6 +595,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ]
   },
@@ -580,8 +625,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-4x4-post-8ft"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-4x4-post-8ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -589,12 +637,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -674,6 +716,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
+        ]
       }
     ]
   },
@@ -692,8 +746,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "layercraft-premium-osb-sheathing-7-16-4x8"
       }
     ],
     "attributes": [
@@ -701,12 +754,6 @@
         "code": "br_brand",
         "values": [
           "LayerCraft Premium"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -780,6 +827,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ]
   },
@@ -798,8 +857,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "panel-masters-cdx-plywood-1-2-4x8"
       }
     ],
     "attributes": [
@@ -807,12 +865,6 @@
         "code": "br_brand",
         "values": [
           "Panel Masters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -874,6 +926,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ]
   },
@@ -892,8 +956,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "panel-masters-t-g-subfloor-3-4-4x8"
       }
     ],
     "attributes": [
@@ -901,12 +964,6 @@
         "code": "br_brand",
         "values": [
           "Panel Masters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -974,6 +1031,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ]
   },
@@ -992,8 +1061,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "layercraft-premium-marine-plywood-3-4-4x8"
       }
     ],
     "attributes": [
@@ -1001,12 +1069,6 @@
         "code": "br_brand",
         "values": [
           "LayerCraft Premium"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1074,6 +1136,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ]
   },
@@ -1092,8 +1166,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "layercraft-premium-hardwood-plywood-1-4-4x8"
       }
     ],
     "attributes": [
@@ -1101,12 +1174,6 @@
         "code": "br_brand",
         "values": [
           "LayerCraft Premium"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1180,6 +1247,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ]
   },
@@ -1198,8 +1277,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "panel-masters-siding-panel-3-8-4x8"
       }
     ],
     "attributes": [
@@ -1207,12 +1285,6 @@
         "code": "br_brand",
         "values": [
           "Panel Masters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -1274,6 +1346,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
+        ]
       }
     ]
   },
@@ -1292,8 +1376,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "proframe-industries-metal-stud-20ga-3-5-x-10ft"
+      },
+      {
+        "path": "framing-drywall/metal-studs-track/proframe-industries-metal-stud-20ga-3-5-x-10ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1301,12 +1388,6 @@
         "code": "br_brand",
         "values": [
           "ProFrame Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -1362,6 +1443,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "metal-studs-track"
+        ]
       }
     ]
   },
@@ -1380,8 +1473,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-20ga-6-x-10ft"
+      },
+      {
+        "path": "framing-drywall/metal-studs-track/cascade-timber-co-metal-stud-20ga-6-x-10ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1389,12 +1485,6 @@
         "code": "br_brand",
         "values": [
           "Cascade Timber Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -1450,6 +1540,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "metal-studs-track"
+        ]
       }
     ]
   },
@@ -1468,8 +1570,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "proframe-industries-metal-track-20ga-3-5-x-10ft"
+      },
+      {
+        "path": "framing-drywall/metal-studs-track/proframe-industries-metal-track-20ga-3-5-x-10ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1477,12 +1582,6 @@
         "code": "br_brand",
         "values": [
           "ProFrame Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -1538,6 +1637,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "metal-studs-track"
+        ]
       }
     ]
   },
@@ -1556,8 +1667,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "proframe-industries-metal-track-20ga-6-x-10ft"
+      },
+      {
+        "path": "framing-drywall/metal-studs-track/proframe-industries-metal-track-20ga-6-x-10ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1565,12 +1679,6 @@
         "code": "br_brand",
         "values": [
           "ProFrame Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -1626,6 +1734,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "metal-studs-track"
+        ]
       }
     ]
   },
@@ -1644,8 +1764,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "structuresteel-corp-steel-c-channel-8ft"
+      },
+      {
+        "path": "framing-drywall/metal-studs-track/structuresteel-corp-steel-c-channel-8ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1653,12 +1776,6 @@
         "code": "br_brand",
         "values": [
           "StructureSteel Corp"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -1714,6 +1831,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "metal-studs-track"
+        ]
       }
     ]
   },
@@ -1732,8 +1861,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "framemaster-pro-hat-channel-12ft"
+      },
+      {
+        "path": "framing-drywall/metal-studs-track/framemaster-pro-hat-channel-12ft",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1741,12 +1873,6 @@
         "code": "br_brand",
         "values": [
           "FrameMaster Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -1802,6 +1928,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "metal-studs-track"
+        ]
       }
     ]
   },
@@ -1820,8 +1958,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "smoothfinish-pro-drywall-1-2-4x8"
+      },
+      {
+        "path": "framing-drywall/drywall/smoothfinish-pro-drywall-1-2-4x8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1829,12 +1970,6 @@
         "code": "br_brand",
         "values": [
           "SmoothFinish Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -1908,6 +2043,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -1926,8 +2073,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "perfectsurface-drywall-drywall-5-8-4x8"
+      },
+      {
+        "path": "framing-drywall/drywall/perfectsurface-drywall-drywall-5-8-4x8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -1935,12 +2085,6 @@
         "code": "br_brand",
         "values": [
           "PerfectSurface Drywall"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2008,6 +2152,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -2026,8 +2182,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "smoothfinish-pro-moisture-resistant-drywall-4x8"
+      },
+      {
+        "path": "framing-drywall/drywall/smoothfinish-pro-moisture-resistant-drywall-4x8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2035,12 +2194,6 @@
         "code": "br_brand",
         "values": [
           "SmoothFinish Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2108,6 +2261,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -2126,8 +2291,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "walltech-systems-fire-rated-drywall-4x8"
+      },
+      {
+        "path": "framing-drywall/drywall/walltech-systems-fire-rated-drywall-4x8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2135,12 +2303,6 @@
         "code": "br_brand",
         "values": [
           "WallTech Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2208,6 +2370,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -2226,8 +2400,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "smoothfinish-pro-cement-board-1-2-3x5"
+      },
+      {
+        "path": "framing-drywall/drywall/smoothfinish-pro-cement-board-1-2-3x5",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2235,12 +2412,6 @@
         "code": "br_brand",
         "values": [
           "SmoothFinish Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2308,6 +2479,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -2326,8 +2509,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "smoothfinish-pro-sound-dampening-drywall-4x8"
+      },
+      {
+        "path": "framing-drywall/drywall/smoothfinish-pro-sound-dampening-drywall-4x8",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2335,12 +2521,6 @@
         "code": "br_brand",
         "values": [
           "SmoothFinish Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2408,6 +2588,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -2426,8 +2618,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "ecoseal-insulation-fiberglass-insulation-r-19-15-x-93"
+      },
+      {
+        "path": "framing-drywall/insulation/ecoseal-insulation-fiberglass-insulation-r-19-15-x-93",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2435,12 +2630,6 @@
         "code": "br_brand",
         "values": [
           "EcoSeal Insulation"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2490,6 +2679,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "insulation"
+        ]
       }
     ]
   },
@@ -2508,8 +2709,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "ecoseal-insulation-fiberglass-insulation-r-30-24-x-48"
+      },
+      {
+        "path": "framing-drywall/insulation/ecoseal-insulation-fiberglass-insulation-r-30-24-x-48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2517,12 +2721,6 @@
         "code": "br_brand",
         "values": [
           "EcoSeal Insulation"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2560,6 +2758,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "insulation"
+        ]
       }
     ]
   },
@@ -2578,8 +2788,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "ecoseal-insulation-spray-foam-insulation-kit-600-board-feet"
+      },
+      {
+        "path": "framing-drywall/insulation/ecoseal-insulation-spray-foam-insulation-kit-600-board-feet",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2587,12 +2800,6 @@
         "code": "br_brand",
         "values": [
           "EcoSeal Insulation"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -2630,6 +2837,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "insulation"
+        ]
       }
     ]
   },
@@ -2648,8 +2867,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "horizon-fenestration-single-hung-window-36-x48"
+      },
+      {
+        "path": "windows-doors/windows/horizon-fenestration-single-hung-window-36-x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2657,12 +2879,6 @@
         "code": "br_brand",
         "values": [
           "Horizon Fenestration"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -2748,6 +2964,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ]
   },
@@ -2766,8 +2994,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "horizon-fenestration-double-hung-window-36-x60"
+      },
+      {
+        "path": "windows-doors/windows/horizon-fenestration-double-hung-window-36-x60",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2775,12 +3006,6 @@
         "code": "br_brand",
         "values": [
           "Horizon Fenestration"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -2866,6 +3091,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ]
   },
@@ -2884,8 +3121,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "vista-architectural-sliding-window-48-x36"
+      },
+      {
+        "path": "windows-doors/windows/vista-architectural-sliding-window-48-x36",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2893,12 +3133,6 @@
         "code": "br_brand",
         "values": [
           "Vista Architectural"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -2966,6 +3200,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ]
   },
@@ -2984,8 +3230,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "horizon-fenestration-casement-window-30-x48"
+      },
+      {
+        "path": "windows-doors/windows/horizon-fenestration-casement-window-30-x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -2993,12 +3242,6 @@
         "code": "br_brand",
         "values": [
           "Horizon Fenestration"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3066,6 +3309,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ]
   },
@@ -3084,8 +3339,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "horizon-fenestration-bay-window-72-x48"
+      },
+      {
+        "path": "windows-doors/windows/horizon-fenestration-bay-window-72-x48",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3093,12 +3351,6 @@
         "code": "br_brand",
         "values": [
           "Horizon Fenestration"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3166,6 +3418,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ]
   },
@@ -3184,8 +3448,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-awning-window-36-x24"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-awning-window-36-x24",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3193,12 +3460,6 @@
         "code": "br_brand",
         "values": [
           "ClearView Windows"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3266,6 +3527,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
+        ]
       }
     ]
   },
@@ -3284,8 +3557,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "portal-premium-doors-entry-door-steel-36-x80"
+      },
+      {
+        "path": "windows-doors/doors/portal-premium-doors-entry-door-steel-36-x80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3293,12 +3569,6 @@
         "code": "br_brand",
         "values": [
           "Portal Premium Doors"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3384,6 +3654,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ]
   },
@@ -3402,8 +3684,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-interior-door-hollow-core-32-x80"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-interior-door-hollow-core-32-x80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3411,12 +3696,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3496,6 +3775,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ]
   },
@@ -3514,8 +3805,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-french-door-60-x80"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-french-door-60-x80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3523,12 +3817,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3614,6 +3902,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ]
   },
@@ -3632,8 +3932,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-sliding-patio-door-72-x80"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-sliding-patio-door-72-x80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3641,12 +3944,6 @@
         "code": "br_brand",
         "values": [
           "Guardian Door Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3738,6 +4035,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ]
   },
@@ -3756,8 +4065,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "portal-premium-doors-bi-fold-closet-door-36-x80"
+      },
+      {
+        "path": "windows-doors/doors/portal-premium-doors-bi-fold-closet-door-36-x80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3765,12 +4077,6 @@
         "code": "br_brand",
         "values": [
           "Portal Premium Doors"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3856,6 +4162,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ]
   },
@@ -3874,8 +4192,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-storm-door-36-x80"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-storm-door-36-x80",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3883,12 +4204,6 @@
         "code": "br_brand",
         "values": [
           "Precision Entry Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -3968,6 +4283,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
+        ]
       }
     ]
   },
@@ -3986,8 +4313,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "titan-grip-hardware-framing-nails-16d-50lb-box"
+      },
+      {
+        "path": "fasteners-hardware/nails/titan-grip-hardware-framing-nails-16d-50lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -3995,12 +4325,6 @@
         "code": "br_brand",
         "values": [
           "Titan Grip Hardware"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4068,6 +4392,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ]
   },
@@ -4086,8 +4422,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "apex-anchors-finish-nails-8d-5lb-box"
+      },
+      {
+        "path": "fasteners-hardware/nails/apex-anchors-finish-nails-8d-5lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4095,12 +4434,6 @@
         "code": "br_brand",
         "values": [
           "Apex Anchors"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4156,6 +4489,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ]
   },
@@ -4174,8 +4519,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-roofing-nails-50lb-box"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-roofing-nails-50lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4183,12 +4531,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4244,6 +4586,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ]
   },
@@ -4262,8 +4616,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "apex-anchors-brad-nails-18ga-5000ct"
+      },
+      {
+        "path": "fasteners-hardware/nails/apex-anchors-brad-nails-18ga-5000ct",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4271,12 +4628,6 @@
         "code": "br_brand",
         "values": [
           "Apex Anchors"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4332,6 +4683,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ]
   },
@@ -4350,8 +4713,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-concrete-nails-5lb-box"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-concrete-nails-5lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4359,12 +4725,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4420,6 +4780,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ]
   },
@@ -4438,8 +4810,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "apex-anchors-ring-shank-nails-25lb-box"
+      },
+      {
+        "path": "fasteners-hardware/nails/apex-anchors-ring-shank-nails-25lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4447,12 +4822,6 @@
         "code": "br_brand",
         "values": [
           "Apex Anchors"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4520,6 +4889,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
+        ]
       }
     ]
   },
@@ -4538,8 +4919,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-deck-screws-8-5lb-box"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-deck-screws-8-5lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4547,12 +4931,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4626,6 +5004,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ]
   },
@@ -4644,8 +5034,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-drywall-screws-5lb-box"
+      },
+      {
+        "path": "fasteners-hardware/screws/ironclad-fastening-drywall-screws-5lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4653,12 +5046,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4714,6 +5101,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ]
   },
@@ -4732,8 +5131,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-wood-screws-10-1lb-box"
+      },
+      {
+        "path": "fasteners-hardware/screws/ironclad-fastening-wood-screws-10-1lb-box",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4741,12 +5143,6 @@
         "code": "br_brand",
         "values": [
           "IronClad Fastening"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4802,6 +5198,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ]
   },
@@ -4820,8 +5228,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-self-drilling-screws-1lb"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-self-drilling-screws-1lb",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4829,12 +5240,6 @@
         "code": "br_brand",
         "values": [
           "HoldFast Industries"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4890,6 +5295,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ]
   },
@@ -4908,8 +5325,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "threadmaster-pro-lag-screws-1-2-50ct"
+      },
+      {
+        "path": "fasteners-hardware/screws/threadmaster-pro-lag-screws-1-2-50ct",
+        "position": 1
       }
     ],
     "attributes": [
@@ -4917,12 +5337,6 @@
         "code": "br_brand",
         "values": [
           "ThreadMaster Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -4990,6 +5404,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ]
   },
@@ -5008,8 +5434,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "precision-fastening-co-cabinet-screws-100ct"
+      },
+      {
+        "path": "fasteners-hardware/screws/precision-fastening-co-cabinet-screws-100ct",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5017,12 +5446,6 @@
         "code": "br_brand",
         "values": [
           "Precision Fastening Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -5090,6 +5513,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
+        ]
       }
     ]
   },
@@ -5108,8 +5543,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-asphalt-shingles-3-tab-bundle"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-asphalt-shingles-3-tab-bundle",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5117,12 +5555,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5190,6 +5622,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ]
   },
@@ -5208,8 +5652,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-architectural-shingles-bundle"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-architectural-shingles-bundle",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5217,12 +5664,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5290,6 +5731,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ]
   },
@@ -5308,8 +5761,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-premium-designer-shingles-bundle"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-premium-designer-shingles-bundle",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5317,12 +5773,6 @@
         "code": "br_brand",
         "values": [
           "Vertex Shingles"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5390,6 +5840,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ]
   },
@@ -5408,8 +5870,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-impact-resistant-shingles-bundle"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-impact-resistant-shingles-bundle",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5417,12 +5882,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5490,6 +5949,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ]
   },
@@ -5508,8 +5979,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "summit-protection-starter-strip-shingles-roll"
+      },
+      {
+        "path": "roofing/shingles/summit-protection-starter-strip-shingles-roll",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5517,12 +5991,6 @@
         "code": "br_brand",
         "values": [
           "Summit Protection"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5578,6 +6046,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ]
   },
@@ -5596,8 +6076,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-ridge-cap-shingles-bundle"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-ridge-cap-shingles-bundle",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5605,12 +6088,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5666,6 +6143,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
+        ]
       }
     ]
   },
@@ -5684,8 +6173,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "weathershield-pro-roofing-felt-15lb-roll"
+      },
+      {
+        "path": "roofing/underlayment/weathershield-pro-roofing-felt-15lb-roll",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5693,12 +6185,6 @@
         "code": "br_brand",
         "values": [
           "WeatherShield Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5754,6 +6240,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ]
   },
@@ -5772,8 +6270,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "weathershield-pro-roofing-felt-30lb-roll"
+      },
+      {
+        "path": "roofing/underlayment/weathershield-pro-roofing-felt-30lb-roll",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5781,12 +6282,6 @@
         "code": "br_brand",
         "values": [
           "WeatherShield Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5842,6 +6337,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ]
   },
@@ -5860,8 +6367,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-synthetic-underlayment-roll"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-synthetic-underlayment-roll",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5869,12 +6379,6 @@
         "code": "br_brand",
         "values": [
           "SkyGuard Roofing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -5948,6 +6452,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ]
   },
@@ -5966,8 +6482,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "weathershield-pro-ice-water-shield-roll"
+      },
+      {
+        "path": "roofing/underlayment/weathershield-pro-ice-water-shield-roll",
+        "position": 1
       }
     ],
     "attributes": [
@@ -5975,12 +6494,6 @@
         "code": "br_brand",
         "values": [
           "WeatherShield Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6048,6 +6561,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ]
   },
@@ -6066,8 +6591,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "aquablock-self-adhering-underlayment-roll"
+      },
+      {
+        "path": "roofing/underlayment/aquablock-self-adhering-underlayment-roll",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6075,12 +6603,6 @@
         "code": "br_brand",
         "values": [
           "AquaBlock"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6148,6 +6670,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ]
   },
@@ -6166,8 +6700,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "barriertech-systems-ventilated-underlayment-roll"
+      },
+      {
+        "path": "roofing/underlayment/barriertech-systems-ventilated-underlayment-roll",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6175,12 +6712,6 @@
         "code": "br_brand",
         "values": [
           "BarrierTech Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6248,6 +6779,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
+        ]
       }
     ]
   },
@@ -6266,8 +6809,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "shieldside-premium-vinyl-siding-standard-profile"
+      },
+      {
+        "path": "roofing/siding/shieldside-premium-vinyl-siding-standard-profile",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6275,12 +6821,6 @@
         "code": "br_brand",
         "values": [
           "ShieldSide Premium"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6324,6 +6864,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "siding"
+        ]
       }
     ]
   },
@@ -6342,8 +6894,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "weatherguard-exteriors-fiber-cement-siding-smooth-lap"
+      },
+      {
+        "path": "roofing/siding/weatherguard-exteriors-fiber-cement-siding-smooth-lap",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6351,12 +6906,6 @@
         "code": "br_brand",
         "values": [
           "WeatherGuard Exteriors"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6394,6 +6943,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "siding"
+        ]
       }
     ]
   },
@@ -6412,8 +6973,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "claddingmasters-fiber-cement-siding-cedar-texture"
+      },
+      {
+        "path": "roofing/siding/claddingmasters-fiber-cement-siding-cedar-texture",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6421,12 +6985,6 @@
         "code": "br_brand",
         "values": [
           "CladdingMasters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6464,6 +7022,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "siding"
+        ]
       }
     ]
   },
@@ -6482,8 +7052,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "shieldside-premium-stucco-system-3-coat-traditional"
+      },
+      {
+        "path": "roofing/siding/shieldside-premium-stucco-system-3-coat-traditional",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6491,12 +7064,6 @@
         "code": "br_brand",
         "values": [
           "ShieldSide Premium"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6534,6 +7101,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "siding"
+        ]
       }
     ]
   },
@@ -6552,8 +7131,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "claddingmasters-natural-stone-veneer-stacked-ledge"
+      },
+      {
+        "path": "roofing/siding/claddingmasters-natural-stone-veneer-stacked-ledge",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6561,12 +7143,6 @@
         "code": "br_brand",
         "values": [
           "CladdingMasters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6604,6 +7180,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "siding"
+        ]
       }
     ]
   },
@@ -6622,8 +7210,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "shieldside-premium-premium-stucco-system-acrylic-finish"
+      },
+      {
+        "path": "roofing/siding/shieldside-premium-premium-stucco-system-acrylic-finish",
+        "position": 1
       }
     ],
     "attributes": [
@@ -6631,12 +7222,6 @@
         "code": "br_brand",
         "values": [
           "ShieldSide Premium"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -6674,6 +7259,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "siding"
+        ]
       }
     ]
   },
@@ -6690,17 +7287,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "durastep-luxury-vinyl-plank-oak-finish"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DuraStep"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -6744,6 +7340,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -6760,17 +7368,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "durastep-standard-carpet-beige-neutral"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DuraStep"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -6814,6 +7421,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -6830,17 +7449,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "surfacemasters-engineered-hardwood-red-oak"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "SurfaceMasters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -6890,6 +7508,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -6906,17 +7536,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "durastep-ceramic-floor-tile-12x12-neutral"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DuraStep"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -6960,6 +7589,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -6976,17 +7617,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "surfacemasters-premium-vinyl-plank-gray-stone-look"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "SurfaceMasters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7030,6 +7670,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -7046,17 +7698,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "surfacemasters-solid-hardwood-black-walnut"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "SurfaceMasters"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7100,6 +7751,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -7116,17 +7779,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "durastep-porcelain-tile-24x24-marble-look"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DuraStep"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7170,6 +7832,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -7186,17 +7860,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "heritage-flooring-co-premium-carpet-neutral-luxury"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "Heritage Flooring Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7240,6 +7913,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "flooring"
+        ]
       }
     ]
   },
@@ -7256,17 +7941,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "chromashield-interior-paint-flat-white-5-gallon"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "ChromaShield"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7322,6 +8006,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "paint"
+        ]
       }
     ]
   },
@@ -7338,17 +8034,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "elite-finish-paint-interior-paint-eggshell-neutral-beige-5-gallon"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "Elite Finish Paint"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7404,6 +8099,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "paint"
+        ]
       }
     ]
   },
@@ -7420,17 +8127,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "elite-finish-paint-sherwin-williams-interior-satin-5-gallon"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "Elite Finish Paint"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7486,6 +8192,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "paint"
+        ]
       }
     ]
   },
@@ -7502,17 +8220,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "spectrum-coatings-sherwin-williams-exterior-satin-5-gallon"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "Spectrum Coatings"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7568,6 +8285,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "paint"
+        ]
       }
     ]
   },
@@ -7584,17 +8313,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "chromashield-benjamin-moore-aura-interior-5-gallon"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "ChromaShield"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7650,6 +8378,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "paint"
+        ]
       }
     ]
   },
@@ -7666,17 +8406,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "colorworks-professional-benjamin-moore-aura-exterior-5-gallon"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "ColorWorks Professional"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7732,6 +8471,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "paint"
+        ]
       }
     ]
   },
@@ -7748,17 +8499,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "voltagepoint-flush-mount-ceiling-light-basic-white"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "VoltagePoint"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7814,6 +8564,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lighting"
+        ]
       }
     ]
   },
@@ -7830,17 +8592,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "lumina-professional-recessed-can-light-4-standard"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "Lumina Professional"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7896,6 +8657,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lighting"
+        ]
       }
     ]
   },
@@ -7912,17 +8685,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "radiantedge-semi-flush-ceiling-light-brushed-nickel"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "RadiantEdge"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -7978,6 +8750,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lighting"
+        ]
       }
     ]
   },
@@ -7994,17 +8778,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "voltagepoint-led-recessed-downlight-6-integrated"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "VoltagePoint"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8060,6 +8843,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lighting"
+        ]
       }
     ]
   },
@@ -8076,17 +8871,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "brightworks-lighting-dining-chandelier-modern-5-light"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "BrightWorks Lighting"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8142,6 +8936,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lighting"
+        ]
       }
     ]
   },
@@ -8158,17 +8964,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "brightworks-lighting-kitchen-island-pendant-set-3-glass-globes"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "BrightWorks Lighting"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8224,6 +9029,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lighting"
+        ]
       }
     ]
   },
@@ -8240,17 +9057,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "hydrotech-fixtures-kitchen-faucet-chrome-single-handle"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "HydroTech Fixtures"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8306,6 +9122,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plumbing"
+        ]
       }
     ]
   },
@@ -8322,17 +9150,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "streamline-plumbing-bathroom-faucet-chrome-4-centerset"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "StreamLine Plumbing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8388,6 +9215,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plumbing"
+        ]
       }
     ]
   },
@@ -8404,17 +9243,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "aquaflow-systems-kitchen-faucet-brushed-nickel-commercial-style"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "AquaFlow Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8470,6 +9308,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plumbing"
+        ]
       }
     ]
   },
@@ -8486,17 +9336,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "hydrotech-fixtures-bathroom-faucet-brushed-nickel-widespread"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "HydroTech Fixtures"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8552,6 +9401,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plumbing"
+        ]
       }
     ]
   },
@@ -8568,17 +9429,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "aquaflow-systems-kitchen-faucet-delta-touch2o-technology"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "AquaFlow Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8634,6 +9494,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plumbing"
+        ]
       }
     ]
   },
@@ -8650,17 +9522,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "streamline-plumbing-bathroom-faucet-kohler-artifacts-collection"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "StreamLine Plumbing"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Interior Finishes"
         ]
       },
       {
@@ -8716,6 +9587,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "interior-finishes"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plumbing"
+        ]
       }
     ]
   },
@@ -8734,8 +9617,7 @@
     ],
     "routes": [
       {
-        "path": "concrete-foundation",
-        "position": 0
+        "path": "quickset-concrete-ready-mix-concrete-3000-psi"
       }
     ],
     "attributes": [
@@ -8743,12 +9625,6 @@
         "code": "br_brand",
         "values": [
           "QuickSet Concrete"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Concrete & Foundation"
         ]
       },
       {
@@ -8822,6 +9698,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "concrete-foundation"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "concrete-foundation"
+        ]
       }
     ]
   },
@@ -8840,8 +9728,7 @@
     ],
     "routes": [
       {
-        "path": "concrete-foundation",
-        "position": 0
+        "path": "foundation-force-ready-mix-concrete-4000-psi"
       }
     ],
     "attributes": [
@@ -8849,12 +9736,6 @@
         "code": "br_brand",
         "values": [
           "Foundation Force"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Concrete & Foundation"
         ]
       },
       {
@@ -8916,6 +9797,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "concrete-foundation"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "concrete-foundation"
+        ]
       }
     ]
   },
@@ -8934,8 +9827,7 @@
     ],
     "routes": [
       {
-        "path": "concrete-foundation",
-        "position": 0
+        "path": "foundation-force-ready-mix-concrete-5000-psi-high-strength"
       }
     ],
     "attributes": [
@@ -8943,12 +9835,6 @@
         "code": "br_brand",
         "values": [
           "Foundation Force"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Concrete & Foundation"
         ]
       },
       {
@@ -9010,6 +9896,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "concrete-foundation"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "concrete-foundation"
+        ]
       }
     ]
   },
@@ -9028,8 +9926,7 @@
     ],
     "routes": [
       {
-        "path": "concrete-foundation",
-        "position": 0
+        "path": "quickset-concrete-concrete-mix-60lb-bag"
       }
     ],
     "attributes": [
@@ -9037,12 +9934,6 @@
         "code": "br_brand",
         "values": [
           "QuickSet Concrete"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Concrete & Foundation"
         ]
       },
       {
@@ -9104,6 +9995,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "concrete-foundation"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "concrete-foundation"
+        ]
       }
     ]
   },
@@ -9122,8 +10025,7 @@
     ],
     "routes": [
       {
-        "path": "concrete-foundation",
-        "position": 0
+        "path": "foundation-force-concrete-mix-80lb-bag-high-strength"
       }
     ],
     "attributes": [
@@ -9131,12 +10033,6 @@
         "code": "br_brand",
         "values": [
           "Foundation Force"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Concrete & Foundation"
         ]
       },
       {
@@ -9198,6 +10094,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "concrete-foundation"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "concrete-foundation"
+        ]
       }
     ]
   },
@@ -9214,17 +10122,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "powerpath-systems-romex-14-2-nm-b-wire-250ft-roll"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PowerPath Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9286,6 +10193,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "wiring"
+        ]
       }
     ]
   },
@@ -9302,17 +10221,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "ampleconductor-romex-12-2-nm-b-wire-250ft-roll"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "AmpleConductor"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9374,6 +10292,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "wiring"
+        ]
       }
     ]
   },
@@ -9390,17 +10320,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "ampleconductor-romex-10-2-nm-b-wire-250ft-roll"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "AmpleConductor"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9462,6 +10391,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "wiring"
+        ]
       }
     ]
   },
@@ -9478,17 +10419,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "deviceworks-electrical-outlet-15a-duplex-white"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DeviceWorks"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9550,6 +10490,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "devices"
+        ]
       }
     ]
   },
@@ -9566,17 +10518,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "powertech-devices-gfci-outlet-20a-weather-resistant"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PowerTech Devices"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9638,6 +10589,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "devices"
+        ]
       }
     ]
   },
@@ -9654,17 +10617,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "outletmaster-pro-light-switch-single-pole-white"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "OutletMaster Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9726,6 +10688,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "devices"
+        ]
       }
     ]
   },
@@ -9742,17 +10716,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "powertech-devices-dimmer-switch-led-compatible"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PowerTech Devices"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9814,6 +10787,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "devices"
+        ]
       }
     ]
   },
@@ -9830,17 +10815,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "powertech-devices-3-way-light-switch-white"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PowerTech Devices"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9902,6 +10886,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "devices"
+        ]
       }
     ]
   },
@@ -9918,17 +10914,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "loadmaster-main-service-panel-200-amp"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "LoadMaster"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -9990,6 +10985,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "panels"
+        ]
       }
     ]
   },
@@ -10006,17 +11013,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "panelmaster-pro-circuit-breaker-15-amp-single-pole"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PanelMaster Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -10078,6 +11084,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "panels"
+        ]
       }
     ]
   },
@@ -10094,17 +11112,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "powercenter-systems-circuit-breaker-20-amp-single-pole"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PowerCenter Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Electrical Systems"
         ]
       },
       {
@@ -10166,6 +11183,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "electrical-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "panels"
+        ]
       }
     ]
   },
@@ -10182,17 +11211,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "flowmaster-supply-pex-pipe-1-2-red-hot-100ft-coil"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "FlowMaster Supply"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10254,6 +11282,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "water-supply"
+        ]
       }
     ]
   },
@@ -10270,17 +11310,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "aqualine-pro-pex-pipe-1-2-blue-cold-100ft-coil"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "AquaLine Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10342,6 +11381,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "water-supply"
+        ]
       }
     ]
   },
@@ -10358,17 +11409,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "flowmaster-supply-pex-pipe-3-4-red-hot-100ft-coil"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "FlowMaster Supply"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10430,6 +11480,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "water-supply"
+        ]
       }
     ]
   },
@@ -10446,17 +11508,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "waterworks-elite-copper-pipe-type-l-1-2-10ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "WaterWorks Elite"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10518,6 +11579,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "water-supply"
+        ]
       }
     ]
   },
@@ -10534,17 +11607,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "drainmaster-pvc-drain-pipe-2-schedule-40-10ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DrainMaster"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10606,6 +11678,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drain-waste"
+        ]
       }
     ]
   },
@@ -10622,17 +11706,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "wasteflow-systems-pvc-drain-pipe-3-schedule-40-10ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "WasteFlow Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10694,6 +11777,18 @@
         "values": [
           "8"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drain-waste"
+        ]
       }
     ]
   },
@@ -10710,17 +11805,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "draintech-pro-pvc-drain-pipe-4-schedule-40-10ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DrainTech Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10782,6 +11876,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drain-waste"
+        ]
       }
     ]
   },
@@ -10798,17 +11904,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "connectorworks-pex-fittings-assortment-kit-50pc"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "ConnectorWorks"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10870,6 +11975,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "fittings"
+        ]
       }
     ]
   },
@@ -10886,17 +12003,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "connectorworks-pvc-fittings-assortment-kit-40pc"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "ConnectorWorks"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -10958,6 +12074,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "fittings"
+        ]
       }
     ]
   },
@@ -10974,17 +12102,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "jointmaster-shut-off-valve-1-2-quarter-turn"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "JointMaster"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Plumbing Pipes & Fittings"
         ]
       },
       {
@@ -11046,6 +12173,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "plumbing-pipes-fittings"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "fittings"
+        ]
       }
     ]
   },
@@ -11062,17 +12201,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "climateforce-central-ac-heat-pump-3-ton-14-seer"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "ClimateForce"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11134,6 +12272,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "hvac-units"
+        ]
       }
     ]
   },
@@ -11150,17 +12300,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "climateforce-central-ac-heat-pump-4-ton-16-seer"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "ClimateForce"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11222,6 +12371,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "hvac-units"
+        ]
       }
     ]
   },
@@ -11238,17 +12399,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "coolheat-pro-central-ac-heat-pump-5-ton-18-seer-high-efficiency"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "CoolHeat Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11310,6 +12470,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "hvac-units"
+        ]
       }
     ]
   },
@@ -11326,17 +12498,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "ventpath-pro-flexible-duct-6-insulated-25ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "VentPath Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11398,6 +12569,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "ductwork"
+        ]
       }
     ]
   },
@@ -11414,17 +12597,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "ductmaster-flexible-duct-8-insulated-25ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "DuctMaster"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11486,6 +12668,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "ductwork"
+        ]
       }
     ]
   },
@@ -11502,17 +12696,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "airflow-duct-systems-round-duct-10-galvanized-10ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "AirFlow Duct Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11574,6 +12767,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "ductwork"
+        ]
       }
     ]
   },
@@ -11590,17 +12795,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "flowvent-supply-register-4-x10-white"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "FlowVent"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11662,6 +12866,18 @@
         "values": [
           "7"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "vents"
+        ]
       }
     ]
   },
@@ -11678,17 +12894,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "venttech-pro-return-grille-20-x20-white"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "VentTech Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11750,6 +12965,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "vents"
+        ]
       }
     ]
   },
@@ -11766,17 +12993,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "breezeway-programmable-thermostat-7-day"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "BreezeWay"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11838,6 +13064,18 @@
         "values": [
           "3"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "vents"
+        ]
       }
     ]
   },
@@ -11854,17 +13092,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "airgrate-systems-smart-thermostat-wifi-enabled"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "AirGrate Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "HVAC Systems"
         ]
       },
       {
@@ -11926,6 +13163,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "hvac-systems"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "vents"
+        ]
       }
     ]
   },
@@ -11942,17 +13191,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "smoothfinish-pro-drywall-1-2-4x8-sheet"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "SmoothFinish Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Drywall & Supplies"
         ]
       },
       {
@@ -12014,6 +13262,18 @@
         "values": [
           "1"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "drywall-supplies"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -12030,17 +13290,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "perfectsurface-drywall-drywall-1-2-4x12-sheet"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PerfectSurface Drywall"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Drywall & Supplies"
         ]
       },
       {
@@ -12102,6 +13361,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "drywall-supplies"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -12118,17 +13389,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "perfectsurface-drywall-drywall-5-8-moisture-resistant-4x8"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "PerfectSurface Drywall"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Drywall & Supplies"
         ]
       },
       {
@@ -12190,6 +13460,18 @@
         "values": [
           "2"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "drywall-supplies"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
+        ]
       }
     ]
   },
@@ -12206,17 +13488,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "supplymaster-joint-compound-5-gallon-bucket"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "SupplyMaster"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Drywall & Supplies"
         ]
       },
       {
@@ -12278,6 +13559,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "drywall-supplies"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "supplies"
+        ]
       }
     ]
   },
@@ -12294,17 +13587,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "tradesupply-co-drywall-tape-paper-250ft-roll"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "TradeSupply Co."
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Drywall & Supplies"
         ]
       },
       {
@@ -12366,6 +13658,18 @@
         "values": [
           "10"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "drywall-supplies"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "supplies"
+        ]
       }
     ]
   },
@@ -12382,17 +13686,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "buildstock-pro-corner-bead-metal-8ft"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "BuildStock Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Drywall & Supplies"
         ]
       },
       {
@@ -12454,6 +13757,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "drywall-supplies"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "supplies"
+        ]
       }
     ]
   },
@@ -12470,17 +13785,16 @@
       "CATALOG",
       "SEARCH"
     ],
+    "routes": [
+      {
+        "path": "construction-essentials-drywall-screws-1lb-box"
+      }
+    ],
     "attributes": [
       {
         "code": "br_brand",
         "values": [
           "Construction Essentials"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Drywall & Supplies"
         ]
       },
       {
@@ -12542,6 +13856,18 @@
         "values": [
           "5"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "drywall-supplies"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "supplies"
+        ]
       }
     ]
   },
@@ -12560,8 +13886,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "culinary-systems-electric-range-30-white"
       }
     ],
     "attributes": [
@@ -12569,12 +13894,6 @@
         "code": "br_brand",
         "values": [
           "Culinary Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -12642,6 +13961,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -12660,8 +13991,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "kitchencraft-pro-gas-range-30-stainless-steel"
       }
     ],
     "attributes": [
@@ -12669,12 +13999,6 @@
         "code": "br_brand",
         "values": [
           "KitchenCraft Pro"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -12742,6 +14066,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -12760,8 +14096,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "homechef-elite-professional-range-36-dual-fuel"
       }
     ],
     "attributes": [
@@ -12769,12 +14104,6 @@
         "code": "br_brand",
         "values": [
           "HomeChef Elite"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -12842,6 +14171,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -12860,8 +14201,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "culinary-systems-dishwasher-white-standard"
       }
     ],
     "attributes": [
@@ -12869,12 +14209,6 @@
         "code": "br_brand",
         "values": [
           "Culinary Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -12942,6 +14276,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -12960,8 +14306,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "culinary-systems-dishwasher-stainless-quiet"
       }
     ],
     "attributes": [
@@ -12969,12 +14314,6 @@
         "code": "br_brand",
         "values": [
           "Culinary Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -13042,6 +14381,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -13060,8 +14411,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "culinary-systems-dishwasher-panel-ready-ultra-quiet"
       }
     ],
     "attributes": [
@@ -13069,12 +14419,6 @@
         "code": "br_brand",
         "values": [
           "Culinary Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -13142,6 +14486,18 @@
         "values": [
           "9"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -13160,8 +14516,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "homechef-elite-microwave-over-range-white"
       }
     ],
     "attributes": [
@@ -13169,12 +14524,6 @@
         "code": "br_brand",
         "values": [
           "HomeChef Elite"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -13242,6 +14591,18 @@
         "values": [
           "4"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -13260,8 +14621,7 @@
     ],
     "routes": [
       {
-        "path": "kitchen-appliances",
-        "position": 0
+        "path": "culinary-systems-microwave-built-in-stainless"
       }
     ],
     "attributes": [
@@ -13269,12 +14629,6 @@
         "code": "br_brand",
         "values": [
           "Culinary Systems"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Kitchen Appliances"
         ]
       },
       {
@@ -13342,6 +14696,18 @@
         "values": [
           "6"
         ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "kitchen-appliances"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "kitchen-appliances"
+        ]
       }
     ]
   },
@@ -13360,8 +14726,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "cascade-timber-co-dimensional-lumber-configurable"
+      },
+      {
+        "path": "structural-materials/lumber/cascade-timber-co-dimensional-lumber-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13375,12 +14744,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -13429,6 +14792,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
         ]
       }
     ],
@@ -13495,8 +14870,11 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "rocky-mountain-mills-lvl-beam-configurable"
+      },
+      {
+        "path": "structural-materials/lumber/rocky-mountain-mills-lvl-beam-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13510,12 +14888,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -13564,6 +14936,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "lumber"
         ]
       }
     ],
@@ -13630,8 +15014,7 @@
     ],
     "routes": [
       {
-        "path": "structural-materials",
-        "position": 0
+        "path": "plytech-industries-plywood-sheet-configurable"
       }
     ],
     "attributes": [
@@ -13645,12 +15028,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Structural Materials"
         ]
       },
       {
@@ -13699,6 +15076,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "structural-materials"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "plywood"
         ]
       }
     ],
@@ -13761,8 +15150,7 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "cascade-timber-co-metal-stud-system-configurable"
       }
     ],
     "attributes": [
@@ -13776,12 +15164,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -13830,6 +15212,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "studs"
         ]
       }
     ],
@@ -13896,8 +15290,11 @@
     ],
     "routes": [
       {
-        "path": "framing-drywall",
-        "position": 0
+        "path": "walltech-systems-gypsum-board-configurable"
+      },
+      {
+        "path": "framing-drywall/drywall/walltech-systems-gypsum-board-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -13911,12 +15308,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Framing & Drywall"
         ]
       },
       {
@@ -13965,6 +15356,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "framing-drywall"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "drywall"
         ]
       }
     ],
@@ -14027,8 +15430,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "clearview-windows-custom-window-configurable"
+      },
+      {
+        "path": "windows-doors/windows/clearview-windows-custom-window-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14042,12 +15448,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -14096,6 +15496,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
         ]
       }
     ],
@@ -14162,8 +15574,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "panorama-systems-energy-efficient-window-configurable"
+      },
+      {
+        "path": "windows-doors/windows/panorama-systems-energy-efficient-window-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14177,12 +15592,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -14231,6 +15640,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "windows"
         ]
       }
     ],
@@ -14297,8 +15718,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "precision-entry-systems-custom-entry-door-configurable"
+      },
+      {
+        "path": "windows-doors/doors/precision-entry-systems-custom-entry-door-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14312,12 +15736,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -14366,6 +15784,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -14432,8 +15862,11 @@
     ],
     "routes": [
       {
-        "path": "windows-doors",
-        "position": 0
+        "path": "guardian-door-co-interior-door-system-configurable"
+      },
+      {
+        "path": "windows-doors/doors/guardian-door-co-interior-door-system-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14447,12 +15880,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Windows & Doors"
         ]
       },
       {
@@ -14501,6 +15928,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "windows-doors"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "doors"
         ]
       }
     ],
@@ -14571,8 +16010,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-bulk-nail-pack-configurable"
+      },
+      {
+        "path": "fasteners-hardware/nails/holdfast-industries-bulk-nail-pack-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14586,12 +16028,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -14640,6 +16076,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
         ]
       }
     ],
@@ -14706,8 +16154,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "ironclad-fastening-specialty-nails-configurable"
+      },
+      {
+        "path": "fasteners-hardware/nails/ironclad-fastening-specialty-nails-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14721,12 +16172,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -14775,6 +16220,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "nails"
         ]
       }
     ],
@@ -14841,8 +16298,11 @@
     ],
     "routes": [
       {
-        "path": "fasteners-hardware",
-        "position": 0
+        "path": "holdfast-industries-construction-screws-configurable"
+      },
+      {
+        "path": "fasteners-hardware/screws/holdfast-industries-construction-screws-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14856,12 +16316,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Fasteners & Hardware"
         ]
       },
       {
@@ -14910,6 +16364,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "fasteners-hardware"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "screws"
         ]
       }
     ],
@@ -14980,8 +16446,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-architectural-shingle-system-configurable"
+      },
+      {
+        "path": "roofing/shingles/skyguard-roofing-architectural-shingle-system-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -14995,12 +16464,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -15049,6 +16512,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -15115,8 +16590,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "vertex-shingles-specialty-roofing-shingles-configurable"
+      },
+      {
+        "path": "roofing/shingles/vertex-shingles-specialty-roofing-shingles-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -15130,12 +16608,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -15184,6 +16656,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "shingles"
         ]
       }
     ],
@@ -15250,8 +16734,11 @@
     ],
     "routes": [
       {
-        "path": "roofing",
-        "position": 0
+        "path": "skyguard-roofing-premium-underlayment-system-configurable"
+      },
+      {
+        "path": "roofing/underlayment/skyguard-roofing-premium-underlayment-system-configurable",
+        "position": 1
       }
     ],
     "attributes": [
@@ -15265,12 +16752,6 @@
         "code": "br_unit_of_measure",
         "values": [
           "EA"
-        ]
-      },
-      {
-        "code": "br_product_category",
-        "values": [
-          "Roofing"
         ]
       },
       {
@@ -15319,6 +16800,18 @@
         "code": "weight",
         "values": [
           "1"
+        ]
+      },
+      {
+        "code": "category",
+        "values": [
+          "roofing"
+        ]
+      },
+      {
+        "code": "subcategory",
+        "values": [
+          "underlayment"
         ]
       }
     ],
