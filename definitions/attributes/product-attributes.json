@@ -1,23 +1,5 @@
 [
   {
-    "attributeCode": "br_product_category",
-    "frontendLabel": "Product Category",
-    "frontendInput": "select",
-    "isRequired": true,
-    "isSearchable": true,
-    "isFilterable": true,
-    "isComparable": true,
-    "isVisibleOnFront": true,
-    "sortOrder": 1,
-    "options": [
-      "Structural Materials",
-      "Framing & Insulation",
-      "Windows & Doors",
-      "Fasteners & Hardware",
-      "Safety Equipment"
-    ]
-  },
-  {
     "attributeCode": "br_brand",
     "frontendLabel": "Brand",
     "frontendInput": "select",
@@ -38,7 +20,8 @@
       "MaxStrength",
       "PremiumBuild",
       "ReliaBuild"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_unit_of_measure",
@@ -64,7 +47,8 @@
       "Gallon",
       "Case"
     ],
-    "defaultValue": "EA"
+    "defaultValue": "EA",
+    "isSortable": false
   },
   {
     "attributeCode": "br_project_types",
@@ -81,7 +65,8 @@
       "Remodel/Renovation",
       "Repair/Maintenance",
       "Restoration"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_lumber_species",
@@ -100,7 +85,8 @@
       "Hem-Fir",
       "Western Red Cedar",
       "Redwood"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_lumber_grade",
@@ -121,7 +107,8 @@
       "Utility",
       "Construction",
       "Standard"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_lumber_treatment",
@@ -140,7 +127,8 @@
       "Pressure-Treated (ACQ)",
       "Pressure-Treated (CA-C)",
       "Fire-Retardant Treated"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_lumber_certification",
@@ -158,7 +146,8 @@
       "SFI Certified",
       "PEFC Certified",
       "No Certification"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_drywall_thickness",
@@ -176,7 +165,8 @@
       "1/2\"",
       "5/8\"",
       "3/4\""
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_drywall_product_type",
@@ -195,7 +185,8 @@
       "Fire-Rated",
       "Sound-Dampening",
       "Impact/Abuse-Resistant"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_drywall_fire_rating",
@@ -211,7 +202,8 @@
       "Non-Rated",
       "Type X (1-hour)",
       "Type C (Enhanced)"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_drywall_edge_type",
@@ -228,7 +220,8 @@
       "Square",
       "Beveled",
       "Tongue & Groove"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_window_material",
@@ -247,7 +240,8 @@
       "Fiberglass",
       "Composite",
       "Clad Wood"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_window_operation_type",
@@ -268,7 +262,8 @@
       "Fixed/Picture",
       "Bay",
       "Bow"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_window_glazing_type",
@@ -284,7 +279,8 @@
       "Single Pane",
       "Double Pane",
       "Triple Pane"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_window_energy_star",
@@ -296,7 +292,8 @@
     "isComparable": false,
     "isVisibleOnFront": true,
     "sortOrder": 33,
-    "defaultValue": false
+    "defaultValue": false,
+    "isSortable": false
   },
   {
     "attributeCode": "br_door_type",
@@ -315,7 +312,8 @@
       "French Door",
       "Storm Door",
       "Bi-Fold Door"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_door_material",
@@ -334,7 +332,8 @@
       "Aluminum",
       "Vinyl",
       "Composite"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_door_core_type",
@@ -351,7 +350,8 @@
       "Solid Core",
       "Hollow Core",
       "Foam Insulated"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fastener_type",
@@ -369,7 +369,8 @@
       "Bolt",
       "Anchor",
       "Staple"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fastener_subtype",
@@ -392,7 +393,8 @@
       "Deck Screw",
       "Self-Drilling Screw",
       "Lag Screw"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fastener_material",
@@ -410,7 +412,8 @@
       "Stainless Steel 316 (Marine)",
       "Brass",
       "Aluminum"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fastener_coating",
@@ -429,7 +432,8 @@
       "Hot-Dip Galvanized",
       "Ceramic Coated",
       "Polymer Coated"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fastener_head_type",
@@ -448,7 +452,8 @@
       "Hex",
       "Bugle",
       "Truss"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fastener_drive_type",
@@ -467,7 +472,8 @@
       "Hex",
       "Slotted",
       "Combination"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_category",
@@ -488,7 +494,8 @@
       "Fall Protection",
       "High-Visibility Apparel",
       "Foot Protection"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_ansi_standard",
@@ -508,7 +515,8 @@
       "ANSI Z359 (Fall)",
       "ANSI/ISEA 107 (Hi-Vis)",
       "ASTM F2413 (Foot)"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_hard_hat_type",
@@ -523,7 +531,8 @@
     "options": [
       "Type 1 (Top Impact)",
       "Type 2 (Top & Lateral)"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_hard_hat_class",
@@ -539,7 +548,8 @@
       "Class E (Electrical - 20kV)",
       "Class G (General - 2.2kV)",
       "Class C (Conductive)"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_nrr_rating",
@@ -561,7 +571,8 @@
       "31 dB",
       "32 dB",
       "33 dB"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_cut_resistance",
@@ -583,7 +594,8 @@
       "A7 (4000-4999g)",
       "A8 (5000-5999g)",
       "A9 (6000+g)"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_niosh_rating",
@@ -602,7 +614,8 @@
       "P95 (Oil-proof, 95%)",
       "P99 (Oil-proof, 99%)",
       "P100 (Oil-proof, 99.97%)"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_hi_vis_class",
@@ -618,7 +631,8 @@
       "Class 1 (Minimal)",
       "Class 2 (Medium)",
       "Class 3 (High)"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_ppe_size",
@@ -639,7 +653,8 @@
       "XXL",
       "3XL",
       "Universal"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_sheathing_location",
@@ -655,7 +670,8 @@
       "Wall",
       "Roof",
       "Subfloor"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_underlayment_type",
@@ -672,7 +688,8 @@
       "30# Felt",
       "Synthetic Underlayment",
       "Ice & Water Shield"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_insulation_type",
@@ -689,7 +706,8 @@
       "Mineral Wool",
       "Spray Foam",
       "Cellulose"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_insulation_r_value",
@@ -707,7 +725,8 @@
       "R-19",
       "R-21",
       "R-30"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_light_type",
@@ -724,7 +743,8 @@
       "Flush Mount",
       "Pendant",
       "Chandelier"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_light_technology",
@@ -740,7 +760,8 @@
       "LED",
       "CFL",
       "Incandescent"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fixture_type",
@@ -757,7 +778,8 @@
       "Sink",
       "Toilet",
       "Shower"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_fixture_location",
@@ -773,7 +795,8 @@
       "Kitchen",
       "Bathroom",
       "Utility"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_construction_phase",
@@ -792,7 +815,8 @@
       "Insulation",
       "Drywall",
       "Finish"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_quality_tier",
@@ -809,7 +833,8 @@
       "Standard",
       "Premium",
       "Professional"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_paint_type",
@@ -827,7 +852,8 @@
       "Acrylic",
       "Enamel",
       "Primer"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_paint_finish",
@@ -845,7 +871,8 @@
       "Satin",
       "Semi-Gloss",
       "Gloss"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_concrete_type",
@@ -863,7 +890,8 @@
       "Fiber-Reinforced",
       "Self-Leveling",
       "Quick-Set"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_concrete_psi",
@@ -881,7 +909,8 @@
       "3500 PSI",
       "4000 PSI",
       "5000 PSI"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_roofing_material",
@@ -899,7 +928,8 @@
       "Tile",
       "Slate",
       "Wood Shake"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_roofing_style",
@@ -916,7 +946,8 @@
       "Architectural",
       "Premium",
       "Designer"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_siding_material",
@@ -934,7 +965,8 @@
       "Fiber Cement",
       "Metal",
       "Brick"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_flooring_material",
@@ -952,7 +984,8 @@
       "Vinyl Plank",
       "Tile",
       "Carpet"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_lumber_dimension",
@@ -963,7 +996,8 @@
     "isFilterable": false,
     "isComparable": false,
     "isVisibleOnFront": true,
-    "sortOrder": 90
+    "sortOrder": 90,
+    "isSortable": false
   },
   {
     "attributeCode": "br_lumber_length",
@@ -974,7 +1008,8 @@
     "isFilterable": false,
     "isComparable": false,
     "isVisibleOnFront": true,
-    "sortOrder": 91
+    "sortOrder": 91,
+    "isSortable": false
   },
   {
     "attributeCode": "br_deck_material_type",
@@ -992,7 +1027,8 @@
       "Composite",
       "PVC",
       "Aluminum"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_deck_compatible",
@@ -1003,7 +1039,8 @@
     "isFilterable": false,
     "isComparable": false,
     "isVisibleOnFront": true,
-    "sortOrder": 93
+    "sortOrder": 93,
+    "isSortable": false
   },
   {
     "attributeCode": "br_deck_railing_compatible",
@@ -1014,7 +1051,8 @@
     "isFilterable": false,
     "isComparable": false,
     "isVisibleOnFront": true,
-    "sortOrder": 94
+    "sortOrder": 94,
+    "isSortable": false
   },
   {
     "attributeCode": "br_deck_shape",
@@ -1030,7 +1068,8 @@
       "Square Edge",
       "Grooved Edge",
       "Tongue & Groove"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_room_category",
@@ -1049,7 +1088,8 @@
       "Bedroom",
       "Garage",
       "Exterior"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_package_tier",
@@ -1066,7 +1106,8 @@
       "Standard",
       "Professional",
       "Complete"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_store_velocity_category",
@@ -1083,7 +1124,8 @@
       "Medium-Moving",
       "Slow-Moving",
       "Seasonal"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_restock_priority",
@@ -1099,7 +1141,8 @@
       "High",
       "Medium",
       "Low"
-    ]
+    ],
+    "isSortable": false
   },
   {
     "attributeCode": "br_recommended_restock_quantity",
@@ -1110,7 +1153,8 @@
     "isFilterable": false,
     "isComparable": false,
     "isVisibleOnFront": false,
-    "sortOrder": 102
+    "sortOrder": 102,
+    "isSortable": false
   },
   {
     "attributeCode": "br_typical_days_supply",
@@ -1121,6 +1165,7 @@
     "isFilterable": false,
     "isComparable": false,
     "isVisibleOnFront": false,
-    "sortOrder": 103
+    "sortOrder": 103,
+    "isSortable": false
   }
 ]
