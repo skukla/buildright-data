@@ -2,64 +2,6 @@
     {
         "attribute": {
             "entity_type_id": 4,
-            "attribute_code": "br_product_category",
-            "frontend_input": "select",
-            "backend_type": "varchar",
-            "scope": "global",
-            "is_required": 1,
-            "is_unique": "0",
-            "default_frontend_label": "Product Category",
-            "is_html_allowed_on_front": false,
-            "used_for_sort_by": "0",
-            "is_filterable": 1,
-            "is_filterable_in_search": true,
-            "is_searchable": "1",
-            "is_visible_in_advanced_search": "1",
-            "is_comparable": 1,
-            "is_used_for_promo_rules": true,
-            "is_visible_on_front": 1,
-            "used_in_product_listing": "0",
-            "position": 0,
-            "apply_to": [],
-            "is_user_defined": true,
-            "source_model": "Magento\\Eav\\Model\\Entity\\Attribute\\Source\\Table",
-            "options": [
-                {
-                    "label": "Structural Materials",
-                    "value": "Structural Materials",
-                    "sort_order": 0,
-                    "is_default": true
-                },
-                {
-                    "label": "Framing & Insulation",
-                    "value": "Framing & Insulation",
-                    "sort_order": 1,
-                    "is_default": false
-                },
-                {
-                    "label": "Windows & Doors",
-                    "value": "Windows & Doors",
-                    "sort_order": 2,
-                    "is_default": false
-                },
-                {
-                    "label": "Fasteners & Hardware",
-                    "value": "Fasteners & Hardware",
-                    "sort_order": 3,
-                    "is_default": false
-                },
-                {
-                    "label": "Safety Equipment",
-                    "value": "Safety Equipment",
-                    "sort_order": 4,
-                    "is_default": false
-                }
-            ]
-        }
-    },
-    {
-        "attribute": {
-            "entity_type_id": 4,
             "attribute_code": "br_brand",
             "frontend_input": "select",
             "backend_type": "varchar",

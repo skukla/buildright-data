@@ -2,6 +2,11 @@
   "name": "BuildRight Catalog",
   "children": [
     {
+      "name": "All Products",
+      "urlKey": "all-products",
+      "aggregateAll": true
+    },
+    {
       "name": "Structural Materials",
       "urlKey": "structural-materials",
       "children": [

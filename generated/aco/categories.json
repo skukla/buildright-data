@@ -1,5 +1,15 @@
 [
   {
+    "slug": "all-products",
+    "source": {
+      "locale": "en-US"
+    },
+    "name": "All Products",
+    "families": [
+      "default"
+    ]
+  },
+  {
     "slug": "structural-materials",
     "source": {
       "locale": "en-US"

@@ -3,1291 +3,1291 @@
         {
             "sku": "ELC-13E2F575",
             "source_code": "warehouse_west",
-            "quantity": 1333,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F575",
-            "source_code": "warehouse_central",
-            "quantity": 1230,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F575",
-            "source_code": "warehouse_east",
-            "quantity": 746,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F575",
-            "source_code": "store_austin",
-            "quantity": 991,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F575",
-            "source_code": "store_san_antonio",
-            "quantity": 1174,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F574",
-            "source_code": "warehouse_west",
-            "quantity": 375,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F574",
-            "source_code": "warehouse_central",
-            "quantity": 817,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F574",
-            "source_code": "warehouse_east",
-            "quantity": 382,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F574",
-            "source_code": "store_austin",
-            "quantity": 944,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F574",
-            "source_code": "store_san_antonio",
-            "quantity": 540,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F573",
-            "source_code": "warehouse_west",
-            "quantity": 214,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F573",
-            "source_code": "warehouse_central",
-            "quantity": 545,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F573",
-            "source_code": "warehouse_east",
-            "quantity": 1267,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F573",
-            "source_code": "store_austin",
-            "quantity": 1035,
-            "status": 1
-        },
-        {
-            "sku": "ELC-13E2F573",
-            "source_code": "store_san_antonio",
-            "quantity": 805,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA341",
-            "source_code": "warehouse_west",
-            "quantity": 1519,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA341",
-            "source_code": "warehouse_central",
-            "quantity": 856,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA341",
-            "source_code": "warehouse_east",
-            "quantity": 1127,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA341",
-            "source_code": "store_austin",
-            "quantity": 640,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA341",
-            "source_code": "store_san_antonio",
-            "quantity": 175,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA340",
-            "source_code": "warehouse_west",
-            "quantity": 286,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA340",
-            "source_code": "warehouse_central",
-            "quantity": 1335,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA340",
-            "source_code": "warehouse_east",
-            "quantity": 1597,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA340",
-            "source_code": "store_austin",
-            "quantity": 1636,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA340",
-            "source_code": "store_san_antonio",
-            "quantity": 1182,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33F",
-            "source_code": "warehouse_west",
-            "quantity": 298,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33F",
-            "source_code": "warehouse_central",
-            "quantity": 1529,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33F",
-            "source_code": "warehouse_east",
-            "quantity": 452,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33F",
-            "source_code": "store_austin",
-            "quantity": 1558,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33F",
-            "source_code": "store_san_antonio",
-            "quantity": 1181,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33E",
-            "source_code": "warehouse_west",
-            "quantity": 508,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33E",
-            "source_code": "warehouse_central",
-            "quantity": 698,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33E",
-            "source_code": "warehouse_east",
-            "quantity": 290,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33E",
-            "source_code": "store_austin",
-            "quantity": 1558,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33E",
-            "source_code": "store_san_antonio",
-            "quantity": 881,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33D",
-            "source_code": "warehouse_west",
-            "quantity": 1299,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33D",
-            "source_code": "warehouse_central",
-            "quantity": 115,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33D",
-            "source_code": "warehouse_east",
-            "quantity": 1148,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33D",
-            "source_code": "store_austin",
-            "quantity": 450,
-            "status": 1
-        },
-        {
-            "sku": "ELC-3AFEA33D",
-            "source_code": "store_san_antonio",
-            "quantity": 1993,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194300",
-            "source_code": "warehouse_west",
-            "quantity": 1563,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194300",
-            "source_code": "warehouse_central",
-            "quantity": 1636,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194300",
-            "source_code": "warehouse_east",
-            "quantity": 1356,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194300",
-            "source_code": "store_austin",
-            "quantity": 1740,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194300",
-            "source_code": "store_san_antonio",
-            "quantity": 473,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194301",
-            "source_code": "warehouse_west",
-            "quantity": 110,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194301",
-            "source_code": "warehouse_central",
-            "quantity": 1627,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194301",
-            "source_code": "warehouse_east",
-            "quantity": 1661,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194301",
-            "source_code": "store_austin",
-            "quantity": 563,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194301",
-            "source_code": "store_san_antonio",
-            "quantity": 865,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194317",
-            "source_code": "warehouse_west",
-            "quantity": 815,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194317",
-            "source_code": "warehouse_central",
-            "quantity": 1006,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194317",
-            "source_code": "warehouse_east",
-            "quantity": 1111,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194317",
-            "source_code": "store_austin",
-            "quantity": 1726,
-            "status": 1
-        },
-        {
-            "sku": "ELC-26194317",
-            "source_code": "store_san_antonio",
-            "quantity": 297,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF6",
-            "source_code": "warehouse_west",
-            "quantity": 1028,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF6",
-            "source_code": "warehouse_central",
-            "quantity": 1309,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF6",
-            "source_code": "warehouse_east",
-            "quantity": 1451,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF6",
-            "source_code": "store_austin",
-            "quantity": 1738,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF6",
-            "source_code": "store_san_antonio",
-            "quantity": 1811,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF5",
-            "source_code": "warehouse_west",
-            "quantity": 719,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF5",
-            "source_code": "warehouse_central",
             "quantity": 1847,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF5",
-            "source_code": "warehouse_east",
-            "quantity": 217,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF5",
-            "source_code": "store_austin",
-            "quantity": 865,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF5",
-            "source_code": "store_san_antonio",
-            "quantity": 769,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF4",
-            "source_code": "warehouse_west",
-            "quantity": 1574,
-            "status": 1
-        },
-        {
-            "sku": "PLM-72E0EAF4",
+            "sku": "ELC-13E2F575",
             "source_code": "warehouse_central",
-            "quantity": 147,
+            "quantity": 740,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF4",
+            "sku": "ELC-13E2F575",
             "source_code": "warehouse_east",
-            "quantity": 290,
+            "quantity": 1791,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF4",
+            "sku": "ELC-13E2F575",
             "source_code": "store_austin",
-            "quantity": 1384,
+            "quantity": 1989,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF4",
+            "sku": "ELC-13E2F575",
             "source_code": "store_san_antonio",
-            "quantity": 1132,
+            "quantity": 1123,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF3",
+            "sku": "ELC-13E2F574",
             "source_code": "warehouse_west",
-            "quantity": 1142,
+            "quantity": 1884,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF3",
+            "sku": "ELC-13E2F574",
             "source_code": "warehouse_central",
-            "quantity": 741,
+            "quantity": 392,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF3",
+            "sku": "ELC-13E2F574",
             "source_code": "warehouse_east",
-            "quantity": 346,
+            "quantity": 928,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF3",
+            "sku": "ELC-13E2F574",
             "source_code": "store_austin",
-            "quantity": 906,
+            "quantity": 771,
             "status": 1
         },
         {
-            "sku": "PLM-72E0EAF3",
+            "sku": "ELC-13E2F574",
             "source_code": "store_san_antonio",
-            "quantity": 798,
+            "quantity": 1768,
             "status": 1
         },
         {
-            "sku": "PLM-32EA9734",
+            "sku": "ELC-13E2F573",
             "source_code": "warehouse_west",
-            "quantity": 1997,
+            "quantity": 1938,
             "status": 1
         },
         {
-            "sku": "PLM-32EA9734",
+            "sku": "ELC-13E2F573",
             "source_code": "warehouse_central",
-            "quantity": 372,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9734",
-            "source_code": "warehouse_east",
-            "quantity": 1877,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9734",
-            "source_code": "store_austin",
-            "quantity": 261,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9734",
-            "source_code": "store_san_antonio",
-            "quantity": 222,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9733",
-            "source_code": "warehouse_west",
-            "quantity": 546,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9733",
-            "source_code": "warehouse_central",
-            "quantity": 269,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9733",
-            "source_code": "warehouse_east",
-            "quantity": 772,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9733",
-            "source_code": "store_austin",
-            "quantity": 1223,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9733",
-            "source_code": "store_san_antonio",
-            "quantity": 1712,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9732",
-            "source_code": "warehouse_west",
             "quantity": 1311,
             "status": 1
         },
         {
-            "sku": "PLM-32EA9732",
-            "source_code": "warehouse_central",
-            "quantity": 1695,
-            "status": 1
-        },
-        {
-            "sku": "PLM-32EA9732",
+            "sku": "ELC-13E2F573",
             "source_code": "warehouse_east",
-            "quantity": 267,
+            "quantity": 1621,
             "status": 1
         },
         {
-            "sku": "PLM-32EA9732",
+            "sku": "ELC-13E2F573",
             "source_code": "store_austin",
-            "quantity": 739,
+            "quantity": 153,
             "status": 1
         },
         {
-            "sku": "PLM-32EA9732",
+            "sku": "ELC-13E2F573",
             "source_code": "store_san_antonio",
-            "quantity": 1910,
+            "quantity": 1619,
             "status": 1
         },
         {
-            "sku": "PLM-6B9D3680",
+            "sku": "ELC-3AFEA341",
             "source_code": "warehouse_west",
-            "quantity": 528,
+            "quantity": 544,
             "status": 1
         },
         {
-            "sku": "PLM-6B9D3680",
+            "sku": "ELC-3AFEA341",
             "source_code": "warehouse_central",
-            "quantity": 895,
+            "quantity": 1232,
             "status": 1
         },
         {
-            "sku": "PLM-6B9D3680",
+            "sku": "ELC-3AFEA341",
             "source_code": "warehouse_east",
-            "quantity": 489,
+            "quantity": 1753,
             "status": 1
         },
         {
-            "sku": "PLM-6B9D3680",
+            "sku": "ELC-3AFEA341",
             "source_code": "store_austin",
-            "quantity": 1250,
+            "quantity": 132,
             "status": 1
         },
         {
-            "sku": "PLM-6B9D3680",
+            "sku": "ELC-3AFEA341",
             "source_code": "store_san_antonio",
-            "quantity": 510,
-            "status": 1
-        },
-        {
-            "sku": "PLM-6B9D367F",
-            "source_code": "warehouse_west",
-            "quantity": 1015,
-            "status": 1
-        },
-        {
-            "sku": "PLM-6B9D367F",
-            "source_code": "warehouse_central",
             "quantity": 1966,
             "status": 1
         },
         {
+            "sku": "ELC-3AFEA340",
+            "source_code": "warehouse_west",
+            "quantity": 1810,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA340",
+            "source_code": "warehouse_central",
+            "quantity": 139,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA340",
+            "source_code": "warehouse_east",
+            "quantity": 1254,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA340",
+            "source_code": "store_austin",
+            "quantity": 360,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA340",
+            "source_code": "store_san_antonio",
+            "quantity": 116,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33F",
+            "source_code": "warehouse_west",
+            "quantity": 1326,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33F",
+            "source_code": "warehouse_central",
+            "quantity": 614,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33F",
+            "source_code": "warehouse_east",
+            "quantity": 340,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33F",
+            "source_code": "store_austin",
+            "quantity": 474,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33F",
+            "source_code": "store_san_antonio",
+            "quantity": 1384,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33E",
+            "source_code": "warehouse_west",
+            "quantity": 139,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33E",
+            "source_code": "warehouse_central",
+            "quantity": 1187,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33E",
+            "source_code": "warehouse_east",
+            "quantity": 1294,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33E",
+            "source_code": "store_austin",
+            "quantity": 956,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33E",
+            "source_code": "store_san_antonio",
+            "quantity": 643,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33D",
+            "source_code": "warehouse_west",
+            "quantity": 116,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33D",
+            "source_code": "warehouse_central",
+            "quantity": 469,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33D",
+            "source_code": "warehouse_east",
+            "quantity": 798,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33D",
+            "source_code": "store_austin",
+            "quantity": 1264,
+            "status": 1
+        },
+        {
+            "sku": "ELC-3AFEA33D",
+            "source_code": "store_san_antonio",
+            "quantity": 1815,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194300",
+            "source_code": "warehouse_west",
+            "quantity": 1225,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194300",
+            "source_code": "warehouse_central",
+            "quantity": 326,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194300",
+            "source_code": "warehouse_east",
+            "quantity": 384,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194300",
+            "source_code": "store_austin",
+            "quantity": 521,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194300",
+            "source_code": "store_san_antonio",
+            "quantity": 1290,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194301",
+            "source_code": "warehouse_west",
+            "quantity": 1643,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194301",
+            "source_code": "warehouse_central",
+            "quantity": 260,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194301",
+            "source_code": "warehouse_east",
+            "quantity": 1714,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194301",
+            "source_code": "store_austin",
+            "quantity": 781,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194301",
+            "source_code": "store_san_antonio",
+            "quantity": 1866,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194317",
+            "source_code": "warehouse_west",
+            "quantity": 668,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194317",
+            "source_code": "warehouse_central",
+            "quantity": 1725,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194317",
+            "source_code": "warehouse_east",
+            "quantity": 1100,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194317",
+            "source_code": "store_austin",
+            "quantity": 657,
+            "status": 1
+        },
+        {
+            "sku": "ELC-26194317",
+            "source_code": "store_san_antonio",
+            "quantity": 1356,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF6",
+            "source_code": "warehouse_west",
+            "quantity": 1591,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF6",
+            "source_code": "warehouse_central",
+            "quantity": 935,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF6",
+            "source_code": "warehouse_east",
+            "quantity": 997,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF6",
+            "source_code": "store_austin",
+            "quantity": 239,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF6",
+            "source_code": "store_san_antonio",
+            "quantity": 487,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF5",
+            "source_code": "warehouse_west",
+            "quantity": 1124,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF5",
+            "source_code": "warehouse_central",
+            "quantity": 1421,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF5",
+            "source_code": "warehouse_east",
+            "quantity": 839,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF5",
+            "source_code": "store_austin",
+            "quantity": 1086,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF5",
+            "source_code": "store_san_antonio",
+            "quantity": 1918,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF4",
+            "source_code": "warehouse_west",
+            "quantity": 1020,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF4",
+            "source_code": "warehouse_central",
+            "quantity": 451,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF4",
+            "source_code": "warehouse_east",
+            "quantity": 631,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF4",
+            "source_code": "store_austin",
+            "quantity": 1835,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF4",
+            "source_code": "store_san_antonio",
+            "quantity": 969,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF3",
+            "source_code": "warehouse_west",
+            "quantity": 1434,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF3",
+            "source_code": "warehouse_central",
+            "quantity": 765,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF3",
+            "source_code": "warehouse_east",
+            "quantity": 1675,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF3",
+            "source_code": "store_austin",
+            "quantity": 109,
+            "status": 1
+        },
+        {
+            "sku": "PLM-72E0EAF3",
+            "source_code": "store_san_antonio",
+            "quantity": 1628,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9734",
+            "source_code": "warehouse_west",
+            "quantity": 1246,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9734",
+            "source_code": "warehouse_central",
+            "quantity": 955,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9734",
+            "source_code": "warehouse_east",
+            "quantity": 112,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9734",
+            "source_code": "store_austin",
+            "quantity": 873,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9734",
+            "source_code": "store_san_antonio",
+            "quantity": 1152,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9733",
+            "source_code": "warehouse_west",
+            "quantity": 1425,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9733",
+            "source_code": "warehouse_central",
+            "quantity": 1794,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9733",
+            "source_code": "warehouse_east",
+            "quantity": 805,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9733",
+            "source_code": "store_austin",
+            "quantity": 778,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9733",
+            "source_code": "store_san_antonio",
+            "quantity": 1872,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9732",
+            "source_code": "warehouse_west",
+            "quantity": 1929,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9732",
+            "source_code": "warehouse_central",
+            "quantity": 1148,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9732",
+            "source_code": "warehouse_east",
+            "quantity": 1883,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9732",
+            "source_code": "store_austin",
+            "quantity": 1951,
+            "status": 1
+        },
+        {
+            "sku": "PLM-32EA9732",
+            "source_code": "store_san_antonio",
+            "quantity": 860,
+            "status": 1
+        },
+        {
+            "sku": "PLM-6B9D3680",
+            "source_code": "warehouse_west",
+            "quantity": 605,
+            "status": 1
+        },
+        {
+            "sku": "PLM-6B9D3680",
+            "source_code": "warehouse_central",
+            "quantity": 1783,
+            "status": 1
+        },
+        {
+            "sku": "PLM-6B9D3680",
+            "source_code": "warehouse_east",
+            "quantity": 1545,
+            "status": 1
+        },
+        {
+            "sku": "PLM-6B9D3680",
+            "source_code": "store_austin",
+            "quantity": 717,
+            "status": 1
+        },
+        {
+            "sku": "PLM-6B9D3680",
+            "source_code": "store_san_antonio",
+            "quantity": 915,
+            "status": 1
+        },
+        {
+            "sku": "PLM-6B9D367F",
+            "source_code": "warehouse_west",
+            "quantity": 1252,
+            "status": 1
+        },
+        {
+            "sku": "PLM-6B9D367F",
+            "source_code": "warehouse_central",
+            "quantity": 400,
+            "status": 1
+        },
+        {
             "sku": "PLM-6B9D367F",
             "source_code": "warehouse_east",
-            "quantity": 453,
+            "quantity": 405,
             "status": 1
         },
         {
             "sku": "PLM-6B9D367F",
             "source_code": "store_austin",
-            "quantity": 1415,
+            "quantity": 1279,
             "status": 1
         },
         {
             "sku": "PLM-6B9D367F",
             "source_code": "store_san_antonio",
-            "quantity": 1784,
+            "quantity": 712,
             "status": 1
         },
         {
             "sku": "PLM-6B9D3669",
             "source_code": "warehouse_west",
-            "quantity": 377,
+            "quantity": 636,
             "status": 1
         },
         {
             "sku": "PLM-6B9D3669",
             "source_code": "warehouse_central",
-            "quantity": 919,
+            "quantity": 723,
             "status": 1
         },
         {
             "sku": "PLM-6B9D3669",
             "source_code": "warehouse_east",
-            "quantity": 1516,
+            "quantity": 1082,
             "status": 1
         },
         {
             "sku": "PLM-6B9D3669",
             "source_code": "store_austin",
-            "quantity": 154,
+            "quantity": 352,
             "status": 1
         },
         {
             "sku": "PLM-6B9D3669",
             "source_code": "store_san_antonio",
-            "quantity": 1109,
+            "quantity": 312,
             "status": 1
         },
         {
             "sku": "HVC-6FACEF5",
             "source_code": "warehouse_west",
-            "quantity": 1589,
+            "quantity": 951,
             "status": 1
         },
         {
             "sku": "HVC-6FACEF5",
             "source_code": "warehouse_central",
-            "quantity": 998,
+            "quantity": 297,
             "status": 1
         },
         {
             "sku": "HVC-6FACEF5",
+            "source_code": "warehouse_east",
+            "quantity": 1632,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF5",
+            "source_code": "store_austin",
+            "quantity": 1124,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF5",
+            "source_code": "store_san_antonio",
+            "quantity": 1630,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF6",
+            "source_code": "warehouse_west",
+            "quantity": 275,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF6",
+            "source_code": "warehouse_central",
+            "quantity": 1828,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF6",
+            "source_code": "warehouse_east",
+            "quantity": 1173,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF6",
+            "source_code": "store_austin",
+            "quantity": 1614,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF6",
+            "source_code": "store_san_antonio",
+            "quantity": 1223,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF7",
+            "source_code": "warehouse_west",
+            "quantity": 1717,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF7",
+            "source_code": "warehouse_central",
+            "quantity": 932,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF7",
+            "source_code": "warehouse_east",
+            "quantity": 1572,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF7",
+            "source_code": "store_austin",
+            "quantity": 824,
+            "status": 1
+        },
+        {
+            "sku": "HVC-6FACEF7",
+            "source_code": "store_san_antonio",
+            "quantity": 514,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCACA",
+            "source_code": "warehouse_west",
+            "quantity": 173,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCACA",
+            "source_code": "warehouse_central",
+            "quantity": 1344,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCACA",
+            "source_code": "warehouse_east",
+            "quantity": 717,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCACA",
+            "source_code": "store_austin",
+            "quantity": 1357,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCACA",
+            "source_code": "store_san_antonio",
+            "quantity": 917,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC9",
+            "source_code": "warehouse_west",
+            "quantity": 1261,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC9",
+            "source_code": "warehouse_central",
+            "quantity": 364,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC9",
+            "source_code": "warehouse_east",
+            "quantity": 532,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC9",
+            "source_code": "store_austin",
+            "quantity": 1710,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC9",
+            "source_code": "store_san_antonio",
+            "quantity": 1594,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC8",
+            "source_code": "warehouse_west",
+            "quantity": 1462,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC8",
+            "source_code": "warehouse_central",
+            "quantity": 1168,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC8",
+            "source_code": "warehouse_east",
+            "quantity": 1403,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC8",
+            "source_code": "store_austin",
+            "quantity": 1509,
+            "status": 1
+        },
+        {
+            "sku": "HVC-387CCAC8",
+            "source_code": "store_san_antonio",
+            "quantity": 833,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D96",
+            "source_code": "warehouse_west",
+            "quantity": 539,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D96",
+            "source_code": "warehouse_central",
+            "quantity": 291,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D96",
+            "source_code": "warehouse_east",
+            "quantity": 989,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D96",
+            "source_code": "store_austin",
+            "quantity": 1363,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D96",
+            "source_code": "store_san_antonio",
+            "quantity": 735,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D95",
+            "source_code": "warehouse_west",
+            "quantity": 596,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D95",
+            "source_code": "warehouse_central",
+            "quantity": 1832,
+            "status": 1
+        },
+        {
+            "sku": "HVC-32C2D95",
             "source_code": "warehouse_east",
             "quantity": 1475,
             "status": 1
         },
         {
-            "sku": "HVC-6FACEF5",
-            "source_code": "store_austin",
-            "quantity": 1703,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF5",
-            "source_code": "store_san_antonio",
-            "quantity": 1377,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF6",
-            "source_code": "warehouse_west",
-            "quantity": 652,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF6",
-            "source_code": "warehouse_central",
-            "quantity": 882,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF6",
-            "source_code": "warehouse_east",
-            "quantity": 357,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF6",
-            "source_code": "store_austin",
-            "quantity": 852,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF6",
-            "source_code": "store_san_antonio",
-            "quantity": 1903,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF7",
-            "source_code": "warehouse_west",
-            "quantity": 452,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF7",
-            "source_code": "warehouse_central",
-            "quantity": 1656,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF7",
-            "source_code": "warehouse_east",
-            "quantity": 392,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF7",
-            "source_code": "store_austin",
-            "quantity": 1067,
-            "status": 1
-        },
-        {
-            "sku": "HVC-6FACEF7",
-            "source_code": "store_san_antonio",
-            "quantity": 796,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCACA",
-            "source_code": "warehouse_west",
-            "quantity": 1000,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCACA",
-            "source_code": "warehouse_central",
-            "quantity": 1338,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCACA",
-            "source_code": "warehouse_east",
-            "quantity": 435,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCACA",
-            "source_code": "store_austin",
-            "quantity": 976,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCACA",
-            "source_code": "store_san_antonio",
-            "quantity": 355,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC9",
-            "source_code": "warehouse_west",
-            "quantity": 572,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC9",
-            "source_code": "warehouse_central",
-            "quantity": 1215,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC9",
-            "source_code": "warehouse_east",
-            "quantity": 559,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC9",
-            "source_code": "store_austin",
-            "quantity": 1432,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC9",
-            "source_code": "store_san_antonio",
-            "quantity": 1205,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC8",
-            "source_code": "warehouse_west",
-            "quantity": 1463,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC8",
-            "source_code": "warehouse_central",
-            "quantity": 1908,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC8",
-            "source_code": "warehouse_east",
-            "quantity": 1641,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC8",
-            "source_code": "store_austin",
-            "quantity": 894,
-            "status": 1
-        },
-        {
-            "sku": "HVC-387CCAC8",
-            "source_code": "store_san_antonio",
-            "quantity": 1802,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D96",
-            "source_code": "warehouse_west",
-            "quantity": 842,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D96",
-            "source_code": "warehouse_central",
-            "quantity": 482,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D96",
-            "source_code": "warehouse_east",
-            "quantity": 1580,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D96",
-            "source_code": "store_austin",
-            "quantity": 405,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D96",
-            "source_code": "store_san_antonio",
-            "quantity": 216,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D95",
-            "source_code": "warehouse_west",
-            "quantity": 1131,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D95",
-            "source_code": "warehouse_central",
-            "quantity": 1254,
-            "status": 1
-        },
-        {
-            "sku": "HVC-32C2D95",
-            "source_code": "warehouse_east",
-            "quantity": 1887,
-            "status": 1
-        },
-        {
             "sku": "HVC-32C2D95",
             "source_code": "store_austin",
-            "quantity": 1225,
+            "quantity": 446,
             "status": 1
         },
         {
             "sku": "HVC-32C2D95",
             "source_code": "store_san_antonio",
-            "quantity": 1189,
+            "quantity": 1856,
             "status": 1
         },
         {
             "sku": "HVC-32C2D94",
             "source_code": "warehouse_west",
-            "quantity": 108,
+            "quantity": 1479,
             "status": 1
         },
         {
             "sku": "HVC-32C2D94",
             "source_code": "warehouse_central",
-            "quantity": 1149,
+            "quantity": 1914,
             "status": 1
         },
         {
             "sku": "HVC-32C2D94",
             "source_code": "warehouse_east",
-            "quantity": 1698,
+            "quantity": 1059,
             "status": 1
         },
         {
             "sku": "HVC-32C2D94",
             "source_code": "store_austin",
-            "quantity": 491,
+            "quantity": 1889,
             "status": 1
         },
         {
             "sku": "HVC-32C2D94",
             "source_code": "store_san_antonio",
-            "quantity": 1490,
+            "quantity": 155,
             "status": 1
         },
         {
             "sku": "HVC-32C2D7E",
             "source_code": "warehouse_west",
-            "quantity": 1079,
+            "quantity": 398,
             "status": 1
         },
         {
             "sku": "HVC-32C2D7E",
             "source_code": "warehouse_central",
-            "quantity": 1776,
+            "quantity": 829,
             "status": 1
         },
         {
             "sku": "HVC-32C2D7E",
             "source_code": "warehouse_east",
-            "quantity": 1113,
+            "quantity": 1944,
             "status": 1
         },
         {
             "sku": "HVC-32C2D7E",
             "source_code": "store_austin",
-            "quantity": 599,
+            "quantity": 982,
             "status": 1
         },
         {
             "sku": "HVC-32C2D7E",
-            "source_code": "store_san_antonio",
-            "quantity": 1892,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB1",
-            "source_code": "warehouse_west",
-            "quantity": 1307,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB1",
-            "source_code": "warehouse_central",
-            "quantity": 1505,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB1",
-            "source_code": "warehouse_east",
-            "quantity": 605,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB1",
-            "source_code": "store_austin",
-            "quantity": 1940,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB1",
-            "source_code": "store_san_antonio",
-            "quantity": 1897,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB0",
-            "source_code": "warehouse_west",
-            "quantity": 896,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB0",
-            "source_code": "warehouse_central",
-            "quantity": 1178,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB0",
-            "source_code": "warehouse_east",
-            "quantity": 1376,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB0",
-            "source_code": "store_austin",
-            "quantity": 494,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACB0",
             "source_code": "store_san_antonio",
             "quantity": 1368,
             "status": 1
         },
         {
-            "sku": "DWL-44CFACAF",
+            "sku": "DWL-44CFACB1",
             "source_code": "warehouse_west",
-            "quantity": 1432,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACAF",
-            "source_code": "warehouse_central",
-            "quantity": 983,
-            "status": 1
-        },
-        {
-            "sku": "DWL-44CFACAF",
-            "source_code": "warehouse_east",
             "quantity": 409,
             "status": 1
         },
         {
+            "sku": "DWL-44CFACB1",
+            "source_code": "warehouse_central",
+            "quantity": 1290,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB1",
+            "source_code": "warehouse_east",
+            "quantity": 1637,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB1",
+            "source_code": "store_austin",
+            "quantity": 1935,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB1",
+            "source_code": "store_san_antonio",
+            "quantity": 118,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB0",
+            "source_code": "warehouse_west",
+            "quantity": 1243,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB0",
+            "source_code": "warehouse_central",
+            "quantity": 1159,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB0",
+            "source_code": "warehouse_east",
+            "quantity": 1670,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB0",
+            "source_code": "store_austin",
+            "quantity": 118,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACB0",
+            "source_code": "store_san_antonio",
+            "quantity": 874,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACAF",
+            "source_code": "warehouse_west",
+            "quantity": 690,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACAF",
+            "source_code": "warehouse_central",
+            "quantity": 1531,
+            "status": 1
+        },
+        {
+            "sku": "DWL-44CFACAF",
+            "source_code": "warehouse_east",
+            "quantity": 960,
+            "status": 1
+        },
+        {
             "sku": "DWL-44CFACAF",
             "source_code": "store_austin",
-            "quantity": 715,
+            "quantity": 1291,
             "status": 1
         },
         {
             "sku": "DWL-44CFACAF",
             "source_code": "store_san_antonio",
-            "quantity": 277,
+            "quantity": 1857,
             "status": 1
         },
         {
             "sku": "DWL-85DC07A",
             "source_code": "warehouse_west",
-            "quantity": 1854,
+            "quantity": 927,
             "status": 1
         },
         {
             "sku": "DWL-85DC07A",
             "source_code": "warehouse_central",
-            "quantity": 965,
+            "quantity": 428,
             "status": 1
         },
         {
             "sku": "DWL-85DC07A",
             "source_code": "warehouse_east",
-            "quantity": 710,
+            "quantity": 1544,
             "status": 1
         },
         {
             "sku": "DWL-85DC07A",
             "source_code": "store_austin",
-            "quantity": 1514,
+            "quantity": 1747,
             "status": 1
         },
         {
             "sku": "DWL-85DC07A",
             "source_code": "store_san_antonio",
-            "quantity": 783,
+            "quantity": 1742,
             "status": 1
         },
         {
             "sku": "DWL-85DC07B",
             "source_code": "warehouse_west",
-            "quantity": 1417,
+            "quantity": 366,
             "status": 1
         },
         {
             "sku": "DWL-85DC07B",
             "source_code": "warehouse_central",
-            "quantity": 226,
+            "quantity": 339,
             "status": 1
         },
         {
             "sku": "DWL-85DC07B",
             "source_code": "warehouse_east",
-            "quantity": 415,
+            "quantity": 1016,
             "status": 1
         },
         {
             "sku": "DWL-85DC07B",
             "source_code": "store_austin",
-            "quantity": 1704,
+            "quantity": 1304,
             "status": 1
         },
         {
             "sku": "DWL-85DC07B",
             "source_code": "store_san_antonio",
-            "quantity": 1998,
+            "quantity": 669,
             "status": 1
         },
         {
             "sku": "DWL-85DC07C",
             "source_code": "warehouse_west",
-            "quantity": 1018,
+            "quantity": 1178,
             "status": 1
         },
         {
             "sku": "DWL-85DC07C",
             "source_code": "warehouse_central",
-            "quantity": 225,
+            "quantity": 627,
             "status": 1
         },
         {
             "sku": "DWL-85DC07C",
             "source_code": "warehouse_east",
-            "quantity": 1260,
+            "quantity": 991,
             "status": 1
         },
         {
             "sku": "DWL-85DC07C",
             "source_code": "store_austin",
-            "quantity": 857,
+            "quantity": 1712,
             "status": 1
         },
         {
             "sku": "DWL-85DC07C",
             "source_code": "store_san_antonio",
-            "quantity": 509,
+            "quantity": 1636,
             "status": 1
         },
         {
             "sku": "DWL-85DC07D",
             "source_code": "warehouse_west",
-            "quantity": 704,
+            "quantity": 1552,
             "status": 1
         },
         {
             "sku": "DWL-85DC07D",
             "source_code": "warehouse_central",
-            "quantity": 1437,
+            "quantity": 948,
             "status": 1
         },
         {
             "sku": "DWL-85DC07D",
             "source_code": "warehouse_east",
-            "quantity": 973,
+            "quantity": 807,
             "status": 1
         },
         {
             "sku": "DWL-85DC07D",
             "source_code": "store_austin",
-            "quantity": 1831,
+            "quantity": 1839,
             "status": 1
         },
         {
             "sku": "DWL-85DC07D",
             "source_code": "store_san_antonio",
-            "quantity": 1057,
+            "quantity": 531,
             "status": 1
         },
         {
             "sku": "APL-76891C6",
             "source_code": "warehouse_west",
-            "quantity": 1475,
+            "quantity": 849,
             "status": 1
         },
         {
             "sku": "APL-76891C6",
             "source_code": "warehouse_central",
-            "quantity": 699,
+            "quantity": 351,
             "status": 1
         },
         {
             "sku": "APL-76891C6",
             "source_code": "warehouse_east",
-            "quantity": 1493,
+            "quantity": 332,
             "status": 1
         },
         {
             "sku": "APL-76891C6",
             "source_code": "store_austin",
-            "quantity": 1244,
-            "status": 1
-        },
-        {
-            "sku": "APL-76891C6",
-            "source_code": "store_san_antonio",
             "quantity": 545,
             "status": 1
         },
         {
+            "sku": "APL-76891C6",
+            "source_code": "store_san_antonio",
+            "quantity": 371,
+            "status": 1
+        },
+        {
             "sku": "APL-76891C7",
             "source_code": "warehouse_west",
-            "quantity": 878,
+            "quantity": 1211,
             "status": 1
         },
         {
             "sku": "APL-76891C7",
             "source_code": "warehouse_central",
-            "quantity": 157,
+            "quantity": 1411,
             "status": 1
         },
         {
             "sku": "APL-76891C7",
             "source_code": "warehouse_east",
-            "quantity": 237,
+            "quantity": 719,
             "status": 1
         },
         {
             "sku": "APL-76891C7",
             "source_code": "store_austin",
-            "quantity": 201,
-            "status": 1
-        },
-        {
-            "sku": "APL-76891C7",
-            "source_code": "store_san_antonio",
             "quantity": 1009,
             "status": 1
         },
         {
+            "sku": "APL-76891C7",
+            "source_code": "store_san_antonio",
+            "quantity": 856,
+            "status": 1
+        },
+        {
             "sku": "APL-76891DD",
             "source_code": "warehouse_west",
-            "quantity": 369,
+            "quantity": 1724,
             "status": 1
         },
         {
             "sku": "APL-76891DD",
             "source_code": "warehouse_central",
-            "quantity": 670,
+            "quantity": 1350,
             "status": 1
         },
         {
             "sku": "APL-76891DD",
             "source_code": "warehouse_east",
-            "quantity": 1579,
+            "quantity": 823,
             "status": 1
         },
         {
             "sku": "APL-76891DD",
             "source_code": "store_austin",
-            "quantity": 188,
+            "quantity": 470,
             "status": 1
         },
         {
             "sku": "APL-76891DD",
             "source_code": "store_san_antonio",
-            "quantity": 1363,
+            "quantity": 1947,
             "status": 1
         },
         {
             "sku": "APL-76891DE",
             "source_code": "warehouse_west",
-            "quantity": 783,
+            "quantity": 1904,
             "status": 1
         },
         {
             "sku": "APL-76891DE",
             "source_code": "warehouse_central",
-            "quantity": 779,
+            "quantity": 1141,
             "status": 1
         },
         {
             "sku": "APL-76891DE",
             "source_code": "warehouse_east",
-            "quantity": 1687,
+            "quantity": 130,
             "status": 1
         },
         {
             "sku": "APL-76891DE",
             "source_code": "store_austin",
-            "quantity": 845,
+            "quantity": 160,
             "status": 1
         },
         {
             "sku": "APL-76891DE",
             "source_code": "store_san_antonio",
-            "quantity": 1930,
+            "quantity": 1724,
             "status": 1
         },
         {
             "sku": "APL-76891DF",
             "source_code": "warehouse_west",
-            "quantity": 249,
+            "quantity": 1955,
             "status": 1
         },
         {
             "sku": "APL-76891DF",
             "source_code": "warehouse_central",
-            "quantity": 1999,
+            "quantity": 1269,
             "status": 1
         },
         {
             "sku": "APL-76891DF",
             "source_code": "warehouse_east",
-            "quantity": 1052,
+            "quantity": 1185,
             "status": 1
         },
         {
             "sku": "APL-76891DF",
             "source_code": "store_austin",
-            "quantity": 1640,
+            "quantity": 964,
             "status": 1
         },
         {
             "sku": "APL-76891DF",
             "source_code": "store_san_antonio",
-            "quantity": 297,
+            "quantity": 828,
             "status": 1
         },
         {
@@ -1299,1705 +1299,1705 @@
         {
             "sku": "APL-76891E0",
             "source_code": "warehouse_central",
-            "quantity": 1563,
+            "quantity": 490,
             "status": 1
         },
         {
             "sku": "APL-76891E0",
             "source_code": "warehouse_east",
-            "quantity": 221,
+            "quantity": 880,
             "status": 1
         },
         {
             "sku": "APL-76891E0",
             "source_code": "store_austin",
-            "quantity": 692,
+            "quantity": 1784,
             "status": 1
         },
         {
             "sku": "APL-76891E0",
             "source_code": "store_san_antonio",
-            "quantity": 386,
+            "quantity": 651,
             "status": 1
         },
         {
             "sku": "APL-76891E1",
             "source_code": "warehouse_west",
-            "quantity": 1190,
+            "quantity": 313,
             "status": 1
         },
         {
             "sku": "APL-76891E1",
             "source_code": "warehouse_central",
-            "quantity": 286,
+            "quantity": 523,
             "status": 1
         },
         {
             "sku": "APL-76891E1",
             "source_code": "warehouse_east",
-            "quantity": 454,
+            "quantity": 1487,
             "status": 1
         },
         {
             "sku": "APL-76891E1",
             "source_code": "store_austin",
-            "quantity": 445,
+            "quantity": 935,
             "status": 1
         },
         {
             "sku": "APL-76891E1",
             "source_code": "store_san_antonio",
-            "quantity": 1313,
+            "quantity": 1755,
             "status": 1
         },
         {
             "sku": "APL-76891E2",
-            "source_code": "warehouse_west",
-            "quantity": 449,
-            "status": 1
-        },
-        {
-            "sku": "APL-76891E2",
-            "source_code": "warehouse_central",
-            "quantity": 771,
-            "status": 1
-        },
-        {
-            "sku": "APL-76891E2",
-            "source_code": "warehouse_east",
-            "quantity": 522,
-            "status": 1
-        },
-        {
-            "sku": "APL-76891E2",
-            "source_code": "store_austin",
-            "quantity": 172,
-            "status": 1
-        },
-        {
-            "sku": "APL-76891E2",
-            "source_code": "store_san_antonio",
-            "quantity": 1649,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-5B1A504F",
-            "source_code": "warehouse_west",
-            "quantity": 396,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-5B1A504F",
-            "source_code": "warehouse_central",
-            "quantity": 118,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-5B1A504F",
-            "source_code": "warehouse_east",
-            "quantity": 1636,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-5B1A504F",
-            "source_code": "store_austin",
-            "quantity": 1191,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-5B1A504F",
-            "source_code": "store_san_antonio",
-            "quantity": 1562,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-66971DA6",
-            "source_code": "warehouse_west",
-            "quantity": 713,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-66971DA6",
-            "source_code": "warehouse_central",
-            "quantity": 1183,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-66971DA6",
-            "source_code": "warehouse_east",
-            "quantity": 1161,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-66971DA6",
-            "source_code": "store_austin",
-            "quantity": 1890,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-66971DA6",
-            "source_code": "store_san_antonio",
-            "quantity": 1322,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-82DE83D",
-            "source_code": "warehouse_west",
-            "quantity": 801,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-82DE83D",
-            "source_code": "warehouse_central",
-            "quantity": 1178,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-82DE83D",
-            "source_code": "warehouse_east",
-            "quantity": 1296,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-82DE83D",
-            "source_code": "store_austin",
-            "quantity": 135,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-82DE83D",
-            "source_code": "store_san_antonio",
-            "quantity": 223,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
-            "source_code": "warehouse_west",
-            "quantity": 1025,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
-            "source_code": "warehouse_central",
-            "quantity": 1432,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
-            "source_code": "warehouse_east",
-            "quantity": 349,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
-            "source_code": "store_austin",
-            "quantity": 1165,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
-            "source_code": "store_san_antonio",
-            "quantity": 429,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-43142F46",
-            "source_code": "warehouse_west",
-            "quantity": 221,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-43142F46",
-            "source_code": "warehouse_central",
-            "quantity": 639,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-43142F46",
-            "source_code": "warehouse_east",
-            "quantity": 585,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-43142F46",
-            "source_code": "store_austin",
-            "quantity": 1419,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-43142F46",
-            "source_code": "store_san_antonio",
-            "quantity": 1128,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
-            "source_code": "warehouse_west",
-            "quantity": 1119,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
-            "source_code": "warehouse_central",
-            "quantity": 1507,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
-            "source_code": "warehouse_east",
-            "quantity": 177,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
-            "source_code": "store_austin",
-            "quantity": 624,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
-            "source_code": "store_san_antonio",
-            "quantity": 900,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-1F738ACE",
-            "source_code": "warehouse_west",
-            "quantity": 1800,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-1F738ACE",
-            "source_code": "warehouse_central",
-            "quantity": 1681,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-1F738ACE",
-            "source_code": "warehouse_east",
-            "quantity": 906,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-1F738ACE",
-            "source_code": "store_austin",
-            "quantity": 415,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-1F738ACE",
-            "source_code": "store_san_antonio",
-            "quantity": 691,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6042288F",
             "source_code": "warehouse_west",
             "quantity": 646,
             "status": 1
         },
         {
-            "sku": "STR-463A0B4C-VAR-6042288F",
+            "sku": "APL-76891E2",
             "source_code": "warehouse_central",
-            "quantity": 1870,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6042288F",
-            "source_code": "warehouse_east",
-            "quantity": 750,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6042288F",
-            "source_code": "store_austin",
-            "quantity": 1363,
-            "status": 1
-        },
-        {
-            "sku": "STR-463A0B4C-VAR-6042288F",
-            "source_code": "store_san_antonio",
             "quantity": 762,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6C4AC5C6",
-            "source_code": "warehouse_west",
-            "quantity": 1896,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-6C4AC5C6",
-            "source_code": "warehouse_central",
-            "quantity": 548,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-6C4AC5C6",
+            "sku": "APL-76891E2",
             "source_code": "warehouse_east",
-            "quantity": 1606,
+            "quantity": 1806,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6C4AC5C6",
+            "sku": "APL-76891E2",
             "source_code": "store_austin",
-            "quantity": 1751,
+            "quantity": 836,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6C4AC5C6",
+            "sku": "APL-76891E2",
             "source_code": "store_san_antonio",
-            "quantity": 1934,
+            "quantity": 1508,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "sku": "STR-463A0B4C-VAR-5B1A504F",
             "source_code": "warehouse_west",
-            "quantity": 193,
+            "quantity": 1444,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "sku": "STR-463A0B4C-VAR-5B1A504F",
             "source_code": "warehouse_central",
-            "quantity": 1954,
+            "quantity": 967,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "sku": "STR-463A0B4C-VAR-5B1A504F",
             "source_code": "warehouse_east",
-            "quantity": 742,
+            "quantity": 797,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "sku": "STR-463A0B4C-VAR-5B1A504F",
             "source_code": "store_austin",
-            "quantity": 1740,
+            "quantity": 1801,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "sku": "STR-463A0B4C-VAR-5B1A504F",
             "source_code": "store_san_antonio",
-            "quantity": 891,
+            "quantity": 1342,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6DD155EA",
+            "sku": "STR-463A0B4C-VAR-66971DA6",
             "source_code": "warehouse_west",
-            "quantity": 1856,
+            "quantity": 1719,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6DD155EA",
+            "sku": "STR-463A0B4C-VAR-66971DA6",
             "source_code": "warehouse_central",
-            "quantity": 1061,
+            "quantity": 185,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6DD155EA",
+            "sku": "STR-463A0B4C-VAR-66971DA6",
             "source_code": "warehouse_east",
-            "quantity": 1085,
+            "quantity": 1021,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6DD155EA",
+            "sku": "STR-463A0B4C-VAR-66971DA6",
             "source_code": "store_austin",
-            "quantity": 887,
+            "quantity": 633,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6DD155EA",
+            "sku": "STR-463A0B4C-VAR-66971DA6",
             "source_code": "store_san_antonio",
-            "quantity": 719,
+            "quantity": 550,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-3F12CED",
+            "sku": "STR-463A0B4C-VAR-82DE83D",
             "source_code": "warehouse_west",
-            "quantity": 229,
+            "quantity": 452,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-3F12CED",
+            "sku": "STR-463A0B4C-VAR-82DE83D",
             "source_code": "warehouse_central",
-            "quantity": 111,
+            "quantity": 1546,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-3F12CED",
+            "sku": "STR-463A0B4C-VAR-82DE83D",
             "source_code": "warehouse_east",
-            "quantity": 1239,
+            "quantity": 1816,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-3F12CED",
+            "sku": "STR-463A0B4C-VAR-82DE83D",
             "source_code": "store_austin",
-            "quantity": 433,
+            "quantity": 461,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-3F12CED",
+            "sku": "STR-463A0B4C-VAR-82DE83D",
             "source_code": "store_san_antonio",
-            "quantity": 1137,
+            "quantity": 946,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6042288F",
+            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
             "source_code": "warehouse_west",
-            "quantity": 300,
+            "quantity": 1319,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6042288F",
+            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
             "source_code": "warehouse_central",
-            "quantity": 877,
+            "quantity": 1183,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6042288F",
+            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
             "source_code": "warehouse_east",
-            "quantity": 1744,
+            "quantity": 861,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6042288F",
+            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
             "source_code": "store_austin",
-            "quantity": 179,
+            "quantity": 1550,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-6042288F",
+            "sku": "STR-463A0B4C-VAR-6C4AC5C6",
             "source_code": "store_san_antonio",
-            "quantity": 532,
+            "quantity": 428,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-3F61E452",
+            "sku": "STR-463A0B4C-VAR-43142F46",
             "source_code": "warehouse_west",
-            "quantity": 1460,
+            "quantity": 1725,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-3F61E452",
+            "sku": "STR-463A0B4C-VAR-43142F46",
             "source_code": "warehouse_central",
-            "quantity": 1247,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-3F61E452",
-            "source_code": "warehouse_east",
-            "quantity": 504,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-3F61E452",
-            "source_code": "store_austin",
-            "quantity": 1192,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-3F61E452",
-            "source_code": "store_san_antonio",
-            "quantity": 106,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-4ADC02FF",
-            "source_code": "warehouse_west",
-            "quantity": 1954,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-4ADC02FF",
-            "source_code": "warehouse_central",
-            "quantity": 1394,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-4ADC02FF",
-            "source_code": "warehouse_east",
             "quantity": 848,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-4ADC02FF",
-            "source_code": "store_austin",
-            "quantity": 1264,
+            "sku": "STR-463A0B4C-VAR-43142F46",
+            "source_code": "warehouse_east",
+            "quantity": 1546,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-4ADC02FF",
+            "sku": "STR-463A0B4C-VAR-43142F46",
+            "source_code": "store_austin",
+            "quantity": 1366,
+            "status": 1
+        },
+        {
+            "sku": "STR-463A0B4C-VAR-43142F46",
             "source_code": "store_san_antonio",
+            "quantity": 1937,
+            "status": 1
+        },
+        {
+            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
+            "source_code": "warehouse_west",
+            "quantity": 1273,
+            "status": 1
+        },
+        {
+            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
+            "source_code": "warehouse_central",
+            "quantity": 1771,
+            "status": 1
+        },
+        {
+            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
+            "source_code": "warehouse_east",
+            "quantity": 1392,
+            "status": 1
+        },
+        {
+            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
+            "source_code": "store_austin",
+            "quantity": 142,
+            "status": 1
+        },
+        {
+            "sku": "STR-463A0B4C-VAR-3EF5AA9B",
+            "source_code": "store_san_antonio",
+            "quantity": 684,
+            "status": 1
+        },
+        {
+            "sku": "STR-463A0B4C-VAR-1F738ACE",
+            "source_code": "warehouse_west",
             "quantity": 1645,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-1F0425FE",
-            "source_code": "warehouse_west",
-            "quantity": 238,
-            "status": 1
-        },
-        {
-            "sku": "STR-733B6241-VAR-1F0425FE",
+            "sku": "STR-463A0B4C-VAR-1F738ACE",
             "source_code": "warehouse_central",
-            "quantity": 1643,
+            "quantity": 1655,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-1F0425FE",
+            "sku": "STR-463A0B4C-VAR-1F738ACE",
             "source_code": "warehouse_east",
-            "quantity": 1714,
+            "quantity": 115,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-1F0425FE",
+            "sku": "STR-463A0B4C-VAR-1F738ACE",
             "source_code": "store_austin",
-            "quantity": 1984,
+            "quantity": 678,
             "status": 1
         },
         {
-            "sku": "STR-733B6241-VAR-1F0425FE",
+            "sku": "STR-463A0B4C-VAR-1F738ACE",
             "source_code": "store_san_antonio",
-            "quantity": 1654,
+            "quantity": 321,
             "status": 1
         },
         {
-            "sku": "STR-69D94856-VAR-726143D4",
+            "sku": "STR-463A0B4C-VAR-6042288F",
             "source_code": "warehouse_west",
-            "quantity": 1913,
+            "quantity": 778,
             "status": 1
         },
         {
-            "sku": "STR-69D94856-VAR-726143D4",
-            "source_code": "warehouse_central",
-            "quantity": 1247,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-726143D4",
-            "source_code": "warehouse_east",
-            "quantity": 805,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-726143D4",
-            "source_code": "store_austin",
-            "quantity": 1907,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-726143D4",
-            "source_code": "store_san_antonio",
-            "quantity": 722,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-64D99477",
-            "source_code": "warehouse_west",
-            "quantity": 210,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-64D99477",
-            "source_code": "warehouse_central",
-            "quantity": 1547,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-64D99477",
-            "source_code": "warehouse_east",
-            "quantity": 337,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-64D99477",
-            "source_code": "store_austin",
-            "quantity": 1815,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-64D99477",
-            "source_code": "store_san_antonio",
-            "quantity": 419,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-760DF261",
-            "source_code": "warehouse_west",
-            "quantity": 1517,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-760DF261",
-            "source_code": "warehouse_central",
-            "quantity": 770,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-760DF261",
-            "source_code": "warehouse_east",
-            "quantity": 237,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-760DF261",
-            "source_code": "store_austin",
-            "quantity": 361,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-760DF261",
-            "source_code": "store_san_antonio",
-            "quantity": 1062,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-65EDC14C",
-            "source_code": "warehouse_west",
-            "quantity": 935,
-            "status": 1
-        },
-        {
-            "sku": "STR-69D94856-VAR-65EDC14C",
+            "sku": "STR-463A0B4C-VAR-6042288F",
             "source_code": "warehouse_central",
             "quantity": 277,
             "status": 1
         },
         {
-            "sku": "STR-69D94856-VAR-65EDC14C",
+            "sku": "STR-463A0B4C-VAR-6042288F",
             "source_code": "warehouse_east",
-            "quantity": 1540,
+            "quantity": 1373,
             "status": 1
         },
         {
-            "sku": "STR-69D94856-VAR-65EDC14C",
+            "sku": "STR-463A0B4C-VAR-6042288F",
             "source_code": "store_austin",
-            "quantity": 140,
+            "quantity": 1346,
             "status": 1
         },
         {
-            "sku": "STR-69D94856-VAR-65EDC14C",
+            "sku": "STR-463A0B4C-VAR-6042288F",
             "source_code": "store_san_antonio",
-            "quantity": 1735,
+            "quantity": 1567,
             "status": 1
         },
         {
-            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
+            "sku": "STR-733B6241-VAR-6C4AC5C6",
             "source_code": "warehouse_west",
-            "quantity": 1805,
+            "quantity": 753,
             "status": 1
         },
         {
-            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
+            "sku": "STR-733B6241-VAR-6C4AC5C6",
             "source_code": "warehouse_central",
-            "quantity": 910,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
-            "source_code": "warehouse_east",
-            "quantity": 1292,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
-            "source_code": "store_austin",
-            "quantity": 1404,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
-            "source_code": "store_san_antonio",
-            "quantity": 772,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6720D21D",
-            "source_code": "warehouse_west",
-            "quantity": 1784,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6720D21D",
-            "source_code": "warehouse_central",
-            "quantity": 177,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6720D21D",
-            "source_code": "warehouse_east",
-            "quantity": 1954,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6720D21D",
-            "source_code": "store_austin",
-            "quantity": 1328,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6720D21D",
-            "source_code": "store_san_antonio",
-            "quantity": 817,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
-            "source_code": "warehouse_west",
-            "quantity": 846,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
-            "source_code": "warehouse_central",
-            "quantity": 152,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
-            "source_code": "warehouse_east",
-            "quantity": 1513,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
-            "source_code": "store_austin",
-            "quantity": 770,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
-            "source_code": "store_san_antonio",
-            "quantity": 1580,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6F827F1F",
-            "source_code": "warehouse_west",
-            "quantity": 802,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6F827F1F",
-            "source_code": "warehouse_central",
-            "quantity": 617,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6F827F1F",
-            "source_code": "warehouse_east",
-            "quantity": 657,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6F827F1F",
-            "source_code": "store_austin",
-            "quantity": 538,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-6F827F1F",
-            "source_code": "store_san_antonio",
-            "quantity": 882,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-39D41887",
-            "source_code": "warehouse_west",
-            "quantity": 577,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-39D41887",
-            "source_code": "warehouse_central",
-            "quantity": 1891,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-39D41887",
-            "source_code": "warehouse_east",
-            "quantity": 1493,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-39D41887",
-            "source_code": "store_austin",
-            "quantity": 895,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-39D41887",
-            "source_code": "store_san_antonio",
-            "quantity": 1387,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-77211F4C",
-            "source_code": "warehouse_west",
-            "quantity": 339,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-77211F4C",
-            "source_code": "warehouse_central",
-            "quantity": 727,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-77211F4C",
-            "source_code": "warehouse_east",
-            "quantity": 772,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-77211F4C",
-            "source_code": "store_austin",
-            "quantity": 1986,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-77211F4C",
-            "source_code": "store_san_antonio",
-            "quantity": 224,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-7D4359CB",
-            "source_code": "warehouse_west",
-            "quantity": 438,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-7D4359CB",
-            "source_code": "warehouse_central",
-            "quantity": 1026,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-7D4359CB",
-            "source_code": "warehouse_east",
-            "quantity": 895,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-7D4359CB",
-            "source_code": "store_austin",
-            "quantity": 608,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-7D4359CB",
-            "source_code": "store_san_antonio",
-            "quantity": 1472,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-ACC4938",
-            "source_code": "warehouse_west",
-            "quantity": 1131,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-ACC4938",
-            "source_code": "warehouse_central",
-            "quantity": 875,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-ACC4938",
-            "source_code": "warehouse_east",
-            "quantity": 550,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-ACC4938",
-            "source_code": "store_austin",
-            "quantity": 1035,
-            "status": 1
-        },
-        {
-            "sku": "FRM-4A08DB87-VAR-ACC4938",
-            "source_code": "store_san_antonio",
-            "quantity": 1844,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-726143D4",
-            "source_code": "warehouse_west",
-            "quantity": 1855,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-726143D4",
-            "source_code": "warehouse_central",
-            "quantity": 228,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-726143D4",
-            "source_code": "warehouse_east",
-            "quantity": 1330,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-726143D4",
-            "source_code": "store_austin",
-            "quantity": 785,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-726143D4",
-            "source_code": "store_san_antonio",
-            "quantity": 334,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-64D99477",
-            "source_code": "warehouse_west",
-            "quantity": 666,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-64D99477",
-            "source_code": "warehouse_central",
-            "quantity": 867,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-64D99477",
-            "source_code": "warehouse_east",
-            "quantity": 1614,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-64D99477",
-            "source_code": "store_austin",
-            "quantity": 1234,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-64D99477",
-            "source_code": "store_san_antonio",
-            "quantity": 1245,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-725CD2E8",
-            "source_code": "warehouse_west",
-            "quantity": 357,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-725CD2E8",
-            "source_code": "warehouse_central",
-            "quantity": 334,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-725CD2E8",
-            "source_code": "warehouse_east",
-            "quantity": 149,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-725CD2E8",
-            "source_code": "store_austin",
-            "quantity": 1436,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-725CD2E8",
-            "source_code": "store_san_antonio",
-            "quantity": 1210,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-6642C473",
-            "source_code": "warehouse_west",
-            "quantity": 1241,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-6642C473",
-            "source_code": "warehouse_central",
-            "quantity": 1622,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-6642C473",
-            "source_code": "warehouse_east",
-            "quantity": 761,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-6642C473",
-            "source_code": "store_austin",
-            "quantity": 833,
-            "status": 1
-        },
-        {
-            "sku": "FRM-51FF54AE-VAR-6642C473",
-            "source_code": "store_san_antonio",
-            "quantity": 981,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C113",
-            "source_code": "warehouse_west",
-            "quantity": 781,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C113",
-            "source_code": "warehouse_central",
-            "quantity": 722,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C113",
-            "source_code": "warehouse_east",
-            "quantity": 421,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C113",
-            "source_code": "store_austin",
-            "quantity": 883,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C113",
-            "source_code": "store_san_antonio",
             "quantity": 650,
             "status": 1
         },
         {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "sku": "STR-733B6241-VAR-6C4AC5C6",
+            "source_code": "warehouse_east",
+            "quantity": 1228,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6C4AC5C6",
+            "source_code": "store_austin",
+            "quantity": 1856,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6C4AC5C6",
+            "source_code": "store_san_antonio",
+            "quantity": 1212,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-72D4F5FD",
             "source_code": "warehouse_west",
+            "quantity": 868,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "source_code": "warehouse_central",
+            "quantity": 1543,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "source_code": "warehouse_east",
+            "quantity": 1589,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "source_code": "store_austin",
+            "quantity": 491,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-72D4F5FD",
+            "source_code": "store_san_antonio",
+            "quantity": 835,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6DD155EA",
+            "source_code": "warehouse_west",
+            "quantity": 1406,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6DD155EA",
+            "source_code": "warehouse_central",
+            "quantity": 1945,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6DD155EA",
+            "source_code": "warehouse_east",
+            "quantity": 235,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6DD155EA",
+            "source_code": "store_austin",
+            "quantity": 528,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6DD155EA",
+            "source_code": "store_san_antonio",
+            "quantity": 1834,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-3F12CED",
+            "source_code": "warehouse_west",
+            "quantity": 119,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-3F12CED",
+            "source_code": "warehouse_central",
+            "quantity": 1885,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-3F12CED",
+            "source_code": "warehouse_east",
+            "quantity": 894,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-3F12CED",
+            "source_code": "store_austin",
+            "quantity": 390,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-3F12CED",
+            "source_code": "store_san_antonio",
+            "quantity": 1843,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6042288F",
+            "source_code": "warehouse_west",
+            "quantity": 1181,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6042288F",
+            "source_code": "warehouse_central",
+            "quantity": 1671,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-6042288F",
+            "source_code": "warehouse_east",
             "quantity": 1857,
             "status": 1
         },
         {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
-            "source_code": "warehouse_central",
-            "quantity": 512,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
-            "source_code": "warehouse_east",
-            "quantity": 736,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "sku": "STR-733B6241-VAR-6042288F",
             "source_code": "store_austin",
-            "quantity": 845,
+            "quantity": 504,
             "status": 1
         },
         {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "sku": "STR-733B6241-VAR-6042288F",
             "source_code": "store_san_antonio",
-            "quantity": 704,
+            "quantity": 663,
             "status": 1
         },
         {
-            "sku": "WDR-4A6E5023-VAR-1589C119",
+            "sku": "STR-733B6241-VAR-3F61E452",
             "source_code": "warehouse_west",
-            "quantity": 995,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C119",
-            "source_code": "warehouse_central",
-            "quantity": 1062,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C119",
-            "source_code": "warehouse_east",
-            "quantity": 110,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C119",
-            "source_code": "store_austin",
-            "quantity": 860,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1589C119",
-            "source_code": "store_san_antonio",
-            "quantity": 617,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
-            "source_code": "warehouse_west",
-            "quantity": 135,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
-            "source_code": "warehouse_central",
-            "quantity": 1955,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
-            "source_code": "warehouse_east",
-            "quantity": 1408,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
-            "source_code": "store_austin",
-            "quantity": 613,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
-            "source_code": "store_san_antonio",
-            "quantity": 1244,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854DC",
-            "source_code": "warehouse_west",
-            "quantity": 801,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854DC",
-            "source_code": "warehouse_central",
-            "quantity": 408,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854DC",
-            "source_code": "warehouse_east",
-            "quantity": 1064,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854DC",
-            "source_code": "store_austin",
-            "quantity": 1442,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854DC",
-            "source_code": "store_san_antonio",
-            "quantity": 1172,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D1A",
-            "source_code": "warehouse_west",
-            "quantity": 1955,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D1A",
-            "source_code": "warehouse_central",
-            "quantity": 1485,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D1A",
-            "source_code": "warehouse_east",
-            "quantity": 1882,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D1A",
-            "source_code": "store_austin",
-            "quantity": 1129,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D1A",
-            "source_code": "store_san_antonio",
-            "quantity": 1507,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854E2",
-            "source_code": "warehouse_west",
-            "quantity": 1986,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854E2",
-            "source_code": "warehouse_central",
-            "quantity": 453,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854E2",
-            "source_code": "warehouse_east",
-            "quantity": 1949,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854E2",
-            "source_code": "store_austin",
-            "quantity": 1417,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-21B854E2",
-            "source_code": "store_san_antonio",
-            "quantity": 832,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D14",
-            "source_code": "warehouse_west",
-            "quantity": 1072,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D14",
-            "source_code": "warehouse_central",
-            "quantity": 1310,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D14",
-            "source_code": "warehouse_east",
-            "quantity": 1958,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D14",
-            "source_code": "store_austin",
-            "quantity": 470,
-            "status": 1
-        },
-        {
-            "sku": "WDR-4A6E5023-VAR-12301D14",
-            "source_code": "store_san_antonio",
-            "quantity": 706,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-1FF050D7",
-            "source_code": "warehouse_west",
-            "quantity": 1508,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-1FF050D7",
-            "source_code": "warehouse_central",
-            "quantity": 1165,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-1FF050D7",
-            "source_code": "warehouse_east",
-            "quantity": 888,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-1FF050D7",
-            "source_code": "store_austin",
-            "quantity": 1204,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-1FF050D7",
-            "source_code": "store_san_antonio",
             "quantity": 1820,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-1FF30B11",
-            "source_code": "warehouse_west",
-            "quantity": 229,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "sku": "STR-733B6241-VAR-3F61E452",
             "source_code": "warehouse_central",
-            "quantity": 400,
+            "quantity": 1085,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "sku": "STR-733B6241-VAR-3F61E452",
             "source_code": "warehouse_east",
-            "quantity": 1805,
+            "quantity": 852,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "sku": "STR-733B6241-VAR-3F61E452",
             "source_code": "store_austin",
-            "quantity": 1950,
+            "quantity": 1548,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "sku": "STR-733B6241-VAR-3F61E452",
             "source_code": "store_san_antonio",
-            "quantity": 144,
+            "quantity": 1627,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-7A2332D9",
-            "source_code": "warehouse_west",
-            "quantity": 1573,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A2332D9",
-            "source_code": "warehouse_central",
-            "quantity": 1651,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A2332D9",
-            "source_code": "warehouse_east",
-            "quantity": 554,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A2332D9",
-            "source_code": "store_austin",
-            "quantity": 1295,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A2332D9",
-            "source_code": "store_san_antonio",
-            "quantity": 458,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A25ED13",
-            "source_code": "warehouse_west",
-            "quantity": 1867,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A25ED13",
-            "source_code": "warehouse_central",
-            "quantity": 144,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A25ED13",
-            "source_code": "warehouse_east",
-            "quantity": 1179,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A25ED13",
-            "source_code": "store_austin",
-            "quantity": 1868,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-7A25ED13",
-            "source_code": "store_san_antonio",
-            "quantity": 1250,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-CE429D6",
-            "source_code": "warehouse_west",
-            "quantity": 112,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-CE429D6",
-            "source_code": "warehouse_central",
-            "quantity": 618,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-CE429D6",
-            "source_code": "warehouse_east",
-            "quantity": 1654,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-CE429D6",
-            "source_code": "store_austin",
-            "quantity": 1376,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-CE429D6",
-            "source_code": "store_san_antonio",
-            "quantity": 263,
-            "status": 1
-        },
-        {
-            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "sku": "STR-733B6241-VAR-4ADC02FF",
             "source_code": "warehouse_west",
             "quantity": 266,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "sku": "STR-733B6241-VAR-4ADC02FF",
             "source_code": "warehouse_central",
-            "quantity": 1015,
+            "quantity": 577,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "sku": "STR-733B6241-VAR-4ADC02FF",
             "source_code": "warehouse_east",
-            "quantity": 1993,
+            "quantity": 247,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "sku": "STR-733B6241-VAR-4ADC02FF",
             "source_code": "store_austin",
-            "quantity": 177,
+            "quantity": 1720,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "sku": "STR-733B6241-VAR-4ADC02FF",
             "source_code": "store_san_antonio",
-            "quantity": 274,
+            "quantity": 691,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "sku": "STR-733B6241-VAR-1F0425FE",
             "source_code": "warehouse_west",
-            "quantity": 745,
+            "quantity": 345,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "sku": "STR-733B6241-VAR-1F0425FE",
             "source_code": "warehouse_central",
-            "quantity": 773,
+            "quantity": 227,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "sku": "STR-733B6241-VAR-1F0425FE",
+            "source_code": "warehouse_east",
+            "quantity": 604,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-1F0425FE",
+            "source_code": "store_austin",
+            "quantity": 1344,
+            "status": 1
+        },
+        {
+            "sku": "STR-733B6241-VAR-1F0425FE",
+            "source_code": "store_san_antonio",
+            "quantity": 326,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-726143D4",
+            "source_code": "warehouse_west",
+            "quantity": 535,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-726143D4",
+            "source_code": "warehouse_central",
+            "quantity": 398,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-726143D4",
+            "source_code": "warehouse_east",
+            "quantity": 1490,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-726143D4",
+            "source_code": "store_austin",
+            "quantity": 559,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-726143D4",
+            "source_code": "store_san_antonio",
+            "quantity": 882,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-64D99477",
+            "source_code": "warehouse_west",
+            "quantity": 1092,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-64D99477",
+            "source_code": "warehouse_central",
+            "quantity": 1077,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-64D99477",
+            "source_code": "warehouse_east",
+            "quantity": 1635,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-64D99477",
+            "source_code": "store_austin",
+            "quantity": 664,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-64D99477",
+            "source_code": "store_san_antonio",
+            "quantity": 176,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-760DF261",
+            "source_code": "warehouse_west",
+            "quantity": 1644,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-760DF261",
+            "source_code": "warehouse_central",
+            "quantity": 848,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-760DF261",
+            "source_code": "warehouse_east",
+            "quantity": 560,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-760DF261",
+            "source_code": "store_austin",
+            "quantity": 889,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-760DF261",
+            "source_code": "store_san_antonio",
+            "quantity": 1105,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-65EDC14C",
+            "source_code": "warehouse_west",
+            "quantity": 1505,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-65EDC14C",
+            "source_code": "warehouse_central",
+            "quantity": 967,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-65EDC14C",
+            "source_code": "warehouse_east",
+            "quantity": 1150,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-65EDC14C",
+            "source_code": "store_austin",
+            "quantity": 724,
+            "status": 1
+        },
+        {
+            "sku": "STR-69D94856-VAR-65EDC14C",
+            "source_code": "store_san_antonio",
+            "quantity": 1741,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
+            "source_code": "warehouse_west",
+            "quantity": 229,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
+            "source_code": "warehouse_central",
+            "quantity": 1067,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
+            "source_code": "warehouse_east",
+            "quantity": 240,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
+            "source_code": "store_austin",
+            "quantity": 972,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6A49D5FE",
+            "source_code": "store_san_antonio",
+            "quantity": 1194,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6720D21D",
+            "source_code": "warehouse_west",
+            "quantity": 1614,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6720D21D",
+            "source_code": "warehouse_central",
+            "quantity": 1474,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6720D21D",
+            "source_code": "warehouse_east",
+            "quantity": 879,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6720D21D",
+            "source_code": "store_austin",
+            "quantity": 181,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6720D21D",
+            "source_code": "store_san_antonio",
+            "quantity": 1910,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
+            "source_code": "warehouse_west",
+            "quantity": 1283,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
+            "source_code": "warehouse_central",
+            "quantity": 524,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
+            "source_code": "warehouse_east",
+            "quantity": 1498,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
+            "source_code": "store_austin",
+            "quantity": 677,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-2BD7F6FE",
+            "source_code": "store_san_antonio",
+            "quantity": 184,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6F827F1F",
+            "source_code": "warehouse_west",
+            "quantity": 245,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6F827F1F",
+            "source_code": "warehouse_central",
+            "quantity": 179,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6F827F1F",
+            "source_code": "warehouse_east",
+            "quantity": 275,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6F827F1F",
+            "source_code": "store_austin",
+            "quantity": 1349,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-6F827F1F",
+            "source_code": "store_san_antonio",
+            "quantity": 583,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-39D41887",
+            "source_code": "warehouse_west",
+            "quantity": 1696,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-39D41887",
+            "source_code": "warehouse_central",
+            "quantity": 898,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-39D41887",
+            "source_code": "warehouse_east",
+            "quantity": 488,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-39D41887",
+            "source_code": "store_austin",
+            "quantity": 1672,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-39D41887",
+            "source_code": "store_san_antonio",
+            "quantity": 1329,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-77211F4C",
+            "source_code": "warehouse_west",
+            "quantity": 221,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-77211F4C",
+            "source_code": "warehouse_central",
+            "quantity": 207,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-77211F4C",
+            "source_code": "warehouse_east",
+            "quantity": 672,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-77211F4C",
+            "source_code": "store_austin",
+            "quantity": 332,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-77211F4C",
+            "source_code": "store_san_antonio",
+            "quantity": 1496,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-7D4359CB",
+            "source_code": "warehouse_west",
+            "quantity": 604,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-7D4359CB",
+            "source_code": "warehouse_central",
+            "quantity": 1277,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-7D4359CB",
+            "source_code": "warehouse_east",
+            "quantity": 480,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-7D4359CB",
+            "source_code": "store_austin",
+            "quantity": 1969,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-7D4359CB",
+            "source_code": "store_san_antonio",
+            "quantity": 643,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-ACC4938",
+            "source_code": "warehouse_west",
+            "quantity": 272,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-ACC4938",
+            "source_code": "warehouse_central",
+            "quantity": 616,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-ACC4938",
+            "source_code": "warehouse_east",
+            "quantity": 807,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-ACC4938",
+            "source_code": "store_austin",
+            "quantity": 1309,
+            "status": 1
+        },
+        {
+            "sku": "FRM-4A08DB87-VAR-ACC4938",
+            "source_code": "store_san_antonio",
+            "quantity": 1373,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-726143D4",
+            "source_code": "warehouse_west",
+            "quantity": 1754,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-726143D4",
+            "source_code": "warehouse_central",
+            "quantity": 1400,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-726143D4",
+            "source_code": "warehouse_east",
+            "quantity": 1384,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-726143D4",
+            "source_code": "store_austin",
+            "quantity": 1171,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-726143D4",
+            "source_code": "store_san_antonio",
+            "quantity": 786,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-64D99477",
+            "source_code": "warehouse_west",
+            "quantity": 1591,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-64D99477",
+            "source_code": "warehouse_central",
+            "quantity": 1640,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-64D99477",
+            "source_code": "warehouse_east",
+            "quantity": 120,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-64D99477",
+            "source_code": "store_austin",
+            "quantity": 1107,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-64D99477",
+            "source_code": "store_san_antonio",
+            "quantity": 433,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-725CD2E8",
+            "source_code": "warehouse_west",
+            "quantity": 1510,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-725CD2E8",
+            "source_code": "warehouse_central",
+            "quantity": 530,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-725CD2E8",
+            "source_code": "warehouse_east",
+            "quantity": 797,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-725CD2E8",
+            "source_code": "store_austin",
+            "quantity": 264,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-725CD2E8",
+            "source_code": "store_san_antonio",
+            "quantity": 1444,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-6642C473",
+            "source_code": "warehouse_west",
+            "quantity": 148,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-6642C473",
+            "source_code": "warehouse_central",
+            "quantity": 1846,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-6642C473",
+            "source_code": "warehouse_east",
+            "quantity": 1046,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-6642C473",
+            "source_code": "store_austin",
+            "quantity": 1668,
+            "status": 1
+        },
+        {
+            "sku": "FRM-51FF54AE-VAR-6642C473",
+            "source_code": "store_san_antonio",
+            "quantity": 1658,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C113",
+            "source_code": "warehouse_west",
+            "quantity": 1190,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C113",
+            "source_code": "warehouse_central",
+            "quantity": 1079,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C113",
+            "source_code": "warehouse_east",
+            "quantity": 1969,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C113",
+            "source_code": "store_austin",
+            "quantity": 556,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C113",
+            "source_code": "store_san_antonio",
+            "quantity": 495,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "source_code": "warehouse_west",
+            "quantity": 1331,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "source_code": "warehouse_central",
+            "quantity": 681,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "source_code": "warehouse_east",
+            "quantity": 484,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "source_code": "store_austin",
+            "quantity": 1486,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0E3",
+            "source_code": "store_san_antonio",
+            "quantity": 1637,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C119",
+            "source_code": "warehouse_west",
+            "quantity": 1595,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C119",
+            "source_code": "warehouse_central",
+            "quantity": 317,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C119",
+            "source_code": "warehouse_east",
+            "quantity": 1365,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C119",
+            "source_code": "store_austin",
+            "quantity": 1813,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1589C119",
+            "source_code": "store_san_antonio",
+            "quantity": 188,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
+            "source_code": "warehouse_west",
+            "quantity": 1168,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
+            "source_code": "warehouse_central",
+            "quantity": 897,
+            "status": 1
+        },
+        {
+            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
             "source_code": "warehouse_east",
             "quantity": 1784,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
             "source_code": "store_austin",
-            "quantity": 1060,
+            "quantity": 1468,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "sku": "WDR-4A6E5023-VAR-1E5EB0DD",
             "source_code": "store_san_antonio",
-            "quantity": 1833,
+            "quantity": 1351,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D517266",
+            "sku": "WDR-4A6E5023-VAR-21B854DC",
             "source_code": "warehouse_west",
-            "quantity": 907,
+            "quantity": 1443,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D517266",
+            "sku": "WDR-4A6E5023-VAR-21B854DC",
             "source_code": "warehouse_central",
-            "quantity": 1719,
+            "quantity": 930,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D517266",
+            "sku": "WDR-4A6E5023-VAR-21B854DC",
             "source_code": "warehouse_east",
-            "quantity": 1104,
+            "quantity": 1814,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D517266",
+            "sku": "WDR-4A6E5023-VAR-21B854DC",
             "source_code": "store_austin",
-            "quantity": 1124,
+            "quantity": 1865,
             "status": 1
         },
         {
-            "sku": "WDR-2B45972B-VAR-4D517266",
+            "sku": "WDR-4A6E5023-VAR-21B854DC",
             "source_code": "store_san_antonio",
-            "quantity": 751,
+            "quantity": 1998,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "sku": "WDR-4A6E5023-VAR-12301D1A",
             "source_code": "warehouse_west",
-            "quantity": 1806,
+            "quantity": 1454,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "sku": "WDR-4A6E5023-VAR-12301D1A",
             "source_code": "warehouse_central",
-            "quantity": 311,
+            "quantity": 1607,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "sku": "WDR-4A6E5023-VAR-12301D1A",
             "source_code": "warehouse_east",
-            "quantity": 820,
+            "quantity": 1889,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "sku": "WDR-4A6E5023-VAR-12301D1A",
             "source_code": "store_austin",
-            "quantity": 1627,
+            "quantity": 856,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "sku": "WDR-4A6E5023-VAR-12301D1A",
             "source_code": "store_san_antonio",
-            "quantity": 1934,
+            "quantity": 791,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "sku": "WDR-4A6E5023-VAR-21B854E2",
             "source_code": "warehouse_west",
-            "quantity": 1333,
+            "quantity": 1214,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "sku": "WDR-4A6E5023-VAR-21B854E2",
             "source_code": "warehouse_central",
-            "quantity": 876,
+            "quantity": 1732,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "sku": "WDR-4A6E5023-VAR-21B854E2",
             "source_code": "warehouse_east",
-            "quantity": 1615,
+            "quantity": 1400,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "sku": "WDR-4A6E5023-VAR-21B854E2",
             "source_code": "store_austin",
-            "quantity": 1001,
+            "quantity": 1902,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "sku": "WDR-4A6E5023-VAR-21B854E2",
             "source_code": "store_san_antonio",
-            "quantity": 1884,
+            "quantity": 1863,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "sku": "WDR-4A6E5023-VAR-12301D14",
             "source_code": "warehouse_west",
-            "quantity": 224,
+            "quantity": 574,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "sku": "WDR-4A6E5023-VAR-12301D14",
             "source_code": "warehouse_central",
-            "quantity": 792,
+            "quantity": 1988,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "sku": "WDR-4A6E5023-VAR-12301D14",
             "source_code": "warehouse_east",
-            "quantity": 1791,
+            "quantity": 1057,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "sku": "WDR-4A6E5023-VAR-12301D14",
             "source_code": "store_austin",
-            "quantity": 1268,
+            "quantity": 178,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "sku": "WDR-4A6E5023-VAR-12301D14",
             "source_code": "store_san_antonio",
-            "quantity": 1473,
+            "quantity": 1425,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD7",
+            "sku": "WDR-2B45972B-VAR-1FF050D7",
             "source_code": "warehouse_west",
-            "quantity": 560,
+            "quantity": 1811,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD7",
+            "sku": "WDR-2B45972B-VAR-1FF050D7",
             "source_code": "warehouse_central",
-            "quantity": 795,
+            "quantity": 106,
             "status": 1
         },
         {
-            "sku": "WDR-40659071-VAR-5EF51DD7",
+            "sku": "WDR-2B45972B-VAR-1FF050D7",
+            "source_code": "warehouse_east",
+            "quantity": 1764,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-1FF050D7",
+            "source_code": "store_austin",
+            "quantity": 1842,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-1FF050D7",
+            "source_code": "store_san_antonio",
+            "quantity": 762,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "source_code": "warehouse_west",
+            "quantity": 1388,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "source_code": "warehouse_central",
+            "quantity": 1515,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "source_code": "warehouse_east",
+            "quantity": 1562,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "source_code": "store_austin",
+            "quantity": 760,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-1FF30B11",
+            "source_code": "store_san_antonio",
+            "quantity": 1435,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A2332D9",
+            "source_code": "warehouse_west",
+            "quantity": 1023,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A2332D9",
+            "source_code": "warehouse_central",
+            "quantity": 1868,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A2332D9",
+            "source_code": "warehouse_east",
+            "quantity": 220,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A2332D9",
+            "source_code": "store_austin",
+            "quantity": 1117,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A2332D9",
+            "source_code": "store_san_antonio",
+            "quantity": 106,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A25ED13",
+            "source_code": "warehouse_west",
+            "quantity": 683,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A25ED13",
+            "source_code": "warehouse_central",
+            "quantity": 1718,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A25ED13",
             "source_code": "warehouse_east",
             "quantity": 1700,
             "status": 1
         },
         {
+            "sku": "WDR-2B45972B-VAR-7A25ED13",
+            "source_code": "store_austin",
+            "quantity": 706,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-7A25ED13",
+            "source_code": "store_san_antonio",
+            "quantity": 1934,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE429D6",
+            "source_code": "warehouse_west",
+            "quantity": 1518,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE429D6",
+            "source_code": "warehouse_central",
+            "quantity": 359,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE429D6",
+            "source_code": "warehouse_east",
+            "quantity": 619,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE429D6",
+            "source_code": "store_austin",
+            "quantity": 434,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE429D6",
+            "source_code": "store_san_antonio",
+            "quantity": 1890,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "source_code": "warehouse_west",
+            "quantity": 1044,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "source_code": "warehouse_central",
+            "quantity": 1379,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "source_code": "warehouse_east",
+            "quantity": 1771,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "source_code": "store_austin",
+            "quantity": 1201,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-CE16F9C",
+            "source_code": "store_san_antonio",
+            "quantity": 874,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "source_code": "warehouse_west",
+            "quantity": 715,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "source_code": "warehouse_central",
+            "quantity": 1035,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "source_code": "warehouse_east",
+            "quantity": 718,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "source_code": "store_austin",
+            "quantity": 1153,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D4EB82C",
+            "source_code": "store_san_antonio",
+            "quantity": 890,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D517266",
+            "source_code": "warehouse_west",
+            "quantity": 740,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D517266",
+            "source_code": "warehouse_central",
+            "quantity": 1837,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D517266",
+            "source_code": "warehouse_east",
+            "quantity": 195,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D517266",
+            "source_code": "store_austin",
+            "quantity": 1392,
+            "status": 1
+        },
+        {
+            "sku": "WDR-2B45972B-VAR-4D517266",
+            "source_code": "store_san_antonio",
+            "quantity": 777,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "source_code": "warehouse_west",
+            "quantity": 1175,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "source_code": "warehouse_central",
+            "quantity": 1818,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "source_code": "warehouse_east",
+            "quantity": 1852,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "source_code": "store_austin",
+            "quantity": 1730,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9CF",
+            "source_code": "store_san_antonio",
+            "quantity": 545,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "source_code": "warehouse_west",
+            "quantity": 492,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "source_code": "warehouse_central",
+            "quantity": 1125,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "source_code": "warehouse_east",
+            "quantity": 1303,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "source_code": "store_austin",
+            "quantity": 1325,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD3",
+            "source_code": "store_san_antonio",
+            "quantity": 883,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "source_code": "warehouse_west",
+            "quantity": 821,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "source_code": "warehouse_central",
+            "quantity": 1957,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "source_code": "warehouse_east",
+            "quantity": 876,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "source_code": "store_austin",
+            "quantity": 741,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-4E33E9D3",
+            "source_code": "store_san_antonio",
+            "quantity": 1820,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD7",
+            "source_code": "warehouse_west",
+            "quantity": 695,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD7",
+            "source_code": "warehouse_central",
+            "quantity": 1784,
+            "status": 1
+        },
+        {
+            "sku": "WDR-40659071-VAR-5EF51DD7",
+            "source_code": "warehouse_east",
+            "quantity": 370,
+            "status": 1
+        },
+        {
             "sku": "WDR-40659071-VAR-5EF51DD7",
             "source_code": "store_austin",
-            "quantity": 290,
+            "quantity": 248,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-5EF51DD7",
             "source_code": "store_san_antonio",
-            "quantity": 592,
+            "quantity": 619,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7CC7EFBA",
             "source_code": "warehouse_west",
-            "quantity": 989,
+            "quantity": 313,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7CC7EFBA",
             "source_code": "warehouse_central",
-            "quantity": 526,
+            "quantity": 405,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7CC7EFBA",
             "source_code": "warehouse_east",
-            "quantity": 1699,
+            "quantity": 1374,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7CC7EFBA",
             "source_code": "store_austin",
-            "quantity": 1958,
+            "quantity": 206,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7CC7EFBA",
             "source_code": "store_san_antonio",
-            "quantity": 454,
+            "quantity": 631,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7F7A9E36",
             "source_code": "warehouse_west",
-            "quantity": 1559,
+            "quantity": 1414,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7F7A9E36",
             "source_code": "warehouse_central",
-            "quantity": 1281,
+            "quantity": 588,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7F7A9E36",
             "source_code": "warehouse_east",
-            "quantity": 1807,
+            "quantity": 976,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7F7A9E36",
             "source_code": "store_austin",
-            "quantity": 915,
+            "quantity": 1625,
             "status": 1
         },
         {
             "sku": "WDR-40659071-VAR-7F7A9E36",
             "source_code": "store_san_antonio",
-            "quantity": 274,
+            "quantity": 605,
             "status": 1
         }
     ]
